@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<title>Sooji Yi</title>
+</head>
+
+<body>
+
+<table width="100%" border = "0"
+<tr>
+	<td colspan = "2" bgcolor = "#800000">
+		<h1 style="font-family:verdana; color:#FFFFFF;"> Administrative Page </h1>
+	</td>
+</tr>
+<tr valign="top">
+	<td bgcolor="#aaa" width="50">
+		<b> Adds and Updates</b><br /><br/>
+		<hr>
+
+<form method=get action="register.php">
+Add or Update a Player:<br>
+<b>Enter Player ID:</b><br>
+<input type="text" name="user"><BR>
+<b>Enter Player Name:</b><br>
+<input type="text" name="name"><BR>
+<b>Enter Player Country:</b><br>
+<input type="text" name="country"><BR>
+<b>Player Position:</b><br>
+<input type="radio" name="position" value ="Mid" checked> MID<BR>
+<input type="radio" name="position" value ="Top" checked> TOP<BR>
+<input type="radio" name="position" value ="Jungler" checked> JUNGLE<BR>
+<input type="radio" name="position" value ="Support" checked> SUPP<BR>
+<input type="radio" name="position" value ="Sub" checked> SUB <BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="addteam.php">
+Add or Update a Team:<br>
+<b>Enter Team Name:</b><br>
+<input type="text" name="team"><BR>
+<b>Enter Country Name:</b><br>
+<input type="text" name="country"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="addptoteam.php">
+Add or Update a Player to a Team:<br>
+<b>Enter Player ID:</b><br>
+<input type="text" name="user"><BR>
+<b>Enter Team Name:</b><br>
+<input type="text" name="name"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="addtourn.php">
+Add or Update a Tournament:<br>
+<b>Enter Tournament Name:</b><br>
+<input type="text" name="tournament"><BR>
+<b>Enter Location:</b><br>
+<input type="text" name="location"><BR>
+<b>Enter Start Date (YYYY-MM-DD):</b><br>
+<input type="date" name="startdate"><BR>
+<b>Enter End Date (YYYY-MM-DD):</b><br>
+<input type="date" name="enddate"><BR>
+<b>Enter Final Winner:</b><br>
+<input type="text" name="winner"><BR>
+<b>Enter Runner Up:</b><br>
+<input type="text" name="runnerup"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<td bgcolor = "#eee" width = "100" height = "200">
+	<b>Deletes</b> <br /><br/>
+
+	<hr>
+
+<form method=get action="deleteplayer.php">
+Delete a Player (WARNING: this deletes the player from the team):<br>
+<b>Enter Player ID:</b><br>
+<input type="text" name="user"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="deleteteam.php">
+Delete a Team (WARNING: this deletes ALL players in the team):<br>
+This does not delete the previous record from Tournaments:<br>
+<b>Enter Team Name:</b><br>
+<input type="text" name="team"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="deletepfromteam.php">
+Delete Player from a Team:<br>
+<b>Enter Player ID:</b><br>
+<input type="text" name="user"><BR>
+<b>Enter Team Name:</b><br>
+<input type="text" name="name"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="deletetourn.php">
+Delete a Tournament:<br>
+<b>Enter Tournament Name:</b><br>
+<input type="text" name="tournament"><BR>
+<input type="submit" value="Submit">
+</form>
+
+</td>
+
+</table>
+
+</body>
+</html>

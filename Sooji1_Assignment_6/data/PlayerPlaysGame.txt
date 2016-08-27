@@ -1,0 +1,1850 @@
+3d|2|10|2|1|Malzahar|Varus|FW vs paiN|5|7|2015 IWCT - Chile
+A|4|2|15|1|Brand|Fizz|FW vs CLG|3|5|IEM Season X - San Jose
+A1|0|6|0|1|Fiddlesticks|Ashe|CLG vs FW|6|5|2015 IWCT - Turkey
+Aa|0|0|7|1|Shen|Tahm Kench|FW vs paiN|8|8|Season 3 World Championship
+Aaberg|4|6|1|1|Nocturne|Null|paiN vs KOO|10|2|2015 IWCT - Turkey
+Aachen|2|8|16|0|Vladimir|Null|FW vs CLG|7|4|2014 Season World Championship
+Aalborg|1|10|13|0|Irelia|Null|KOO vs paiN|5|8|Season 2 World Championship
+Aalesund|1|7|7|0|Yasuo|Null|CLG vs KOO|9|7|2014 Season World Championship
+Aalii|10|9|3|0|Akali|Null|paiN vs FW|10|3|IEM Season X - Cologne
+Aalst|6|1|9|1|Heimerdinger|Null|CLG vs FW|5|3|Season 2 World Championship
+Aalto|1|9|10|1|Master Yi|Null|KOO vs FW|9|9|Season 2 World Championship
+Aam|1|7|9|1|Pantheon|Null|FW vs CLG|4|7|2015 IWCT - Turkey
+Aara|9|10|2|0|Janna|Null|FW vs KOO|9|8|Season 1 World Championship
+Aarau|1|1|4|1|Zac|Lulu|KOO vs paiN|5|9|IEM Season X - World Championship
+Aardvark|2|2|1|1|Tristana|Vayne|paiN vs CLG|1|8|IEM Season X - World Championship
+Aardwolf|9|5|12|1|Lux|Null|paiN vs KOO|10|3|2015 IWCT - Chile
+Aaren|8|1|7|1|Lulu|Null|CLG vs paiN|5|4|Season 2 World Championship
+Aargau|3|9|19|0|Sejuani|Null|paiN vs KOO|9|9|2014 Season World Championship
+Aarhus|7|6|5|1|Jinx|Null|CLG vs FW|1|1|2015 IWCT - Chile
+Aarika|8|6|3|0|Renekton|Veigar|CLG vs FW|5|3|Season 3 World Championship
+Aaronaaronic|9|6|5|1|Zyra|Null|paiN vs KOO|2|9|IEM Season X - San Jose
+Aaronson|7|2|12|1|Azir|Fiddlesticks|FW vs CLG|9|6|2014 Season World Championship
+Ab|5|9|5|1|Nami|Ryze|paiN vs CLG|8|10|2015 IWCT - Turkey
+Aba|10|6|11|1|Janna|Nocturne|paiN vs KOO|4|1|IEM Season X - World Championship
+Abaca|7|2|6|0|Kennen|Wukong|KOO vs CLG|7|9|IEM Season X - World Championship
+Abacist|7|0|2|0|Irelia|Gangplank|paiN vs CLG|1|5|IEM Season X - San Jose
+Aback|7|1|9|0|Rammus|Null|paiN vs CLG|1|8|Season 3 World Championship
+Abacus|1|7|12|0|Kindred|Null|CLG vs KOO|8|9|IEM Season X - Cologne
+Abad|0|1|11|0|Aatrox|Rammus|FW vs CLG|5|10|Season 3 World Championship
+Abadan|8|8|13|1|Twisted Fate|Nami|TSM vs CLG|7|1|2015 IWCT - Chile
+Abaddon|4|9|16|0|Janna|Null|CLG vs KOO|6|8|Season 3 World Championship
+Abaft|1|7|19|0|Alistar|Kalista|KOO vs FW|8|5|Season 3 World Championship
+Abagael|8|8|0|0|Swain|Null|CLG vs paiN|8|1|IEM Season X - San Jose
+Abagail|6|3|5|0|Irelia|Urgot|CLG vs paiN|5|3|IEM Season X - Cologne
+Abalone|0|6|19|1|Maokai|Swain|FW vs CLG|7|4|Season 1 World Championship
+Abamp|8|0|17|0|Sejuani|Darius|paiN vs KOO|4|8|IEM Season X - San Jose
+Abampere|0|3|17|0|Swain|Null|paiN vs FW|9|1|2014 Season World Championship
+Abana|8|2|3|0|Malzahar|Braum|paiN vs KOO|4|10|IEM Season X - Cologne
+Abandon|1|9|2|1|Sivir|Null|paiN vs KOO|8|1|2015 IWCT - Turkey
+Abandoned|10|0|10|1|Aatrox|Vladimir|CLG vs KOO|4|7|Season 3 World Championship
+Abarca|6|1|0|1|Sivir|Null|FW vs paiN|5|2|2014 Season World Championship
+Abase|7|2|11|0|Kassadin|Null|paiN vs FW|9|3|IEM Season X - World Championship
+Abash|8|7|1|0|Fiora|Null|TSM vs CLG|10|8|IEM Season X - Cologne
+Abate|1|9|7|0|Sona|Ahri|paiN vs CLG|7|2|IEM Season X - World Championship
+Abatement|4|8|4|1|Zed|Tahm Kench|KOO vs CLG|6|10|2015 IWCT - Turkey
+Abatis|5|1|3|0|Sona|Null|paiN vs CLG|4|5|IEM Season X - Cologne
+Abattoir|8|4|18|1|Garen|Null|CLG vs FW|2|8|2015 IWCT - Chile
+Abaxial|3|5|15|0|Vayne|Karthus|paiN vs FW|6|5|Season 1 World Championship
+Abb|4|8|7|0|Aurelion Sol|Null|FW vs CLG|1|4|2015 IWCT - Turkey
+Abba|8|10|19|1|Alistar|Kassadin|KOO vs FW|8|2|Season 2 World Championship
+Abbacy|0|1|10|0|Maokai|Yasuo|FW vs paiN|1|3|2015 IWCT - Turkey
+Abbasid|7|0|4|1|Annie|Null|CLG vs paiN|6|4|Season 3 World Championship
+Abbate|4|7|10|1|Karma|Zilean|FW vs paiN|2|1|2015 IWCT - Turkey
+Abbatial|1|2|3|0|Singed|Null|KOO vs CLG|9|7|Season 1 World Championship
+Abbe|5|10|18|0|Aurelion Sol|Null|KOO vs CLG|8|4|IEM Season X - San Jose
+Abbess|5|10|1|0|Vel'Koz|Nautilus|CLG vs FW|7|7|2015 IWCT - Chile
+Abbevillian|9|3|15|0|Evelynn|Null|FW vs paiN|6|8|2015 IWCT - Chile
+Abbey|8|8|3|0|Fiora|Null|KOO vs paiN|4|10|Season 3 World Championship
+Abbeyabbi|0|9|14|0|Lux|Wukong|paiN vs KOO|2|2|Season 2 World Championship
+Abbie|5|4|9|0|Jayce|Gangplank|CLG vs KOO|4|8|2015 IWCT - Chile
+Abbieabbot|8|6|6|1|Mordekaiser|Null|CLG vs KOO|2|3|IEM Season X - Cologne
+Abbotsen|0|4|13|0|Trundle|Yorick|FW vs paiN|1|1|IEM Season X - World Championship
+Abbotson|2|3|1|0|Malzahar|Null|FW vs KOO|4|7|Season 2 World Championship
+Abbotsun|10|0|7|0|Pantheon|Null|CLG vs FW|6|4|Season 1 World Championship
+Abbottson|0|6|16|0|Jinx|Swain|paiN vs KOO|3|3|2014 Season World Championship
+Abbreviate|5|10|8|0|Rumble|Null|KOO vs CLG|5|9|2015 IWCT - Turkey
+Abbreviated|1|6|5|1|Wukong|Null|TSM vs CLG|1|10|IEM Season X - World Championship
+Abbreviation|1|0|3|1|Corki|Null|CLG vs KOO|2|8|Season 3 World Championship
+Abby|2|1|9|0|Tahm Kench|Cho'Gath|FW vs KOO|9|10|2014 Season World Championship
+Abbyabbye|0|3|5|0|Vladimir|Null|TSM vs CLG|10|9|IEM Season X - San Jose
+Abc|10|7|10|0|Riven|Null|CLG vs FW|2|2|2014 Season World Championship
+Abcoulomb|4|8|10|1|Yorick|Null|paiN vs CLG|9|7|IEM Season X - Cologne
+Abdel|1|3|15|0|Jhin|Null|paiN vs CLG|8|5|2015 IWCT - Chile
+Abdella|7|8|1|1|Azir|Null|CLG vs FW|1|9|2015 IWCT - Turkey
+Abdias|0|5|16|1|Darius|Null|CLG vs paiN|8|9|Season 2 World Championship
+Abdicate|1|10|19|0|Wukong|Null|paiN vs KOO|1|3|IEM Season X - San Jose
+Abdication|9|3|9|1|Karthus|Ahri|paiN vs CLG|7|6|Season 2 World Championship
+Abdomen|5|5|8|1|Vel'Koz|Bard|FW vs CLG|2|2|Season 2 World Championship
+Abdominal|9|8|13|1|Nautilus|Alistar|CLG vs FW|8|10|IEM Season X - World Championship
+Abdominous|0|10|12|0|Nasus|Null|paiN vs FW|9|9|Season 1 World Championship
+Abdu|8|1|9|1|Evelynn|Null|CLG vs KOO|9|1|2015 IWCT - Chile
+Abduce|7|5|13|1|Master Yi|Dr. Mundo|KOO vs CLG|8|2|2015 IWCT - Turkey
+Abducent|10|5|11|0|Swain|Null|KOO vs paiN|2|9|2015 IWCT - Turkey
+Abduct|4|2|12|1|Aatrox|Cho'Gath|TSM vs CLG|6|1|2015 IWCT - Turkey
+Abduction|2|1|19|1|Pantheon|Rumble|KOO vs FW|10|8|IEM Season X - Cologne
+Abductor|6|6|17|1|Lucian|Zed|paiN vs CLG|1|10|Season 1 World Championship
+Abdul|6|7|7|0|Kennen|Dr. Mundo|CLG vs FW|2|1|IEM Season X - San Jose
+Abdulabdulla|5|4|1|0|Lux|Null|CLG vs paiN|8|4|Season 3 World Championship
+Abdullah|2|6|4|0|Jinx|Lucian|FW vs KOO|7|10|IEM Season X - World Championship
+Abe|2|10|8|0|Aurelion Sol|Null|KOO vs CLG|6|8|Season 3 World Championship
+Abeabeam|1|9|14|1|Wukong|Illaoi|paiN vs KOO|2|3|IEM Season X - San Jose
+Abebi|2|1|16|1|Akali|Null|CLG vs paiN|5|7|Season 1 World Championship
+Abecedarian|8|4|12|0|Jax|Karma|paiN vs FW|1|4|Season 3 World Championship
+Abecedarium|9|4|16|0|Karthus|Hecarim|KOO vs FW|3|9|Season 1 World Championship
+Abecedary|2|1|17|1|Sejuani|Null|paiN vs KOO|6|2|2014 Season World Championship
+Abed|1|5|5|0|Nocturne|Twitch|KOO vs FW|5|5|Season 1 World Championship
+Abednego|2|7|18|1|Quinn|Null|FW vs paiN|6|5|Season 3 World Championship
+Abel|2|5|20|0|Mordekaiser|Null|paiN vs KOO|10|1|Season 3 World Championship
+Abelabelard|7|9|1|1|Wukong|Janna|FW vs paiN|9|8|Season 3 World Championship
+Abele|1|0|12|0|Xerath|Null|KOO vs CLG|3|10|IEM Season X - Cologne
+Abell|6|4|9|0|Fiddlesticks|Yasuo|CLG vs paiN|9|10|Season 2 World Championship
+Abelmosk|0|7|17|1|Bard|Null|CLG vs FW|8|1|2015 IWCT - Chile
+Abeokuta|10|4|16|0|Sivir|Talon|FW vs KOO|4|9|IEM Season X - Cologne
+Abercrombie|10|2|1|1|Ezreal|Null|KOO vs paiN|4|4|Season 3 World Championship
+Abercromby|7|2|13|1|Jayce|Veigar|KOO vs CLG|4|5|Season 3 World Championship
+Aberdare|8|2|10|0|Alistar|Alistar|KOO vs CLG|8|6|Season 1 World Championship
+Aberdeen|5|3|16|1|Quinn|Graves|CLG vs paiN|7|7|Season 1 World Championship
+Abernathy|4|9|19|1|Maokai|Quinn|paiN vs CLG|9|6|Season 1 World Championship
+Abernethy|0|4|0|1|Zyra|Null|CLG vs FW|3|1|Season 2 World Championship
+Abernon|4|10|7|1|Volibear|Null|FW vs paiN|5|2|IEM Season X - San Jose
+Aberrant|1|5|12|1|Garen|Null|paiN vs FW|9|2|Season 2 World Championship
+Aberration|10|6|8|0|Ezreal|Null|FW vs paiN|5|1|2015 IWCT - Turkey
+Abert|2|1|9|0|Lee Sin|Null|KOO vs paiN|3|4|2015 IWCT - Turkey
+Abessive|10|2|3|1|Talon|Swain|CLG vs KOO|5|6|IEM Season X - Cologne
+Abet|9|10|19|1|Irelia|Null|CLG vs FW|9|1|IEM Season X - Cologne
+Abettor|4|2|20|0|Fiddlesticks|Janna|paiN vs CLG|7|7|Season 2 World Championship
+Abeu|8|3|15|0|Malzahar|Lee Sin|CLG vs paiN|9|8|IEM Season X - World Championship
+Abey|8|1|10|1|Vel'Koz|Rumble|KOO vs CLG|6|1|IEM Season X - World Championship
+Abeyance|3|6|17|1|Vayne|Urgot|paiN vs FW|4|9|Season 3 World Championship
+Abeyant|4|9|20|1|Kayle|Null|KOO vs paiN|9|5|IEM Season X - World Championship
+Abeyta|9|10|0|0|Talon|Irelia|paiN vs CLG|9|10|IEM Season X - San Jose
+Abfarad|3|2|10|1|Cho'Gath|Karthus|paiN vs CLG|5|3|Season 2 World Championship
+Abhenry|8|10|8|0|Gragas|Null|CLG vs paiN|4|1|2015 IWCT - Chile
+Abhor|6|4|9|1|Renekton|Null|FW vs KOO|10|10|2015 IWCT - Turkey
+Abhorrence|3|1|18|1|Ezreal|Kha'Zix|CLG vs FW|7|5|Season 2 World Championship
+Abhorrent|8|9|8|0|Sejuani|Kindred|CLG vs paiN|1|1|Season 1 World Championship
+Abib|7|0|3|1|Cho'Gath|Bard|FW vs CLG|1|3|Season 3 World Championship
+Abide|5|1|1|1|Leblanc|Null|FW vs KOO|7|4|2015 IWCT - Turkey
+Abiding|5|1|14|1|Nasus|Null|CLG vs FW|2|9|Season 2 World Championship
+Abidjan|7|8|10|1|Malphite|Null|KOO vs FW|6|3|Season 1 World Championship
+Abie|8|3|16|0|Xerath|Null|paiN vs FW|9|10|2015 IWCT - Chile
+Abigael|7|10|15|0|Twisted Fate|Zac|CLG vs FW|10|8|IEM Season X - San Jose
+Abigail|9|1|17|1|Rengar|Hecarim|paiN vs FW|9|10|Season 2 World Championship
+Abigailabigale|0|3|6|1|Shen|Null|KOO vs paiN|5|9|2015 IWCT - Chile
+Abijah|0|10|1|0|Xin Zhao|Syndra|paiN vs KOO|6|5|Season 2 World Championship
+Abilene|4|9|14|1|Urgot|Null|CLG vs paiN|2|7|IEM Season X - World Championship
+Ability|5|5|3|0|Vi|Vayne|CLG vs KOO|10|9|Season 3 World Championship
+Abingdon|5|4|6|0|Lee Sin|Urgot|paiN vs KOO|8|6|2014 Season World Championship
+Abiogenesis|3|5|18|0|Yasuo|Null|paiN vs FW|10|6|Season 3 World Championship
+Abiogenetic|7|8|16|0|Renekton|Null|TSM vs CLG|9|3|2015 IWCT - Turkey
+Abiosis|6|6|5|1|Lee Sin|Xerath|paiN vs CLG|6|10|Season 3 World Championship
+Abiotic|4|4|14|0|Illaoi|Swain|FW vs CLG|3|8|2014 Season World Championship
+Abirritant|10|4|7|0|Irelia|Null|CLG vs KOO|2|8|IEM Season X - World Championship
+Abirritate|7|2|15|1|Lee Sin|Kennen|paiN vs KOO|1|8|Season 1 World Championship
+Abisha|7|8|5|1|Illaoi|Graves|CLG vs KOO|8|1|Season 2 World Championship
+Abisia|7|6|6|0|Vladimir|Null|CLG vs KOO|9|3|Season 2 World Championship
+Abixah|0|4|2|1|Kassadin|Karthus|KOO vs paiN|8|3|2014 Season World Championship
+Abject|6|7|20|1|Leona|Null|KOO vs CLG|4|7|2014 Season World Championship
+Abjuration|6|4|3|0|Irelia|Yorick|paiN vs FW|6|7|Season 1 World Championship
+Abjure|10|5|20|0|Ryze|Varus|FW vs KOO|10|5|IEM Season X - San Jose
+Ablate|8|10|7|1|Renekton|Null|FW vs CLG|6|1|IEM Season X - San Jose
+Ablation|2|1|12|1|Riven|Null|FW vs KOO|6|5|2014 Season World Championship
+Ablative|6|4|13|0|Rengar|Null|FW vs CLG|8|5|2014 Season World Championship
+Ablaut|6|2|11|0|Dr. Mundo|Riven|KOO vs CLG|3|3|IEM Season X - World Championship
+Ablaze|9|5|13|1|Leona|Null|paiN vs FW|1|7|IEM Season X - Cologne
+Able|10|0|7|0|Lissandra|Cassiopeia|FW vs KOO|6|10|2014 Season World Championship
+Ablebodied|8|3|8|0|Renekton|Jax|KOO vs CLG|5|3|2015 IWCT - Turkey
+Ablepsia|1|5|18|1|Taric|Null|paiN vs CLG|7|5|IEM Season X - Cologne
+Ables|2|0|5|1|Orianna|Twitch|CLG vs KOO|9|10|IEM Season X - Cologne
+Abloom|0|7|1|1|Ryze|Illaoi|KOO vs CLG|2|9|Season 3 World Championship
+Ablution|2|7|18|1|Kennen|Null|TSM vs CLG|3|5|2015 IWCT - Chile
+Ably|1|4|10|1|Fizz|Null|FW vs KOO|6|1|IEM Season X - San Jose
+Abm|9|4|10|1|Thresh|Kennen|paiN vs KOO|4|9|Season 1 World Championship
+Abmho|1|3|10|0|Leona|Null|KOO vs paiN|8|5|Season 3 World Championship
+Abnaki|3|9|11|1|Diana|Null|paiN vs FW|5|2|Season 2 World Championship
+Abnegate|8|0|6|1|Diana|Null|paiN vs KOO|4|4|Season 1 World Championship
+Abner|9|1|10|0|Galio|Null|KOO vs paiN|8|8|Season 1 World Championship
+Abney|10|3|19|1|Jhin|Xerath|FW vs paiN|1|1|2015 IWCT - Turkey
+Abnormal|5|8|5|0|Zed|Null|CLG vs FW|2|8|Season 3 World Championship
+Abnormality|9|8|0|1|Kindred|Null|KOO vs paiN|9|5|2015 IWCT - Turkey
+Abnormity|6|2|10|0|Syndra|Karma|paiN vs CLG|2|9|Season 3 World Championship
+Aboard|9|2|1|1|Lee Sin|Nidalee|paiN vs KOO|10|4|IEM Season X - Cologne
+Abode|3|6|7|0|Anivia|Zilean|paiN vs CLG|6|5|2015 IWCT - Turkey
+Abohm|8|10|5|1|Lulu|Null|FW vs paiN|4|8|IEM Season X - San Jose
+Abolish|6|0|14|1|Kassadin|Dr. Mundo|paiN vs FW|7|2|2015 IWCT - Turkey
+Abolition|4|2|4|1|Vayne|Null|paiN vs KOO|2|4|Season 1 World Championship
+Abomasum|6|9|14|1|Gangplank|Null|KOO vs paiN|9|9|IEM Season X - Cologne
+Abomb|5|0|20|1|Udyr|Renekton|paiN vs FW|1|7|2015 IWCT - Chile
+Abominable|2|7|2|1|Lissandra|Null|CLG vs paiN|8|7|2015 IWCT - Turkey
+Abominate|9|1|19|1|Hecarim|Bard|TSM vs CLG|10|7|IEM Season X - World Championship
+Abomination|5|8|13|0|Nautilus|Xin Zhao|CLG vs FW|3|3|IEM Season X - World Championship
+Aboral|10|3|6|0|Udyr|Vladimir|KOO vs FW|9|4|Season 1 World Championship
+Aboriginal|1|4|10|0|Shen|Null|paiN vs KOO|8|7|IEM Season X - World Championship
+Aborigine|4|10|11|1|Xerath|Lulu|CLG vs KOO|1|2|IEM Season X - Cologne
+Aborn|5|5|16|1|Zed|Null|FW vs KOO|3|6|2015 IWCT - Chile
+Aborning|4|6|20|1|Braum|Null|paiN vs KOO|2|3|Season 3 World Championship
+Abort|5|6|5|1|Kog'Maw|Malphite|CLG vs FW|1|6|Season 3 World Championship
+Aborticide|0|9|19|1|Renekton|Null|KOO vs paiN|1|3|2015 IWCT - Chile
+Abortifacient|3|6|4|0|Aatrox|Diana|CLG vs paiN|9|10|Season 3 World Championship
+Abortion|8|9|15|1|Olaf|Null|FW vs paiN|3|4|2014 Season World Championship
+Abortionist|8|10|4|1|Lissandra|Fiddlesticks|CLG vs KOO|4|5|2015 IWCT - Chile
+Abortive|8|7|0|0|Lux|Null|CLG vs FW|7|1|IEM Season X - Cologne
+Abott|9|3|16|1|Fiora|Null|KOO vs FW|3|4|2014 Season World Championship
+Aboulia|4|9|5|1|Renekton|Null|KOO vs FW|9|9|Season 1 World Championship
+Abound|6|1|14|0|Malzahar|Null|KOO vs FW|2|3|2014 Season World Championship
+About|5|2|19|0|Karthus|Udyr|KOO vs FW|10|5|2014 Season World Championship
+Aboutface|2|4|20|0|Morgana|Darius|paiN vs FW|1|9|Season 1 World Championship
+Aboutship|6|1|3|1|Zilean|Null|paiN vs CLG|7|9|Season 3 World Championship
+Above|5|6|19|1|Cassiopeia|Fiora|KOO vs paiN|7|1|Season 2 World Championship
+Aboveboard|3|0|1|0|Nasus|Null|FW vs KOO|3|9|2015 IWCT - Chile
+Aboveground|4|8|15|1|Taric|Null|FW vs paiN|3|9|2015 IWCT - Turkey
+Abra|7|9|18|0|Ekko|Null|KOO vs FW|4|3|IEM Season X - World Championship
+Abracadabra|1|8|13|0|Diana|Null|paiN vs KOO|5|4|Season 1 World Championship
+Abradant|3|9|14|1|Master Yi|Draven|CLG vs KOO|1|10|Season 3 World Championship
+Abrade|2|4|1|0|Skarner|Null|CLG vs KOO|9|2|Season 3 World Championship
+Abraham|7|3|7|1|Udyr|Kayle|paiN vs FW|6|9|2014 Season World Championship
+Abrahamabrahams|10|6|11|1|Evelynn|Lux|paiN vs FW|2|3|Season 1 World Championship
+Abrahamsen|4|6|4|0|Urgot|Zed|FW vs paiN|6|8|Season 2 World Championship
+Abrahan|3|3|8|1|Olaf|Null|CLG vs FW|4|8|Season 3 World Championship
+Abram|4|7|17|0|Elise|Sona|TSM vs CLG|2|9|2015 IWCT - Turkey
+Abramabramo|10|3|10|0|Darius|Nunu|KOO vs CLG|8|9|2015 IWCT - Turkey
+Abrams|10|1|9|1|Thresh|Kha'Zix|KOO vs paiN|4|7|IEM Season X - Cologne
+Abramson|4|0|13|1|Evelynn|Null|CLG vs KOO|9|8|2015 IWCT - Turkey
+Abran|4|7|13|0|Graves|Null|KOO vs FW|10|10|2015 IWCT - Turkey
+Abranchiate|4|9|11|1|Nidalee|Null|FW vs paiN|5|7|IEM Season X - World Championship
+Abrasion|9|3|8|1|Rumble|Rumble|paiN vs KOO|3|7|2014 Season World Championship
+Abrasive|8|8|11|0|Katarina|Lulu|CLG vs KOO|7|10|Season 1 World Championship
+Abraxas|6|8|11|0|Vel'Koz|Rammus|CLG vs KOO|5|8|2015 IWCT - Turkey
+Abreact|3|7|10|0|Irelia|Null|KOO vs CLG|3|10|2014 Season World Championship
+Abreaction|1|1|1|1|Blitzcrank|Null|FW vs paiN|6|1|Season 1 World Championship
+Abreast|5|7|11|1|Sivir|Null|paiN vs CLG|8|4|Season 2 World Championship
+Abrego|3|6|15|1|Poppy|Poppy|paiN vs FW|8|2|Season 2 World Championship
+Abreu|4|10|14|1|Rumble|Null|FW vs paiN|5|8|Season 1 World Championship
+Abri|6|10|5|0|Teemo|Null|KOO vs CLG|5|9|IEM Season X - World Championship
+Abridge|1|1|10|1|Ryze|Null|KOO vs FW|4|6|Season 2 World Championship
+Abridgment|8|2|14|0|Illaoi|Diana|TSM vs CLG|6|3|Season 3 World Championship
+Abroach|7|9|12|0|Jarvan Iv|Null|paiN vs KOO|5|7|2014 Season World Championship
+Abroad|1|6|2|0|Vi|Brand|CLG vs FW|7|1|IEM Season X - San Jose
+Abrogate|6|3|18|1|Bard|Sejuani|paiN vs CLG|7|8|2014 Season World Championship
+Abroms|8|0|10|1|Fiddlesticks|Null|KOO vs paiN|8|4|2015 IWCT - Turkey
+Abrupt|1|4|4|1|Pantheon|Null|KOO vs paiN|4|9|2014 Season World Championship
+Abruption|8|8|20|1|Lulu|Null|FW vs CLG|10|10|Season 1 World Championship
+Abruzzi|8|10|6|0|Jinx|Null|KOO vs FW|10|5|Season 3 World Championship
+Absa|8|7|0|1|Syndra|Null|FW vs paiN|8|5|2015 IWCT - Turkey
+Absalom|6|7|4|0|Miss Fortune|Null|FW vs paiN|4|1|2015 IWCT - Turkey
+Abscess|10|6|10|1|Teemo|Null|paiN vs CLG|6|8|IEM Season X - World Championship
+Abscind|1|8|0|1|Swain|Aurelion Sol|FW vs KOO|3|8|IEM Season X - San Jose
+Abscise|7|0|20|1|Thresh|Mordekaiser|CLG vs KOO|9|1|IEM Season X - World Championship
+Abscissa|3|10|10|0|Trundle|Malzahar|paiN vs CLG|3|9|Season 2 World Championship
+Abscission|7|1|17|0|Taric|Diana|paiN vs KOO|4|8|2014 Season World Championship
+Abscond|7|3|13|0|Ahri|Kindred|FW vs KOO|4|3|IEM Season X - San Jose
+Abseil|10|2|1|1|Poppy|Corki|paiN vs KOO|7|9|Season 1 World Championship
+Absence|1|1|8|0|Lulu|Heimerdinger|FW vs KOO|6|3|2014 Season World Championship
+Absent|5|5|10|0|Fizz|Vel'Koz|paiN vs FW|7|1|2015 IWCT - Chile
+Absentee|2|3|0|1|Nidalee|Kassadin|FW vs CLG|4|9|IEM Season X - Cologne
+Absenteeism|4|7|15|0|Orianna|Blitzcrank|FW vs paiN|9|9|Season 1 World Championship
+Absently|10|1|5|0|Lulu|Null|FW vs paiN|8|6|IEM Season X - Cologne
+Absentminded|6|4|10|0|Master Yi|Shaco|FW vs CLG|3|1|2015 IWCT - Turkey
+Absher|10|6|17|1|Volibear|Null|CLG vs paiN|2|7|2015 IWCT - Chile
+Abshier|8|10|3|0|Lissandra|Miss Fortune|paiN vs FW|7|10|IEM Season X - San Jose
+Abshire|1|10|11|1|Braum|Null|paiN vs CLG|10|10|Season 3 World Championship
+Absinthe|6|2|3|0|Cho'Gath|Null|paiN vs FW|8|6|2015 IWCT - Chile
+Absinthism|1|4|4|1|Kalista|Poppy|CLG vs FW|2|7|2015 IWCT - Chile
+Absolute|5|0|7|0|Aatrox|Ezreal|paiN vs FW|5|1|IEM Season X - World Championship
+Absolutely|9|1|12|0|Malzahar|Soraka|CLG vs KOO|4|3|2015 IWCT - Turkey
+Absolution|7|7|2|1|Rengar|Karma|paiN vs CLG|1|5|2015 IWCT - Chile
+Absolutism|8|8|18|0|Veigar|Null|FW vs KOO|10|1|Season 3 World Championship
+Absolve|0|1|18|1|Amumu|Null|paiN vs FW|9|7|Season 1 World Championship
+Absonant|1|1|7|0|Zac|Null|CLG vs KOO|3|6|2014 Season World Championship
+Absorb|8|6|16|0|Tryndamere|Null|CLG vs KOO|2|10|2015 IWCT - Chile
+Absorbance|10|0|5|0|Corki|Taric|CLG vs paiN|3|6|IEM Season X - World Championship
+Absorbed|4|4|10|1|Thresh|Nidalee|FW vs paiN|2|3|Season 3 World Championship
+Absorbefacient|4|1|18|1|Pantheon|Swain|paiN vs KOO|1|10|Season 3 World Championship
+Absorbent|8|2|16|1|Alistar|Null|paiN vs KOO|9|3|IEM Season X - Cologne
+Absorber|6|3|0|0|Yasuo|Lucian|FW vs KOO|1|6|2015 IWCT - Turkey
+Absorbing|3|6|10|1|Xerath|Caitlyn|paiN vs KOO|9|5|Season 3 World Championship
+Absorptance|5|4|8|0|Karma|Thresh|CLG vs paiN|7|7|IEM Season X - San Jose
+Absorption|2|6|16|0|Xerath|Null|KOO vs CLG|1|8|IEM Season X - World Championship
+Absorptivity|1|7|18|0|Darius|Null|FW vs CLG|5|10|Season 2 World Championship
+Absquatulate|5|3|7|1|Lux|Null|KOO vs FW|9|7|IEM Season X - World Championship
+Abstain|2|10|7|0|Evelynn|Null|paiN vs FW|7|6|Season 3 World Championship
+Abstemious|5|1|3|0|Nunu|Null|FW vs KOO|9|9|IEM Season X - Cologne
+Abstention|7|1|14|0|Jax|Null|paiN vs KOO|6|6|Season 3 World Championship
+Abstergent|6|8|16|0|Amumu|Null|FW vs paiN|6|4|IEM Season X - San Jose
+Abstinence|10|0|20|0|Syndra|Miss Fortune|CLG vs FW|1|2|IEM Season X - World Championship
+Abstract|4|0|9|0|Cho'Gath|Null|FW vs CLG|1|8|2014 Season World Championship
+Abstracted|9|1|10|1|Vel'Koz|Null|FW vs CLG|6|2|IEM Season X - Cologne
+Abstraction|3|10|9|0|Lulu|Irelia|CLG vs paiN|5|4|2015 IWCT - Chile
+Abstractionism|4|1|18|0|Ryze|Shaco|CLG vs paiN|6|7|Season 3 World Championship
+Abstractionist|10|0|8|0|Ezreal|Veigar|TSM vs CLG|5|1|IEM Season X - World Championship
+Abstriction|3|3|16|0|Malzahar|Veigar|FW vs paiN|10|8|2015 IWCT - Chile
+Abstruse|3|2|9|1|Kennen|Fiddlesticks|paiN vs FW|2|5|Season 3 World Championship
+Absurd|9|6|18|1|Ekko|Kennen|CLG vs FW|9|3|2015 IWCT - Turkey
+Absurdity|5|4|6|0|Urgot|Syndra|TSM vs CLG|5|2|Season 3 World Championship
+Abubekr|10|5|1|1|Dr. Mundo|Karma|KOO vs CLG|6|6|IEM Season X - World Championship
+Abukir|7|5|10|0|Garen|Null|paiN vs KOO|8|6|Season 2 World Championship
+Abulia|0|0|15|1|Veigar|Rammus|KOO vs FW|4|9|2015 IWCT - Chile
+Abundance|6|7|1|0|Leona|Akali|paiN vs CLG|9|3|Season 2 World Championship
+Abundant|8|1|2|1|Leblanc|Leblanc|KOO vs paiN|1|5|Season 1 World Championship
+Abuse|1|4|15|1|Tristana|Null|TSM vs CLG|1|3|Season 2 World Championship
+Abusive|7|10|17|1|Thresh|Karma|CLG vs FW|7|4|2015 IWCT - Turkey
+Abut|7|3|16|0|Fizz|Ziggs|CLG vs FW|9|2|IEM Season X - Cologne
+Abutilon|3|9|10|1|Cassiopeia|Akali|KOO vs paiN|10|4|Season 3 World Championship
+Abutment|2|3|11|1|Ryze|Master Yi|paiN vs CLG|10|1|IEM Season X - Cologne
+Abuttal|3|4|12|1|Corki|Null|paiN vs FW|7|1|IEM Season X - World Championship
+Abuttals|6|1|2|1|Kayle|Jayce|TSM vs CLG|4|5|2014 Season World Championship
+Abutter|7|3|2|1|Ziggs|Tahm Kench|CLG vs FW|3|4|2015 IWCT - Chile
+Abutting|5|3|2|0|Maokai|Sona|paiN vs CLG|4|1|IEM Season X - Cologne
+Abuzz|10|3|15|0|Ashe|Null|paiN vs CLG|5|3|2015 IWCT - Chile
+Abvolt|8|8|2|1|Shen|Null|KOO vs CLG|1|7|2015 IWCT - Chile
+Abwatt|7|8|9|0|Lux|Null|CLG vs paiN|5|1|2015 IWCT - Chile
+Aby|1|9|7|0|Kennen|Null|FW vs paiN|10|2|2014 Season World Championship
+Abydos|5|3|19|1|Volibear|Bard|paiN vs FW|1|4|IEM Season X - Cologne
+Abysm|6|6|16|0|Galio|Tryndamere|paiN vs CLG|7|1|Season 1 World Championship
+Abysmal|9|5|18|0|Miss Fortune|Null|FW vs KOO|7|2|Season 3 World Championship
+Abyss|5|3|5|1|Udyr|Null|TSM vs CLG|6|5|Season 3 World Championship
+Abyssal|2|4|12|0|Vi|Darius|paiN vs FW|2|8|2014 Season World Championship
+Abyssinia|7|5|12|0|Rengar|Gragas|TSM vs CLG|7|6|IEM Season X - Cologne
+Ac|8|4|20|1|Alistar|Null|FW vs paiN|10|9|IEM Season X - Cologne
+Acacia|9|1|5|1|Teemo|Ahri|CLG vs KOO|10|5|2014 Season World Championship
+Academe|7|8|10|1|Taric|Null|CLG vs paiN|2|1|2014 Season World Championship
+Academia|5|10|0|0|Fiora|Null|KOO vs CLG|9|6|Season 1 World Championship
+Academic|3|10|12|1|Janna|Null|KOO vs CLG|1|1|IEM Season X - Cologne
+Academician|3|2|12|0|Zilean|Maokai|CLG vs paiN|7|2|2015 IWCT - Chile
+Academicism|2|7|7|1|Janna|Null|paiN vs FW|7|9|IEM Season X - World Championship
+Academy|8|6|15|0|Zyra|Null|CLG vs FW|1|3|Season 2 World Championship
+Acadia|4|4|15|0|Hecarim|Null|TSM vs CLG|8|9|Season 1 World Championship
+Acadian|3|1|0|0|Anivia|Vi|KOO vs CLG|8|6|Season 3 World Championship
+Acaleph|10|5|5|0|Sona|Null|KOO vs CLG|10|1|Season 2 World Championship
+Acalia|2|9|9|1|Rammus|Leona|paiN vs FW|4|2|2015 IWCT - Chile
+Acantho|1|9|7|1|Shen|Syndra|paiN vs FW|6|2|IEM Season X - World Championship
+Acanthocephalan|3|7|9|0|Zyra|Karthus|KOO vs CLG|4|10|2014 Season World Championship
+Acanthoid|7|3|16|1|Alistar|Nocturne|CLG vs KOO|10|2|Season 2 World Championship
+Acanthopterygian|9|2|1|1|Aatrox|Riven|paiN vs KOO|6|9|IEM Season X - Cologne
+Acanthous|0|4|18|0|Leona|Vi|paiN vs CLG|2|4|Season 2 World Championship
+Acanthus|4|9|3|1|Karma|Irelia|KOO vs paiN|9|9|2015 IWCT - Chile
+Acapulco|2|10|2|1|Taric|Maokai|CLG vs FW|5|10|IEM Season X - World Championship
+Acariasis|1|9|0|1|Gragas|Hecarim|KOO vs CLG|2|9|Season 2 World Championship
+Acaricide|4|9|12|0|Karma|Null|FW vs paiN|7|3|IEM Season X - Cologne
+Acarid|3|9|0|0|Galio|Nunu|paiN vs FW|5|2|IEM Season X - San Jose
+Acaroid|5|7|3|0|Gragas|Null|TSM vs CLG|7|9|2014 Season World Championship
+Acarology|2|10|18|1|Draven|Kennen|CLG vs paiN|2|7|Season 2 World Championship
+Acarpous|1|3|4|1|Malphite|Hecarim|paiN vs CLG|1|7|IEM Season X - World Championship
+Acarus|8|10|11|1|Ahri|Null|FW vs CLG|8|4|IEM Season X - San Jose
+Acatalectic|9|6|19|1|Jayce|Xerath|TSM vs CLG|1|8|2015 IWCT - Turkey
+Acaulescent|1|9|5|1|Illaoi|Yorick|paiN vs KOO|5|7|Season 3 World Championship
+Accad|6|0|15|1|Jayce|Null|FW vs KOO|1|10|Season 2 World Championship
+Accalia|10|3|4|1|Olaf|Null|KOO vs paiN|7|9|Season 3 World Championship
+Accede|0|9|4|1|Zilean|Nocturne|paiN vs FW|2|9|Season 3 World Championship
+Accelerando|9|0|18|1|Corki|Malphite|CLG vs FW|6|10|IEM Season X - San Jose
+Accelerate|9|6|4|0|Talon|Null|FW vs KOO|7|10|Season 1 World Championship
+Acceleration|3|9|18|0|Gragas|Null|KOO vs FW|8|8|Season 3 World Championship
+Accelerator|5|1|7|1|Garen|Null|paiN vs CLG|4|3|IEM Season X - San Jose
+Accelerometer|2|6|18|1|Shyvana|Evelynn|KOO vs FW|1|1|IEM Season X - World Championship
+Accent|5|7|5|1|Shaco|Ziggs|FW vs KOO|7|3|2014 Season World Championship
+Accentor|5|2|1|1|Nautilus|Null|KOO vs CLG|3|3|2014 Season World Championship
+Accentual|10|1|10|1|Lucian|Teemo|KOO vs CLG|9|10|Season 1 World Championship
+Accentuate|4|7|15|0|Mordekaiser|Null|TSM vs CLG|3|8|Season 3 World Championship
+Accentuation|4|2|7|0|Draven|Null|KOO vs FW|3|5|IEM Season X - Cologne
+Accept|1|4|11|0|Annie|Null|CLG vs KOO|8|8|Season 2 World Championship
+Acceptable|7|5|5|1|Pantheon|Gangplank|paiN vs KOO|3|1|2015 IWCT - Chile
+Acceptance|0|7|7|1|Darius|Null|FW vs paiN|6|8|IEM Season X - World Championship
+Acceptant|2|5|10|0|Lee Sin|Null|TSM vs CLG|7|7|Season 2 World Championship
+Acceptation|5|7|3|0|Heimerdinger|Zilean|paiN vs FW|1|1|IEM Season X - San Jose
+Accepted|3|7|7|1|Vi|Null|KOO vs paiN|8|5|2014 Season World Championship
+Accepter|7|9|17|1|Varus|Null|paiN vs FW|2|6|Season 3 World Championship
+Acceptor|8|6|3|0|Malzahar|Null|KOO vs FW|6|10|IEM Season X - World Championship
+Access|0|0|8|1|Zilean|Skarner|FW vs CLG|9|3|2014 Season World Championship
+Accessary|3|2|16|0|Jinx|Malzahar|FW vs KOO|2|1|2015 IWCT - Turkey
+Accessible|2|9|0|1|Zed|Null|paiN vs KOO|5|5|2014 Season World Championship
+Accession|6|5|19|0|Maokai|Null|paiN vs KOO|10|6|IEM Season X - San Jose
+Accessory|7|4|8|1|Malzahar|Null|KOO vs CLG|2|3|IEM Season X - Cologne
+Acciaccatura|5|7|13|1|Xerath|Null|KOO vs FW|8|4|IEM Season X - Cologne
+Accidence|2|4|13|1|Karthus|Null|KOO vs paiN|5|5|2015 IWCT - Turkey
+Accident|10|4|5|0|Udyr|Null|FW vs paiN|8|9|Season 3 World Championship
+Accidental|4|3|18|0|Illaoi|Null|KOO vs paiN|4|2|IEM Season X - Cologne
+Accidie|7|7|8|0|Orianna|Null|FW vs paiN|8|6|IEM Season X - San Jose
+Accipiter|6|7|19|1|Aurelion Sol|Fizz|KOO vs paiN|6|8|IEM Season X - World Championship
+Accipitrine|9|7|20|1|Maokai|Null|TSM vs CLG|10|6|2015 IWCT - Chile
+Acclaim|0|9|1|1|Corki|Null|KOO vs paiN|4|8|Season 2 World Championship
+Acclamation|4|10|6|0|Yasuo|Null|FW vs KOO|10|8|2015 IWCT - Chile
+Acclimate|5|2|3|1|Karma|Null|KOO vs FW|5|10|2014 Season World Championship
+Acclimatize|10|2|11|1|Urgot|Null|KOO vs paiN|6|1|Season 2 World Championship
+Acclivity|10|4|14|0|Mordekaiser|Ziggs|KOO vs FW|7|10|IEM Season X - Cologne
+Accolade|8|4|0|0|Darius|Kog'Maw|KOO vs CLG|8|3|2014 Season World Championship
+Accommodate|6|0|10|1|Vel'Koz|Morgana|KOO vs paiN|6|7|Season 1 World Championship
+Accommodation|2|9|19|1|Karthus|Null|CLG vs paiN|6|10|2015 IWCT - Turkey
+Accommodative|6|0|5|0|Rengar|Null|KOO vs paiN|10|7|IEM Season X - San Jose
+Accompaniment|1|4|17|1|Lucian|Nami|CLG vs paiN|7|2|2014 Season World Championship
+Accompanist|4|4|4|1|Leona|Null|TSM vs CLG|8|10|Season 1 World Championship
+Accompany|9|0|13|1|Zac|Null|FW vs CLG|10|5|IEM Season X - San Jose
+Accompanyist|8|1|5|0|Fiora|Null|paiN vs FW|2|10|IEM Season X - World Championship
+Accomplice|8|4|8|0|Leblanc|Alistar|KOO vs CLG|7|2|Season 2 World Championship
+Accomplish|2|9|1|0|Master Yi|Null|CLG vs FW|2|3|IEM Season X - Cologne
+Accomplished|4|4|18|1|Sion|Anivia|TSM vs CLG|6|10|IEM Season X - Cologne
+Accomplishment|5|0|17|1|Sivir|Null|FW vs paiN|1|6|Season 1 World Championship
+Accord|2|0|13|1|Zyra|Null|CLG vs paiN|4|7|IEM Season X - World Championship
+Accordance|6|3|15|0|Caitlyn|Null|FW vs KOO|2|3|2014 Season World Championship
+Accordant|10|6|6|1|Cho'Gath|Null|KOO vs FW|6|8|IEM Season X - World Championship
+According|5|6|3|1|Caitlyn|Rammus|KOO vs paiN|5|3|2015 IWCT - Chile
+Accordingly|7|6|0|0|Heimerdinger|Singed|CLG vs paiN|9|7|Season 1 World Championship
+Accordion|8|8|15|0|Veigar|Null|CLG vs FW|5|1|IEM Season X - Cologne
+Accost|4|6|16|0|Amumu|Shaco|CLG vs paiN|1|8|Season 2 World Championship
+Accouchement|8|3|4|1|Rammus|Lucian|paiN vs CLG|3|4|2015 IWCT - Turkey
+Accoucheur|6|9|9|0|Miss Fortune|Thresh|paiN vs KOO|10|7|Season 3 World Championship
+Account|10|7|5|1|Nidalee|Null|CLG vs paiN|10|3|IEM Season X - World Championship
+Accountable|0|2|5|1|Irelia|Lucian|FW vs paiN|1|10|Season 2 World Championship
+Accountancy|7|3|3|1|Fizz|Miss Fortune|CLG vs KOO|7|5|IEM Season X - Cologne
+Accountant|7|2|12|1|Hecarim|Kassadin|FW vs CLG|2|6|2014 Season World Championship
+Accounting|6|3|13|1|Viktor|Null|KOO vs FW|2|9|IEM Season X - World Championship
+Accouplement|4|8|14|1|Sona|Olaf|paiN vs KOO|10|1|IEM Season X - World Championship
+Accouter|6|3|6|0|Soraka|Null|FW vs paiN|3|1|2015 IWCT - Chile
+Accouterment|10|0|16|1|Varus|Nami|paiN vs CLG|3|9|Season 3 World Championship
+Accra|10|2|3|0|Soraka|Null|CLG vs KOO|7|4|Season 1 World Championship
+Accredit|7|4|18|0|Heimerdinger|Shen|KOO vs FW|3|9|IEM Season X - San Jose
+Accrescent|8|0|7|0|Olaf|Fiddlesticks|FW vs CLG|9|7|IEM Season X - Cologne
+Accrete|5|6|13|1|Brand|Jinx|CLG vs paiN|8|2|Season 2 World Championship
+Accretion|5|3|0|0|Sion|Null|CLG vs paiN|2|5|Season 1 World Championship
+Accroach|7|1|1|0|Graves|Shyvana|CLG vs paiN|8|10|IEM Season X - San Jose
+Accrual|4|1|18|0|Ziggs|Udyr|CLG vs FW|5|7|IEM Season X - World Championship
+Accrue|2|7|2|1|Yasuo|Aurelion Sol|paiN vs FW|3|2|2014 Season World Championship
+Acculturate|5|3|5|1|Kalista|Alistar|FW vs KOO|8|6|2015 IWCT - Chile
+Acculturation|6|8|7|1|Warwick|Null|paiN vs FW|6|4|2015 IWCT - Turkey
+Acculturize|9|3|13|0|Ziggs|Tryndamere|KOO vs paiN|8|2|IEM Season X - Cologne
+Accumbent|5|9|12|0|Nautilus|Null|CLG vs FW|1|1|2014 Season World Championship
+Accumulate|5|8|14|0|Orianna|Pantheon|FW vs KOO|5|6|2015 IWCT - Chile
+Accumulation|7|7|19|0|Viktor|Null|paiN vs FW|5|9|2015 IWCT - Chile
+Accumulative|8|3|6|0|Dr. Mundo|Null|FW vs KOO|7|3|2015 IWCT - Turkey
+Accumulator|0|9|8|0|Gangplank|Null|CLG vs KOO|1|9|2015 IWCT - Turkey
+Accuracy|7|10|5|1|Akali|Gragas|paiN vs CLG|10|1|IEM Season X - World Championship
+Accurate|10|7|10|0|Vladimir|Null|KOO vs paiN|2|8|2014 Season World Championship
+Accursed|0|6|11|1|Nami|Malphite|TSM vs CLG|9|4|IEM Season X - World Championship
+Accusal|2|4|18|0|Darius|Master Yi|paiN vs FW|8|4|Season 1 World Championship
+Accusation|4|8|9|0|Morgana|Null|paiN vs KOO|9|6|2014 Season World Championship
+Accusative|6|1|16|0|Trundle|Null|paiN vs KOO|1|9|2015 IWCT - Chile
+Accusatorial|4|10|5|1|Dr. Mundo|Swain|CLG vs paiN|5|7|2015 IWCT - Turkey
+Accusatory|0|2|17|1|Udyr|Sivir|CLG vs KOO|1|4|2015 IWCT - Turkey
+Accuse|3|3|19|1|Evelynn|Sivir|paiN vs KOO|4|1|2015 IWCT - Chile
+Accused|7|5|7|0|Ekko|Orianna|FW vs paiN|5|6|2015 IWCT - Turkey
+Accustom|0|3|19|1|Maokai|Volibear|paiN vs FW|4|3|Season 2 World Championship
+Accustomed|3|7|18|1|Shen|Braum|KOO vs paiN|6|10|Season 2 World Championship
+Ace|1|0|4|1|Kalista|Null|paiN vs FW|3|7|Season 2 World Championship
+Aceae|9|8|18|0|Jarvan Iv|Null|CLG vs FW|8|10|Season 1 World Championship
+Acedia|4|8|3|1|Ezreal|Sion|KOO vs paiN|2|7|Season 1 World Championship
+Aceldama|0|8|6|1|Morgana|Kha'Zix|CLG vs paiN|9|1|Season 3 World Championship
+Acentric|1|3|5|1|Zed|Jax|CLG vs FW|7|9|Season 1 World Championship
+Aceous|2|5|5|0|Vel'Koz|Shaco|paiN vs CLG|3|9|2015 IWCT - Chile
+Acephalous|0|4|13|1|Gangplank|Galio|paiN vs FW|6|1|Season 1 World Championship
+Acerate|0|6|2|1|Taric|Null|paiN vs CLG|9|10|2015 IWCT - Turkey
+Acerb|1|1|17|1|Lulu|Null|FW vs paiN|5|6|Season 1 World Championship
+Acerbate|0|0|8|1|Orianna|Null|FW vs KOO|6|5|Season 1 World Championship
+Acerbic|4|4|8|1|Fiddlesticks|Diana|paiN vs KOO|3|5|Season 3 World Championship
+Acerbity|8|1|4|1|Galio|Null|CLG vs paiN|5|8|Season 2 World Championship
+Acerose|6|6|10|1|Vayne|Yorick|FW vs KOO|9|3|2014 Season World Championship
+Acervate|3|2|0|0|Tristana|Zac|paiN vs KOO|6|9|2014 Season World Championship
+Acescent|8|1|1|1|Swain|Null|CLG vs FW|4|5|IEM Season X - Cologne
+Acetabulum|8|4|0|1|Poppy|Malzahar|TSM vs CLG|2|7|Season 2 World Championship
+Acetaldehyde|1|1|11|1|Zilean|Riven|CLG vs KOO|9|4|Season 3 World Championship
+Acetamide|6|10|7|0|Wukong|Olaf|FW vs CLG|5|1|IEM Season X - World Championship
+Acetanilide|2|5|7|0|Shen|Null|CLG vs FW|10|9|IEM Season X - World Championship
+Acetic|2|4|5|1|Swain|Null|FW vs CLG|1|6|2015 IWCT - Chile
+Acetify|6|2|17|0|Gangplank|Null|FW vs paiN|10|9|IEM Season X - World Championship
+Aceto|8|0|1|0|Sivir|Null|FW vs CLG|3|10|Season 2 World Championship
+Acetometer|2|8|7|0|Varus|Null|FW vs KOO|6|4|Season 1 World Championship
+Acetone|1|6|0|0|Amumu|Viktor|KOO vs paiN|5|7|Season 1 World Championship
+Acetophenetidin|0|3|13|0|Yasuo|Null|FW vs KOO|7|6|Season 1 World Championship
+Acetous|9|4|19|0|Lee Sin|Null|FW vs CLG|9|2|Season 3 World Championship
+Acetyl|8|4|13|0|Kalista|Null|paiN vs CLG|5|5|Season 1 World Championship
+Acetylate|3|0|7|1|Corki|Null|paiN vs CLG|8|2|2015 IWCT - Chile
+Acetylcholine|0|3|12|0|Teemo|Zed|paiN vs CLG|6|10|2015 IWCT - Chile
+Acetylide|4|2|12|0|Caitlyn|Null|paiN vs CLG|6|1|2015 IWCT - Turkey
+Acevedo|9|5|6|0|Soraka|Malphite|FW vs paiN|1|8|Season 3 World Championship
+Aceves|10|1|14|1|Darius|Varus|CLG vs FW|3|6|IEM Season X - World Championship
+Acey|6|6|20|0|Tryndamere|Zyra|CLG vs KOO|8|6|Season 2 World Championship
+Aceydeucy|1|1|9|1|Sion|Null|CLG vs paiN|6|3|2015 IWCT - Turkey
+Achaea|4|4|5|1|Shen|Null|TSM vs CLG|8|8|IEM Season X - Cologne
+Achaean|4|5|20|0|Kennen|Maokai|CLG vs FW|5|7|IEM Season X - San Jose
+Achaemenid|6|3|15|0|Shaco|Null|FW vs CLG|4|8|Season 2 World Championship
+Achates|5|1|16|1|Renekton|Null|KOO vs paiN|5|10|IEM Season X - Cologne
+Ache|0|7|7|1|Zed|Null|KOO vs FW|1|6|2015 IWCT - Chile
+Achelous|5|10|18|1|Rammus|Null|CLG vs paiN|3|8|Season 2 World Championship
+Achene|2|0|16|0|Evelynn|Ryze|paiN vs CLG|3|8|Season 1 World Championship
+Acherman|2|7|8|1|Soraka|Null|FW vs paiN|10|3|2014 Season World Championship
+Acheron|7|9|9|1|Azir|Mordekaiser|FW vs KOO|1|4|2015 IWCT - Turkey
+Achieve|7|1|17|0|Wukong|Twisted Fate|paiN vs KOO|6|4|2015 IWCT - Turkey
+Achievement|10|9|15|1|Janna|Heimerdinger|FW vs KOO|1|10|IEM Season X - World Championship
+Achilles|10|9|19|1|Veigar|Wukong|paiN vs KOO|6|2|IEM Season X - World Championship
+Achitophel|8|6|2|0|Karma|Null|paiN vs FW|10|1|2015 IWCT - Chile
+Achlamydeous|5|7|1|1|Janna|Lee Sin|TSM vs CLG|4|10|Season 1 World Championship
+Achlorhydria|5|10|1|0|Cho'Gath|Tristana|CLG vs FW|4|1|Season 3 World Championship
+Achondrite|2|1|0|0|Swain|Tristana|KOO vs CLG|6|5|2015 IWCT - Turkey
+Achondroplasia|6|1|8|1|Volibear|Lucian|KOO vs FW|8|3|Season 1 World Championship
+Achorn|10|10|14|0|Tristana|Null|paiN vs KOO|8|3|2015 IWCT - Chile
+Achromat|2|5|14|0|Morgana|Null|KOO vs paiN|4|3|IEM Season X - World Championship
+Achromatic|9|0|1|1|Skarner|Null|FW vs CLG|7|3|2015 IWCT - Turkey
+Achromaticity|6|3|4|0|Kalista|Alistar|FW vs paiN|7|3|IEM Season X - World Championship
+Achromatin|1|10|11|1|Xerath|Null|paiN vs KOO|10|9|Season 3 World Championship
+Achromatism|5|2|15|1|Gragas|Lissandra|KOO vs paiN|1|1|Season 1 World Championship
+Achromatize|1|5|14|0|Rammus|Null|FW vs CLG|6|1|Season 2 World Championship
+Achromatous|8|5|18|1|Warwick|Volibear|FW vs CLG|2|7|Season 2 World Championship
+Achromic|4|2|12|0|Sejuani|Shyvana|KOO vs paiN|6|4|IEM Season X - Cologne
+Acicula|5|8|12|0|Trundle|Cho'Gath|FW vs paiN|9|7|2015 IWCT - Chile
+Acicular|3|1|12|1|Thresh|Null|paiN vs FW|3|6|Season 1 World Championship
+Aciculate|2|1|6|0|Gangplank|Teemo|FW vs CLG|7|1|Season 3 World Championship
+Aciculum|9|10|1|0|Katarina|Xerath|CLG vs KOO|8|5|IEM Season X - Cologne
+Acid|10|0|13|1|Draven|Tristana|KOO vs paiN|10|3|Season 1 World Championship
+Acidfast|7|5|19|1|Alistar|Null|paiN vs KOO|7|8|2015 IWCT - Turkey
+Acidforming|8|1|6|1|Sejuani|Null|FW vs paiN|4|9|2015 IWCT - Turkey
+Acidhead|5|10|16|1|Nidalee|Vayne|CLG vs KOO|6|2|IEM Season X - Cologne
+Acidic|9|2|7|0|Twitch|Null|CLG vs KOO|10|2|2015 IWCT - Turkey
+Acidify|7|0|1|0|Ezreal|Sivir|TSM vs CLG|8|2|2015 IWCT - Turkey
+Acidimeter|0|3|14|1|Ryze|Nocturne|CLG vs paiN|2|4|IEM Season X - Cologne
+Acidimetry|3|1|4|0|Bard|Alistar|KOO vs CLG|4|10|IEM Season X - World Championship
+Acidity|3|4|13|0|Fiddlesticks|Null|paiN vs FW|10|2|2015 IWCT - Turkey
+Acidophil|2|10|4|0|Aatrox|Brand|KOO vs paiN|9|6|2014 Season World Championship
+Acidosis|5|10|0|0|Poppy|Jinx|FW vs KOO|6|3|IEM Season X - Cologne
+Acidulant|6|9|3|0|Maokai|Null|FW vs KOO|10|2|2015 IWCT - Turkey
+Acidulate|9|4|11|1|Udyr|Null|paiN vs KOO|1|6|IEM Season X - Cologne
+Acidulent|1|3|4|0|Fizz|Bard|KOO vs FW|1|2|2015 IWCT - Turkey
+Acidulous|6|10|0|0|Dr. Mundo|Null|KOO vs FW|4|2|2014 Season World Championship
+Acie|3|2|14|1|Nasus|Null|FW vs CLG|4|7|Season 3 World Championship
+Acierate|9|3|3|0|Jarvan Iv|Null|FW vs KOO|2|3|IEM Season X - World Championship
+Acima|3|5|11|0|Maokai|Null|TSM vs CLG|1|8|IEM Season X - World Championship
+Acinaciform|3|4|0|0|Vel'Koz|Ahri|paiN vs CLG|4|3|2015 IWCT - Chile
+Aciniform|2|8|15|1|Thresh|Null|CLG vs FW|6|7|Season 2 World Championship
+Acinus|9|2|2|0|Braum|Poppy|FW vs KOO|5|7|IEM Season X - Cologne
+Acis|8|2|9|1|Lee Sin|Null|CLG vs FW|4|5|2014 Season World Championship
+Acker|5|9|18|0|Nocturne|Null|paiN vs KOO|2|7|2014 Season World Championship
+Ackerley|7|4|1|1|Vladimir|Null|CLG vs FW|10|6|Season 2 World Championship
+Ackerman|7|2|4|0|Trundle|Null|KOO vs CLG|5|6|2014 Season World Championship
+Ackler|6|9|5|0|Gragas|Null|paiN vs KOO|9|8|IEM Season X - Cologne
+Ackley|7|1|16|0|Rengar|Tahm Kench|FW vs KOO|4|5|2014 Season World Championship
+Acklin|10|8|11|0|Jinx|Null|KOO vs CLG|7|6|Season 2 World Championship
+Acknowledge|9|10|6|1|Rengar|Null|CLG vs KOO|5|8|2015 IWCT - Chile
+Acknowledgment|0|1|15|0|Ryze|Null|KOO vs paiN|6|10|IEM Season X - San Jose
+Acme|8|10|3|1|Orianna|Null|FW vs CLG|6|8|2014 Season World Championship
+Acne|8|3|15|0|Zyra|Null|TSM vs CLG|4|2|2015 IWCT - Turkey
+Acnode|6|0|17|1|Viktor|Jhin|CLG vs KOO|2|1|Season 2 World Championship
+Acolyte|2|8|7|1|Pantheon|Null|paiN vs FW|5|1|Season 1 World Championship
+Aconcagua|7|4|11|1|Fiddlesticks|Null|FW vs CLG|8|2|2014 Season World Championship
+Aconite|10|8|20|0|Shyvana|Soraka|paiN vs FW|5|4|2015 IWCT - Turkey
+Acord|8|2|4|0|Katarina|Null|paiN vs KOO|2|9|2014 Season World Championship
+Acorn|7|1|14|0|Ryze|Talon|CLG vs FW|3|8|Season 2 World Championship
+Acosmism|7|8|10|1|Alistar|Null|CLG vs paiN|9|6|IEM Season X - Cologne
+Acosta|0|10|13|0|Shaco|Kayle|TSM vs CLG|3|6|IEM Season X - San Jose
+Acotyledon|6|9|10|0|Kha'Zix|Leona|paiN vs FW|7|6|2015 IWCT - Turkey
+Acoustic|8|7|1|0|Jinx|Malphite|CLG vs FW|10|9|2015 IWCT - Chile
+Acoustician|5|7|13|0|Yasuo|Braum|FW vs KOO|7|2|Season 1 World Championship
+Acoustics|10|4|11|0|Kennen|Null|KOO vs paiN|7|1|2015 IWCT - Turkey
+Acquah|3|6|5|1|Dr. Mundo|Nocturne|paiN vs KOO|9|1|Season 3 World Championship
+Acquaint|4|9|6|1|Cassiopeia|Null|FW vs KOO|5|5|IEM Season X - San Jose
+Acquaintance|2|1|19|0|Mordekaiser|Heimerdinger|KOO vs paiN|5|1|IEM Season X - World Championship
+Acquainted|1|3|12|1|Skarner|Null|KOO vs paiN|4|1|2015 IWCT - Chile
+Acquiesce|4|0|14|1|Graves|Null|KOO vs FW|4|8|IEM Season X - San Jose
+Acquiescence|8|0|13|1|Garen|Leona|FW vs CLG|2|5|Season 2 World Championship
+Acquiescent|7|9|1|1|Ashe|Null|paiN vs CLG|2|8|2015 IWCT - Turkey
+Acquire|9|2|6|0|Poppy|Karthus|CLG vs paiN|6|10|2014 Season World Championship
+Acquirement|9|3|15|0|Maokai|Evelynn|KOO vs CLG|2|8|IEM Season X - World Championship
+Acquisition|9|8|10|1|Syndra|Ekko|CLG vs paiN|7|2|Season 3 World Championship
+Acquisitive|5|8|15|1|Trundle|Null|TSM vs CLG|10|4|Season 3 World Championship
+Acquit|1|10|20|1|Nunu|Rengar|FW vs CLG|5|3|Season 1 World Championship
+Acquittal|3|4|17|0|Draven|Null|FW vs CLG|4|2|Season 3 World Championship
+Acquittance|6|6|2|0|Annie|Bard|CLG vs FW|2|1|2015 IWCT - Chile
+Acre|4|8|13|0|Veigar|Null|paiN vs CLG|1|6|Season 1 World Championship
+Acreage|2|5|7|1|Shaco|Trundle|paiN vs KOO|9|8|2015 IWCT - Chile
+Acred|10|0|4|0|Annie|Kennen|FW vs KOO|10|3|IEM Season X - World Championship
+Acree|9|4|18|0|Twitch|Anivia|CLG vs FW|1|4|2014 Season World Championship
+Acrefoot|6|1|4|1|Skarner|Null|KOO vs FW|4|9|Season 3 World Championship
+Acreinch|7|2|14|0|Brand|Jarvan Iv|TSM vs CLG|3|7|2015 IWCT - Turkey
+Acrid|9|0|15|0|Nunu|Null|FW vs CLG|1|7|2014 Season World Championship
+Acridine|0|8|11|1|Nami|Teemo|KOO vs CLG|4|4|2015 IWCT - Turkey
+Acriflavine|1|10|3|1|Nautilus|Skarner|CLG vs FW|6|7|2015 IWCT - Turkey
+Acrilan|0|4|7|0|Gragas|Nocturne|KOO vs FW|8|6|2014 Season World Championship
+Acrimonious|10|6|1|0|Aatrox|Null|FW vs CLG|5|1|2014 Season World Championship
+Acrimony|1|1|7|0|Kha'Zix|Null|paiN vs CLG|6|1|2014 Season World Championship
+Acro|8|10|0|1|Gangplank|Null|FW vs CLG|4|4|Season 1 World Championship
+Acrobat|2|9|7|1|Aurelion Sol|Vayne|paiN vs KOO|10|6|Season 3 World Championship
+Acrobatic|8|7|9|1|Alistar|Null|KOO vs paiN|2|2|2014 Season World Championship
+Acrobatics|9|8|11|0|Nidalee|Cassiopeia|KOO vs FW|3|1|Season 2 World Championship
+Acrocarpous|0|10|17|0|Fiora|Zyra|CLG vs KOO|8|3|2014 Season World Championship
+Acrodont|0|9|9|0|Sejuani|Pantheon|KOO vs paiN|9|5|IEM Season X - Cologne
+Acrodrome|9|0|18|0|Ekko|Null|CLG vs KOO|5|1|2015 IWCT - Chile
+Acrogen|7|4|7|0|Jayce|Gangplank|CLG vs KOO|8|4|IEM Season X - World Championship
+Acrolein|10|5|4|1|Sivir|Null|paiN vs FW|2|4|IEM Season X - Cologne
+Acrolith|0|3|9|1|Rengar|Null|KOO vs CLG|7|9|IEM Season X - Cologne
+Acromegaly|9|4|5|1|Lissandra|Null|KOO vs paiN|7|5|Season 3 World Championship
+Acromion|7|1|0|0|Nunu|Null|KOO vs FW|3|4|Season 3 World Championship
+Acronym|0|7|19|1|Morgana|Null|CLG vs KOO|5|4|2015 IWCT - Turkey
+Acrophobia|6|5|13|0|Twisted Fate|Ziggs|CLG vs KOO|2|5|Season 3 World Championship
+Acropolis|3|1|9|1|Veigar|Trundle|CLG vs KOO|1|1|Season 2 World Championship
+Across|6|7|15|0|Diana|Null|FW vs paiN|2|9|Season 1 World Championship
+Acrosstheboard|2|1|4|1|Renekton|Pantheon|KOO vs FW|1|4|Season 3 World Championship
+Acrostic|9|0|15|1|Rammus|Null|paiN vs CLG|3|8|2014 Season World Championship
+Acroter|6|1|4|0|Tryndamere|Null|FW vs CLG|3|2|Season 3 World Championship
+Acroterion|6|6|11|0|Nunu|Lucian|CLG vs paiN|7|10|2015 IWCT - Chile
+Acrylic|9|7|11|1|Sion|Null|KOO vs CLG|3|1|IEM Season X - San Jose
+Acrylonitrile|4|3|8|1|Vladimir|Null|CLG vs paiN|1|7|Season 1 World Championship
+Acrylyl|0|9|0|0|Jax|Null|paiN vs CLG|8|4|IEM Season X - San Jose
+Act|2|3|4|1|Jhin|Null|paiN vs FW|9|6|IEM Season X - San Jose
+Actable|8|2|17|0|Evelynn|Null|FW vs paiN|2|4|IEM Season X - Cologne
+Actaeon|9|7|18|1|Kennen|Caitlyn|paiN vs KOO|8|3|IEM Season X - Cologne
+Acth|1|5|5|0|Mordekaiser|Master Yi|KOO vs FW|5|5|2015 IWCT - Chile
+Actin|6|5|5|1|Veigar|Cho'Gath|paiN vs KOO|7|4|IEM Season X - World Championship
+Actinal|1|1|20|0|Sejuani|Null|FW vs KOO|5|2|Season 1 World Championship
+Acting|7|10|17|0|Bard|Udyr|FW vs KOO|6|9|Season 3 World Championship
+Actinia|10|9|16|0|Amumu|Null|FW vs KOO|1|1|Season 2 World Championship
+Actinic|4|0|17|1|Azir|Kha'Zix|paiN vs FW|5|1|2015 IWCT - Chile
+Actiniform|2|1|1|0|Ekko|Alistar|FW vs CLG|9|5|Season 2 World Championship
+Actinism|7|0|0|0|Anivia|Null|KOO vs FW|6|10|2014 Season World Championship
+Actinium|4|6|16|1|Blitzcrank|Caitlyn|paiN vs CLG|2|5|Season 3 World Championship
+Actino|3|0|3|1|Yasuo|Lissandra|KOO vs CLG|1|4|2015 IWCT - Chile
+Actinochemistry|0|0|14|0|Lulu|Vi|TSM vs CLG|9|7|Season 3 World Championship
+Actinoid|5|2|7|1|Leona|Ahri|FW vs KOO|5|5|2015 IWCT - Turkey
+Actinolite|0|0|8|0|Heimerdinger|Null|FW vs CLG|7|6|IEM Season X - World Championship
+Actinology|4|0|0|1|Rammus|Null|FW vs paiN|4|4|2015 IWCT - Turkey
+Actinometer|10|5|10|0|Urgot|Null|FW vs paiN|3|5|Season 3 World Championship
+Actinomorphic|1|2|10|0|Kog'Maw|Lissandra|CLG vs FW|10|5|Season 1 World Championship
+Actinomycete|2|6|15|1|Kennen|Null|paiN vs CLG|5|5|IEM Season X - San Jose
+Actinomycin|7|2|11|0|Fiora|Azir|CLG vs paiN|6|6|IEM Season X - San Jose
+Actinomycosis|0|9|15|0|Warwick|Null|FW vs KOO|10|4|2014 Season World Championship
+Actinon|10|4|15|0|Rengar|Null|CLG vs KOO|7|1|Season 1 World Championship
+Actinopod|10|0|3|0|Kalista|Rumble|TSM vs CLG|8|2|2014 Season World Championship
+Actinotherapy|4|10|6|0|Sion|Dr. Mundo|KOO vs CLG|10|8|Season 2 World Championship
+Actinouranium|8|9|19|0|Corki|Null|FW vs paiN|1|10|2015 IWCT - Chile
+Actinozoan|10|9|16|1|Nidalee|Twisted Fate|KOO vs CLG|6|3|IEM Season X - Cologne
+Action|8|10|13|1|Malphite|Tryndamere|FW vs KOO|5|2|IEM Season X - San Jose
+Actionable|7|8|9|0|Braum|Janna|paiN vs FW|10|3|Season 3 World Championship
+Actium|1|8|18|0|Bard|Null|FW vs paiN|9|3|2015 IWCT - Turkey
+Activate|8|0|17|1|Tristana|Null|paiN vs KOO|9|10|Season 2 World Championship
+Activator|7|8|2|0|Quinn|Null|CLG vs paiN|3|6|Season 1 World Championship
+Active|2|2|0|0|Jinx|Null|CLG vs FW|1|3|2014 Season World Championship
+Activism|6|5|1|0|Riven|Master Yi|CLG vs KOO|6|8|IEM Season X - Cologne
+Activist|4|0|17|1|Warwick|Akali|CLG vs KOO|1|4|Season 1 World Championship
+Activity|3|4|7|1|Zac|Null|KOO vs paiN|8|5|Season 2 World Championship
+Actomyosin|0|6|11|0|Tryndamere|Null|TSM vs CLG|5|3|Season 2 World Championship
+Acton|7|6|10|1|Karma|Null|CLG vs FW|2|1|2014 Season World Championship
+Actor|4|2|19|0|Darius|Null|KOO vs CLG|5|2|IEM Season X - Cologne
+Actress|9|4|20|0|Skarner|Null|paiN vs CLG|4|2|IEM Season X - San Jose
+Actual|7|1|9|0|Warwick|Null|CLG vs KOO|10|10|IEM Season X - Cologne
+Actualize|9|6|12|0|Ekko|Null|CLG vs FW|7|2|2015 IWCT - Chile
+Actually|5|4|9|0|Leblanc|Hecarim|paiN vs CLG|7|10|Season 1 World Championship
+Actuary|5|6|6|0|Amumu|Null|FW vs CLG|5|10|IEM Season X - Cologne
+Actuate|4|2|19|1|Leblanc|Null|TSM vs CLG|7|7|IEM Season X - Cologne
+Acuate|1|1|1|0|Evelynn|Sejuani|FW vs paiN|2|7|IEM Season X - Cologne
+Acuff|2|0|1|0|Sona|Tristana|KOO vs CLG|4|5|IEM Season X - World Championship
+Aculeate|7|7|16|1|Amumu|Null|FW vs KOO|10|1|IEM Season X - World Championship
+Aculeus|9|9|0|1|Zac|Null|KOO vs FW|5|9|2014 Season World Championship
+Acumen|7|6|20|0|Lucian|Syndra|CLG vs KOO|2|1|Season 1 World Championship
+Acuminate|7|3|8|1|Malzahar|Kayle|CLG vs FW|4|4|2015 IWCT - Turkey
+Acuna|8|5|7|0|Volibear|Null|KOO vs FW|1|8|2014 Season World Championship
+Acupuncture|8|0|3|1|Master Yi|Null|paiN vs CLG|6|4|2015 IWCT - Chile
+Acus|10|0|20|0|Miss Fortune|Null|KOO vs FW|9|8|2015 IWCT - Chile
+Acutance|4|2|14|1|Mordekaiser|Trundle|FW vs CLG|3|6|2015 IWCT - Chile
+Acute|8|7|7|1|Kassadin|Evelynn|paiN vs KOO|3|4|IEM Season X - San Jose
+Acyl|0|1|5|0|Quinn|Twisted Fate|FW vs KOO|3|4|2015 IWCT - Chile
+Ad|10|9|16|0|Talon|Anivia|paiN vs CLG|7|7|2014 Season World Championship
+Ada|3|10|5|0|Diana|Null|CLG vs KOO|9|7|IEM Season X - San Jose
+Adaadabel|6|4|5|1|Braum|Nidalee|KOO vs FW|1|3|2015 IWCT - Turkey
+Adabelle|1|8|5|1|Gragas|Teemo|KOO vs paiN|5|2|IEM Season X - Cologne
+Adachi|9|3|6|0|Ezreal|Null|paiN vs CLG|5|10|IEM Season X - San Jose
+Adactylous|1|7|2|0|Jarvan Iv|Null|TSM vs CLG|5|8|IEM Season X - Cologne
+Adage|9|9|9|0|Wukong|Null|CLG vs paiN|5|2|Season 2 World Championship
+Adagietto|2|8|18|1|Jinx|Null|paiN vs FW|8|6|2014 Season World Championship
+Adagio|0|4|18|1|Zac|Diana|CLG vs KOO|3|9|2015 IWCT - Turkey
+Adah|10|3|3|0|Ziggs|Gangplank|CLG vs KOO|6|6|2014 Season World Championship
+Adahadaha|3|10|18|0|Ekko|Null|paiN vs KOO|7|6|Season 2 World Championship
+Adaiha|3|2|20|0|Twisted Fate|Null|CLG vs KOO|9|4|IEM Season X - World Championship
+Adair|9|7|9|0|Warwick|Null|FW vs CLG|9|6|2015 IWCT - Chile
+Adal|4|10|17|1|Fiddlesticks|Null|FW vs KOO|6|3|IEM Season X - World Championship
+Adala|0|7|8|0|Jarvan Iv|Null|KOO vs CLG|1|2|Season 3 World Championship
+Adalai|0|7|18|0|Kassadin|Swain|CLG vs FW|7|6|IEM Season X - San Jose
+Adalard|7|2|16|0|Skarner|Karthus|KOO vs paiN|8|3|IEM Season X - Cologne
+Adalbert|5|2|18|1|Twitch|Null|KOO vs CLG|2|9|IEM Season X - San Jose
+Adali|6|0|15|1|Kindred|Kog'Maw|FW vs KOO|7|9|2014 Season World Championship
+Adaliah|2|5|8|1|Lux|Renekton|TSM vs CLG|6|3|IEM Season X - World Championship
+Adalie|3|1|15|1|Syndra|Null|FW vs paiN|9|1|Season 2 World Championship
+Adaline|10|1|7|1|Elise|Draven|paiN vs CLG|4|8|2015 IWCT - Chile
+Adallard|3|1|19|1|Maokai|Akali|paiN vs CLG|6|7|IEM Season X - San Jose
+Adam|1|3|7|1|Jarvan Iv|Rumble|KOO vs paiN|7|3|IEM Season X - San Jose
+Adama|6|9|4|1|Volibear|Urgot|paiN vs FW|5|5|2015 IWCT - Turkey
+Adamandeve|4|3|16|1|Thresh|Null|KOO vs paiN|1|8|IEM Season X - World Championship
+Adamant|5|5|0|1|Lux|Null|FW vs KOO|2|10|IEM Season X - World Championship
+Adamantine|2|2|15|0|Skarner|Illaoi|KOO vs paiN|1|3|IEM Season X - San Jose
+Adame|1|4|12|1|Vi|Null|CLG vs KOO|1|1|2015 IWCT - Chile
+Adamec|1|7|9|0|Zed|Caitlyn|KOO vs paiN|8|2|2014 Season World Championship
+Adamek|3|2|6|1|Skarner|Null|KOO vs paiN|9|2|IEM Season X - San Jose
+Adames|1|10|8|0|Draven|Alistar|FW vs CLG|1|5|2015 IWCT - Chile
+Adamic|10|0|3|1|Cassiopeia|Null|CLG vs KOO|2|10|IEM Season X - San Jose
+Adamik|10|3|12|0|Brand|Null|CLG vs paiN|4|4|Season 2 World Championship
+Adamina|1|2|11|0|Sona|Maokai|KOO vs CLG|8|7|IEM Season X - San Jose
+Adaminah|2|10|0|0|Jax|Vi|CLG vs KOO|10|5|2015 IWCT - Turkey
+Adamis|0|7|18|0|Renekton|Nocturne|FW vs CLG|10|7|Season 1 World Championship
+Adamite|0|1|14|1|Illaoi|Null|CLG vs KOO|9|3|Season 1 World Championship
+Adamo|6|1|9|1|Annie|Null|KOO vs CLG|2|10|2014 Season World Championship
+Adamok|8|9|10|1|Nami|Nami|FW vs CLG|10|2|Season 3 World Championship
+Adams|1|8|14|0|Yasuo|Lux|TSM vs CLG|3|1|2014 Season World Championship
+Adamsen|0|4|15|1|Soraka|Null|paiN vs CLG|9|1|IEM Season X - San Jose
+Adamsite|6|1|7|0|Kalista|Null|paiN vs KOO|9|7|IEM Season X - San Jose
+Adamski|4|9|11|1|Karthus|Jarvan Iv|CLG vs FW|8|5|IEM Season X - San Jose
+Adamson|6|2|6|0|Yasuo|Evelynn|paiN vs KOO|2|4|Season 2 World Championship
+Adamsun|4|0|12|0|Maokai|Null|FW vs paiN|7|6|2015 IWCT - Chile
+Adan|1|4|14|0|Cho'Gath|Nautilus|TSM vs CLG|9|7|IEM Season X - World Championship
+Adao|5|10|13|1|Talon|Kennen|paiN vs FW|4|8|IEM Season X - Cologne
+Adapa|5|10|6|0|Anivia|Null|paiN vs KOO|3|7|Season 3 World Championship
+Adapt|0|2|10|0|Nami|Katarina|paiN vs CLG|9|5|2015 IWCT - Turkey
+Adaptable|7|10|6|1|Darius|Null|FW vs CLG|4|3|2015 IWCT - Chile
+Adaptation|5|3|13|0|Fiora|Null|TSM vs CLG|7|2|2015 IWCT - Chile
+Adapter|4|7|9|1|Jhin|Alistar|CLG vs paiN|3|2|IEM Season X - Cologne
+Adaptive|0|1|3|0|Ashe|Null|KOO vs CLG|1|10|IEM Season X - San Jose
+Adar|0|9|16|1|Master Yi|Null|FW vs KOO|9|5|Season 2 World Championship
+Adara|7|5|3|0|Nunu|Null|paiN vs KOO|5|4|Season 2 World Championship
+Adaurd|8|8|18|0|Braum|Null|FW vs KOO|2|8|IEM Season X - Cologne
+Adaxial|0|6|1|1|Jhin|Xerath|FW vs CLG|9|2|2015 IWCT - Turkey
+Aday|4|8|8|0|Alistar|Null|FW vs CLG|7|10|2015 IWCT - Turkey
+Adcock|6|2|20|1|Zed|Yasuo|KOO vs CLG|4|1|2014 Season World Championship
+Add|3|7|13|1|Twisted Fate|Nami|KOO vs CLG|3|2|2014 Season World Championship
+Adda|1|2|1|0|Syndra|Null|FW vs CLG|5|6|2015 IWCT - Turkey
+Addam|4|1|10|1|Thresh|Null|KOO vs CLG|8|10|Season 3 World Championship
+Addams|1|1|10|0|Nunu|Soraka|CLG vs KOO|2|5|Season 1 World Championship
+Addax|6|6|9|0|Lissandra|Null|TSM vs CLG|3|6|2015 IWCT - Turkey
+Addend|8|9|14|1|Riven|Kennen|paiN vs CLG|9|1|IEM Season X - World Championship
+Addendum|2|5|4|1|Leblanc|Null|TSM vs CLG|1|4|2015 IWCT - Chile
+Adder|5|2|3|1|Ezreal|Null|KOO vs FW|3|6|IEM Season X - San Jose
+Addi|6|4|5|1|Nunu|Gragas|paiN vs CLG|6|2|IEM Season X - Cologne
+Addia|9|10|2|0|Vi|Null|FW vs paiN|3|6|2015 IWCT - Chile
+Addict|9|3|10|1|Evelynn|Nautilus|FW vs KOO|4|3|2015 IWCT - Turkey
+Addicted|3|7|1|1|Dr. Mundo|Aurelion Sol|CLG vs paiN|8|1|IEM Season X - Cologne
+Addictive|10|3|12|0|Shyvana|Hecarim|paiN vs FW|9|4|2015 IWCT - Chile
+Addieaddiego|7|2|7|0|Varus|Null|CLG vs FW|9|4|IEM Season X - World Championship
+Addington|4|3|10|0|Viktor|Nami|CLG vs paiN|8|4|2015 IWCT - Chile
+Addis|0|8|18|1|Heimerdinger|Null|paiN vs FW|9|4|IEM Season X - World Championship
+Addison|10|6|16|1|Vel'Koz|Null|FW vs KOO|6|1|IEM Season X - Cologne
+Additament|4|2|12|0|Lulu|Null|FW vs paiN|10|2|Season 3 World Championship
+Addition|2|4|2|1|Ahri|Null|TSM vs CLG|1|5|Season 1 World Championship
+Additional|6|9|3|1|Jinx|Zac|paiN vs CLG|9|9|2014 Season World Championship
+Additive|4|3|8|0|Lucian|Null|FW vs KOO|8|5|2014 Season World Championship
+Addle|8|1|20|0|Orianna|Katarina|FW vs KOO|8|8|2015 IWCT - Turkey
+Addlebrained|1|4|20|0|Shaco|Thresh|FW vs CLG|2|6|Season 3 World Championship
+Addlepated|7|4|9|0|Vel'Koz|Janna|KOO vs paiN|4|7|2014 Season World Championship
+Address|1|10|11|1|Warwick|Null|FW vs CLG|5|5|2014 Season World Championship
+Addressee|1|3|17|0|Gragas|Graves|FW vs KOO|1|6|Season 3 World Championship
+Addressograph|10|1|13|0|Shen|Null|FW vs KOO|8|10|Season 1 World Championship
+Adduce|3|10|16|0|Karma|Yorick|TSM vs CLG|4|3|2015 IWCT - Turkey
+Adduct|2|1|13|0|Karthus|Miss Fortune|FW vs paiN|9|9|IEM Season X - San Jose
+Adduction|7|1|16|1|Nunu|Sivir|CLG vs FW|4|8|2015 IWCT - Turkey
+Adductor|4|9|0|0|Lee Sin|Vel'Koz|FW vs CLG|1|4|IEM Season X - Cologne
+Addy|5|5|16|1|Shyvana|Anivia|CLG vs FW|9|5|IEM Season X - World Championship
+Ade|2|1|11|0|Kalista|Null|KOO vs FW|6|2|IEM Season X - San Jose
+Adebayo|5|3|0|1|Shaco|Null|KOO vs paiN|7|3|IEM Season X - World Championship
+Adel|6|8|20|1|Azir|Null|CLG vs paiN|5|7|IEM Season X - World Championship
+Adela|6|3|3|0|Janna|Trundle|FW vs paiN|3|1|IEM Season X - World Championship
+Adelaadelaida|2|5|19|1|Bard|Null|CLG vs FW|7|8|IEM Season X - World Championship
+Adelaidaadelaide|2|10|0|0|Malzahar|Null|FW vs paiN|9|6|Season 3 World Championship
+Adelaideadelaja|7|0|19|1|Evelynn|Xin Zhao|KOO vs FW|3|7|IEM Season X - San Jose
+Adelbert|4|9|6|1|Lux|Illaoi|KOO vs paiN|3|10|Season 1 World Championship
+Adele|5|0|16|1|Azir|Null|CLG vs paiN|10|4|Season 3 World Championship
+Adeleadelheid|1|9|6|1|Blitzcrank|Shen|FW vs KOO|10|7|IEM Season X - San Jose
+Adelia|5|5|8|1|Fizz|Null|CLG vs paiN|7|1|IEM Season X - San Jose
+Adeliaadelice|0|2|1|0|Tryndamere|Null|paiN vs FW|3|1|2014 Season World Championship
+Adelina|8|0|9|0|Jayce|Null|paiN vs KOO|9|5|2015 IWCT - Turkey
+Adeline|8|2|20|0|Alistar|Mordekaiser|CLG vs paiN|1|6|IEM Season X - San Jose
+Adellaadelle|7|6|9|1|Ryze|Null|TSM vs CLG|3|9|IEM Season X - San Jose
+Adelladella|1|9|17|1|Elise|Null|KOO vs CLG|9|4|Season 2 World Championship
+Adelleadelpho|2|8|8|1|Twitch|Null|CLG vs FW|2|3|IEM Season X - World Championship
+Adelric|10|3|17|1|Aurelion Sol|Null|KOO vs paiN|2|7|2014 Season World Championship
+Ademption|1|5|8|1|Olaf|Amumu|paiN vs KOO|8|10|IEM Season X - World Championship
+Aden|1|6|14|1|Singed|Null|FW vs KOO|5|9|2014 Season World Championship
+Adena|1|5|14|1|Malphite|Null|CLG vs FW|8|5|2014 Season World Championship
+Adenaadenauer|1|8|19|0|Fizz|Ashe|CLG vs paiN|2|7|IEM Season X - San Jose
+Adenectomy|0|6|9|1|Kennen|Null|paiN vs KOO|1|10|Season 2 World Championship
+Adenine|6|6|14|1|Poppy|Wukong|CLG vs KOO|4|7|2015 IWCT - Turkey
+Adenitis|0|10|20|0|Kassadin|Null|FW vs KOO|2|2|2015 IWCT - Chile
+Adeno|9|9|5|0|Swain|Volibear|paiN vs CLG|7|4|Season 1 World Championship
+Adenocarcinoma|3|4|5|0|Soraka|Null|FW vs KOO|10|9|2014 Season World Championship
+Adenoid|5|3|15|1|Mordekaiser|Ziggs|FW vs paiN|3|10|IEM Season X - Cologne
+Adenoidal|4|9|12|1|Lulu|Skarner|FW vs KOO|2|8|2015 IWCT - Chile
+Adenoidectomy|4|4|14|1|Kog'Maw|Null|KOO vs CLG|5|6|2015 IWCT - Turkey
+Adenoma|6|6|4|1|Sejuani|Null|KOO vs paiN|10|7|IEM Season X - Cologne
+Adenosine|5|1|19|0|Alistar|Morgana|KOO vs FW|3|7|2015 IWCT - Turkey
+Adenovirus|2|0|13|0|Talon|Null|CLG vs FW|6|9|Season 3 World Championship
+Adept|10|1|11|1|Zyra|Varus|TSM vs CLG|8|5|IEM Season X - San Jose
+Adequacy|6|8|10|1|Varus|Null|paiN vs CLG|1|9|IEM Season X - World Championship
+Adequate|1|5|12|1|Evelynn|Xerath|FW vs paiN|7|2|Season 1 World Championship
+Ader|10|0|9|0|Urgot|Null|KOO vs CLG|6|10|Season 3 World Championship
+Adermin|6|7|19|0|Katarina|Null|FW vs CLG|2|1|Season 2 World Championship
+Adessive|8|5|2|1|Cassiopeia|Null|paiN vs KOO|6|3|2015 IWCT - Chile
+Adest|5|0|18|1|Kayle|Null|FW vs KOO|1|7|Season 3 World Championship
+Adey|0|10|4|0|Cassiopeia|Katarina|CLG vs FW|4|9|Season 1 World Championship
+Adham|2|1|6|1|Olaf|Null|CLG vs FW|5|8|Season 2 World Championship
+Adhamh|7|4|10|1|Brand|Twitch|CLG vs KOO|8|1|2015 IWCT - Turkey
+Adhere|5|3|15|0|Talon|Null|TSM vs CLG|1|8|IEM Season X - Cologne
+Adherence|10|5|19|0|Vi|Null|paiN vs KOO|1|2|Season 2 World Championship
+Adherent|5|1|11|1|Singed|Null|FW vs CLG|9|3|2015 IWCT - Turkey
+Adhern|7|10|14|1|Katarina|Nami|paiN vs CLG|2|8|IEM Season X - San Jose
+Adhesion|5|1|8|0|Jax|Null|CLG vs FW|8|3|2014 Season World Championship
+Adhibit|1|4|18|0|Xerath|Rengar|paiN vs KOO|5|5|IEM Season X - Cologne
+Adi|9|10|9|1|Ekko|Null|KOO vs FW|5|3|2014 Season World Championship
+Adiabatic|1|2|1|0|Anivia|Blitzcrank|KOO vs CLG|4|7|Season 1 World Championship
+Adiana|5|3|4|0|Braum|Lux|FW vs KOO|4|9|IEM Season X - San Jose
+Adiaphorism|10|9|1|0|Yasuo|Null|FW vs paiN|4|2|IEM Season X - Cologne
+Adiaphorous|10|1|13|1|Warwick|Null|CLG vs KOO|7|4|Season 3 World Championship
+Adiathermancy|1|7|3|0|Udyr|Veigar|KOO vs FW|7|4|IEM Season X - San Jose
+Adiel|1|9|8|1|Illaoi|Null|KOO vs CLG|1|10|2015 IWCT - Chile
+Adiell|1|1|17|1|Zilean|Null|paiN vs FW|9|7|Season 3 World Championship
+Adieu|8|3|5|0|Kog'Maw|Orianna|CLG vs KOO|10|4|IEM Season X - Cologne
+Adige|8|2|7|1|Sivir|Ziggs|KOO vs CLG|4|5|Season 1 World Championship
+Adigranth|0|9|19|1|Cassiopeia|Ezreal|paiN vs KOO|2|1|IEM Season X - San Jose
+Adigun|6|5|10|1|Twisted Fate|Illaoi|paiN vs KOO|8|2|Season 3 World Championship
+Adila|10|2|0|0|Tryndamere|Null|FW vs CLG|6|10|2015 IWCT - Chile
+Adim|9|6|5|1|Veigar|Wukong|FW vs CLG|2|2|2015 IWCT - Turkey
+Adin|8|3|1|1|Jinx|Null|FW vs paiN|6|6|Season 1 World Championship
+Adina|5|7|17|1|Braum|Null|paiN vs CLG|7|5|Season 3 World Championship
+Adinaadine|7|10|7|0|Vel'Koz|Azir|FW vs paiN|6|5|IEM Season X - San Jose
+Adios|7|8|6|0|Kindred|Null|FW vs paiN|5|9|2015 IWCT - Chile
+Adipocere|2|8|7|0|Leblanc|Null|paiN vs CLG|9|4|2014 Season World Championship
+Adipose|3|10|15|1|Sion|Yasuo|paiN vs CLG|8|10|IEM Season X - Cologne
+Adis|0|2|17|0|Jhin|Null|CLG vs FW|9|1|2015 IWCT - Turkey
+Adit|10|10|20|1|Varus|Null|CLG vs paiN|10|7|Season 1 World Championship
+Adjacency|1|10|12|1|Rammus|Null|FW vs CLG|10|5|IEM Season X - Cologne
+Adjacent|3|8|12|0|Urgot|Null|KOO vs CLG|9|4|IEM Season X - Cologne
+Adjectival|5|10|9|1|Malphite|Xin Zhao|TSM vs CLG|3|10|2014 Season World Championship
+Adjective|6|3|14|0|Rumble|Kha'Zix|FW vs paiN|5|1|IEM Season X - Cologne
+Adjoin|1|4|6|0|Teemo|Riven|CLG vs FW|8|7|IEM Season X - World Championship
+Adjoining|3|3|20|1|Kassadin|Null|FW vs paiN|2|10|IEM Season X - San Jose
+Adjoint|7|6|12|0|Kalista|Null|TSM vs CLG|2|1|2015 IWCT - Turkey
+Adjourn|7|6|12|1|Xerath|Riven|paiN vs FW|10|7|IEM Season X - Cologne
+Adjournment|6|8|14|1|Vel'Koz|Mordekaiser|paiN vs CLG|7|2|Season 2 World Championship
+Adjudge|6|9|9|1|Tryndamere|Dr. Mundo|FW vs CLG|1|7|Season 1 World Championship
+Adjudicate|8|4|4|1|Taric|Hecarim|FW vs paiN|4|1|2014 Season World Championship
+Adjudication|5|1|0|1|Zilean|Malzahar|KOO vs CLG|5|8|Season 3 World Championship
+Adjunct|1|5|18|1|Singed|Null|paiN vs FW|9|2|2014 Season World Championship
+Adjunction|6|1|8|1|Azir|Fiddlesticks|KOO vs CLG|2|8|Season 2 World Championship
+Adjure|5|8|2|0|Riven|Null|FW vs paiN|2|2|2014 Season World Championship
+Adjust|0|2|15|1|Ziggs|Talon|paiN vs CLG|7|7|2015 IWCT - Turkey
+Adjustment|5|8|9|1|Cho'Gath|Gangplank|paiN vs KOO|1|4|2015 IWCT - Chile
+Adjutant|6|5|15|1|Graves|Diana|FW vs paiN|3|4|2015 IWCT - Chile
+Adjuvant|4|7|19|1|Blitzcrank|Null|FW vs paiN|8|4|2014 Season World Championship
+Adkins|10|5|12|0|Lee Sin|Null|paiN vs CLG|2|1|IEM Season X - World Championship
+Adkinson|0|3|18|0|Annie|Null|FW vs CLG|9|2|IEM Season X - World Championship
+Adkison|9|3|18|1|Kassadin|Azir|KOO vs FW|6|10|IEM Season X - Cologne
+Adkisson|6|6|10|1|Nocturne|Null|CLG vs paiN|4|3|2015 IWCT - Chile
+Adlai|8|2|17|1|Nocturne|Null|CLG vs KOO|3|10|IEM Season X - World Championship
+Adlar|4|8|0|1|Lissandra|Kayle|CLG vs KOO|2|5|Season 2 World Championship
+Adlare|5|9|12|1|Blitzcrank|Null|CLG vs paiN|8|4|IEM Season X - San Jose
+Adlay|10|7|4|1|Heimerdinger|Null|KOO vs paiN|10|2|Season 3 World Championship
+Adlee|2|9|2|1|Olaf|Null|TSM vs CLG|9|6|Season 2 World Championship
+Adlei|5|5|2|0|Nidalee|Null|TSM vs CLG|5|10|2014 Season World Championship
+Adler|1|8|15|1|Akali|Null|paiN vs CLG|4|8|IEM Season X - World Championship
+Adley|7|4|7|0|Soraka|Null|CLG vs FW|8|4|IEM Season X - Cologne
+Adlib|0|8|6|0|Sion|Null|CLG vs FW|5|2|IEM Season X - San Jose
+Adman|9|1|16|1|Draven|Null|paiN vs FW|4|7|Season 2 World Championship
+Admass|9|4|3|1|Udyr|Null|KOO vs CLG|9|2|IEM Season X - San Jose
+Admeasurement|1|9|16|1|Taric|Null|FW vs KOO|7|3|Season 3 World Championship
+Admetus|7|7|18|0|Syndra|Kog'Maw|KOO vs CLG|6|3|2014 Season World Championship
+Adminicle|7|10|18|0|Hecarim|Fiora|TSM vs CLG|8|6|2015 IWCT - Turkey
+Administer|4|3|12|0|Kalista|Hecarim|KOO vs CLG|6|9|2015 IWCT - Chile
+Administrate|6|4|4|1|Vayne|Kassadin|CLG vs paiN|9|10|2014 Season World Championship
+Administration|0|0|14|0|Zac|Cho'Gath|KOO vs paiN|2|10|Season 2 World Championship
+Administrative|4|2|17|1|Shaco|Null|KOO vs paiN|7|9|2014 Season World Championship
+Administrator|1|4|9|1|Blitzcrank|Null|FW vs KOO|1|3|2014 Season World Championship
+Admiral|0|9|4|1|Kassadin|Mordekaiser|KOO vs paiN|9|4|Season 3 World Championship
+Admiralty|10|7|10|1|Kha'Zix|Rumble|paiN vs CLG|2|1|Season 1 World Championship
+Admiration|5|9|15|0|Soraka|Ashe|TSM vs CLG|9|8|2015 IWCT - Chile
+Admire|8|4|13|1|Fiora|Null|KOO vs CLG|3|6|2015 IWCT - Turkey
+Admissible|6|5|17|1|Nidalee|Aurelion Sol|FW vs KOO|7|3|Season 2 World Championship
+Admission|3|4|6|0|Ekko|Kindred|paiN vs KOO|3|4|IEM Season X - World Championship
+Admissive|0|1|18|1|Garen|Null|paiN vs KOO|5|2|Season 3 World Championship
+Admit|3|8|13|1|Twisted Fate|Udyr|paiN vs CLG|10|6|Season 1 World Championship
+Admittance|4|9|20|0|Vladimir|Twitch|KOO vs paiN|5|3|Season 1 World Championship
+Admittedly|9|6|19|1|Teemo|Null|CLG vs KOO|9|2|2015 IWCT - Turkey
+Admixture|5|5|12|1|Soraka|Kog'Maw|KOO vs FW|4|4|2014 Season World Championship
+Admonish|10|7|0|0|Zilean|Elise|CLG vs KOO|9|7|2015 IWCT - Turkey
+Admonition|2|6|12|1|Udyr|Null|KOO vs paiN|9|6|Season 2 World Championship
+Admonitory|7|1|13|0|Lissandra|Null|CLG vs KOO|1|1|Season 1 World Championship
+Adna|2|5|14|1|Graves|Sion|paiN vs KOO|10|10|Season 2 World Championship
+Adnah|7|3|0|1|Teemo|Null|KOO vs CLG|2|7|IEM Season X - San Jose
+Adnate|4|7|20|0|Draven|Pantheon|KOO vs paiN|6|5|2015 IWCT - Turkey
+Adne|10|5|4|0|Fiora|Null|FW vs paiN|6|5|IEM Season X - Cologne
+Adnopoz|3|0|4|1|Sona|Cho'Gath|TSM vs CLG|6|9|Season 1 World Championship
+Ado|2|8|16|0|Kalista|Null|KOO vs FW|10|2|Season 1 World Championship
+Adobe|5|5|18|0|Poppy|Null|FW vs CLG|7|9|IEM Season X - World Championship
+Adolescence|2|7|8|0|Diana|Null|FW vs CLG|5|6|Season 3 World Championship
+Adolescent|5|3|9|0|Yasuo|Vi|paiN vs FW|1|3|2015 IWCT - Turkey
+Adolf|2|10|12|0|Fizz|Gangplank|FW vs paiN|8|2|IEM Season X - San Jose
+Adolfoadolph|4|4|12|1|Yorick|Null|CLG vs FW|10|7|Season 1 World Championship
+Adolphadolphe|8|2|3|0|Graves|Malzahar|CLG vs KOO|8|1|IEM Season X - San Jose
+Adolpho|2|10|18|0|Pantheon|Singed|CLG vs paiN|6|4|2015 IWCT - Chile
+Adolphus|10|1|17|1|Zilean|Null|paiN vs CLG|1|3|Season 2 World Championship
+Adon|10|1|20|0|Rammus|Cassiopeia|CLG vs FW|7|6|Season 3 World Championship
+Adonai|1|2|17|0|Katarina|Null|FW vs paiN|9|2|Season 3 World Championship
+Adonic|0|2|20|1|Azir|Null|FW vs KOO|8|1|2015 IWCT - Chile
+Adonis|3|9|18|1|Maokai|Null|paiN vs KOO|1|6|2015 IWCT - Chile
+Adopted|3|9|20|0|Anivia|Shyvana|paiN vs CLG|6|5|IEM Season X - World Championship
+Adoptive|5|2|14|0|Sejuani|Diana|KOO vs paiN|6|3|Season 1 World Championship
+Adora|6|0|2|0|Leona|Null|KOO vs CLG|4|8|2015 IWCT - Chile
+Adorable|9|6|2|0|Rumble|Null|KOO vs CLG|6|3|IEM Season X - San Jose
+Adoration|0|2|3|0|Fizz|Ekko|CLG vs KOO|2|2|Season 3 World Championship
+Adore|5|3|4|1|Nautilus|Null|KOO vs paiN|5|6|2015 IWCT - Turkey
+Adoree|3|2|13|1|Ashe|Null|KOO vs FW|7|2|Season 3 World Championship
+Adorl|7|10|14|0|Evelynn|Lee Sin|FW vs CLG|3|5|2015 IWCT - Turkey
+Adorn|3|8|8|1|Blitzcrank|Null|FW vs KOO|10|3|Season 1 World Championship
+Adorne|2|8|1|0|Zyra|Aurelion Sol|paiN vs FW|1|10|Season 2 World Championship
+Adornment|1|0|10|0|Ahri|Null|FW vs paiN|5|8|2015 IWCT - Chile
+Adorno|7|0|11|1|Nidalee|Null|TSM vs CLG|4|4|IEM Season X - World Championship
+Adowa|7|4|0|0|Renekton|Null|CLG vs KOO|2|8|2015 IWCT - Turkey
+Adown|9|2|18|0|Kindred|Swain|paiN vs CLG|9|3|Season 3 World Championship
+Adp|3|6|4|0|Nunu|Null|FW vs paiN|3|10|Season 1 World Championship
+Adrea|8|0|3|1|Ziggs|Elise|KOO vs FW|5|9|Season 2 World Championship
+Adrell|8|1|1|1|Anivia|Shaco|KOO vs CLG|2|6|Season 3 World Championship
+Adrenal|0|8|11|0|Varus|Vel'Koz|FW vs KOO|3|4|IEM Season X - Cologne
+Adrenalin|1|9|14|1|Twitch|Null|paiN vs CLG|3|2|2014 Season World Championship
+Adrenaline|7|3|15|1|Nocturne|Null|FW vs CLG|1|10|IEM Season X - San Jose
+Adrenocorticotropic|5|6|0|0|Blitzcrank|Null|CLG vs paiN|8|4|IEM Season X - World Championship
+Adria|1|10|12|1|Rumble|Karma|CLG vs KOO|3|4|Season 1 World Championship
+Adriaadriaens|0|2|14|0|Kennen|Null|FW vs KOO|4|4|Season 1 World Championship
+Adrial|10|1|12|1|Xin Zhao|Lucian|FW vs paiN|8|10|Season 3 World Championship
+Adrian|6|0|15|0|Sion|Null|paiN vs KOO|2|9|Season 2 World Championship
+Adrianadriana|3|2|6|0|Dr. Mundo|Swain|CLG vs KOO|4|1|IEM Season X - World Championship
+Adrianeadrianna|0|7|17|0|Elise|Elise|CLG vs KOO|5|6|Season 2 World Championship
+Adriannaadrianne|9|10|15|0|Ezreal|Null|paiN vs KOO|1|7|IEM Season X - San Jose
+Adrianneadriano|6|4|2|1|Jhin|Nami|CLG vs KOO|6|4|2014 Season World Championship
+Adrianople|9|2|15|0|Kayle|Wukong|KOO vs paiN|6|10|2015 IWCT - Turkey
+Adriatic|1|9|7|0|Ahri|Fiddlesticks|paiN vs KOO|9|8|2014 Season World Championship
+Adriel|2|6|18|0|Kha'Zix|Null|paiN vs CLG|8|3|2015 IWCT - Turkey
+Adriell|1|8|17|0|Vel'Koz|Null|FW vs CLG|1|6|IEM Season X - Cologne
+Adrien|9|4|16|0|Lux|Diana|CLG vs FW|7|1|Season 2 World Championship
+Adrienadriena|10|5|7|0|Kassadin|Ezreal|FW vs CLG|8|1|Season 3 World Championship
+Adriene|6|3|15|1|Jarvan Iv|Rammus|paiN vs CLG|9|4|2015 IWCT - Turkey
+Adrieneadrienne|7|1|20|1|Teemo|Null|KOO vs FW|8|5|2015 IWCT - Chile
+Adrienneadrift|6|5|10|1|Jinx|Null|TSM vs CLG|1|6|IEM Season X - San Jose
+Adroit|2|6|11|0|Wukong|Orianna|paiN vs FW|7|3|Season 1 World Championship
+Adscititious|2|5|14|1|Sion|Sion|paiN vs FW|1|10|2015 IWCT - Turkey
+Adscription|3|6|13|0|Kalista|Null|CLG vs KOO|9|5|Season 1 World Championship
+Adsorb|1|1|13|1|Illaoi|Null|KOO vs FW|9|7|Season 1 World Championship
+Adsorbate|3|8|11|0|Rammus|Null|CLG vs FW|9|2|IEM Season X - San Jose
+Adsorbent|5|6|2|0|Lissandra|Garen|CLG vs paiN|7|1|IEM Season X - Cologne
+Adularia|0|8|8|0|Taric|Kha'Zix|paiN vs CLG|9|8|IEM Season X - San Jose
+Adulation|3|4|15|0|Amumu|Twisted Fate|FW vs paiN|10|4|Season 3 World Championship
+Adult|9|4|16|0|Zed|Tryndamere|paiN vs KOO|2|6|Season 1 World Championship
+Adulterant|5|10|15|1|Lux|Diana|FW vs CLG|9|9|Season 2 World Championship
+Adulterate|3|0|16|1|Galio|Null|paiN vs KOO|4|5|Season 1 World Championship
+Adulteration|0|10|15|0|Jarvan Iv|Thresh|KOO vs FW|2|3|IEM Season X - Cologne
+Adulterer|0|0|19|1|Braum|Corki|CLG vs paiN|8|3|2015 IWCT - Turkey
+Adulteress|9|4|8|1|Zyra|Null|paiN vs KOO|7|8|Season 1 World Championship
+Adulterine|9|8|18|1|Olaf|Varus|paiN vs CLG|3|4|Season 2 World Championship
+Adulterous|10|1|4|0|Gangplank|Null|FW vs CLG|8|10|Season 3 World Championship
+Adultery|6|7|14|0|Malphite|Nunu|CLG vs paiN|2|10|Season 1 World Championship
+Adulthood|3|6|8|0|Orianna|Trundle|FW vs CLG|3|3|2015 IWCT - Chile
+Adumbral|10|1|4|0|Blitzcrank|Singed|CLG vs KOO|4|7|Season 2 World Championship
+Adumbrate|6|6|1|0|Vi|Null|CLG vs FW|2|5|Season 2 World Championship
+Adur|9|9|6|0|Sejuani|Lux|FW vs paiN|7|10|Season 2 World Championship
+Adust|7|2|4|0|Evelynn|Null|FW vs paiN|1|9|IEM Season X - San Jose
+Aduwa|7|2|3|1|Poppy|Udyr|FW vs paiN|9|10|Season 1 World Championship
+Advance|7|3|17|0|Zilean|Jarvan Iv|KOO vs CLG|1|6|2015 IWCT - Turkey
+Advanced|6|6|1|0|Xerath|Xin Zhao|CLG vs paiN|2|8|2015 IWCT - Turkey
+Advancement|6|2|19|0|Gragas|Leona|CLG vs FW|6|7|IEM Season X - San Jose
+Advantage|4|8|7|0|Leona|Null|KOO vs CLG|10|7|IEM Season X - World Championship
+Advantageous|4|6|11|1|Ryze|Viktor|CLG vs KOO|1|4|IEM Season X - San Jose
+Advection|1|9|2|0|Darius|Rengar|paiN vs CLG|6|7|Season 2 World Championship
+Advent|10|0|13|0|Cho'Gath|Rammus|TSM vs CLG|5|7|Season 1 World Championship
+Adventist|7|9|8|1|Tahm Kench|Null|paiN vs CLG|8|4|IEM Season X - World Championship
+Adventitia|9|4|9|1|Azir|Null|FW vs paiN|2|9|IEM Season X - World Championship
+Adventitious|6|5|14|1|Xerath|Null|CLG vs paiN|1|9|IEM Season X - Cologne
+Adventure|1|6|5|0|Ahri|Zed|CLG vs FW|10|9|2014 Season World Championship
+Adventurer|8|0|17|0|Aatrox|Null|KOO vs paiN|8|4|Season 2 World Championship
+Adventuresome|0|4|7|1|Twisted Fate|Null|KOO vs CLG|8|9|IEM Season X - San Jose
+Adventuress|2|3|9|0|Aurelion Sol|Null|paiN vs CLG|1|6|IEM Season X - Cologne
+Adventurism|0|7|18|1|Karthus|Null|FW vs paiN|2|9|Season 2 World Championship
+Adventurous|10|2|19|0|Katarina|Twitch|TSM vs CLG|7|7|2015 IWCT - Chile
+Adverb|1|10|3|0|Poppy|Vi|paiN vs CLG|6|10|IEM Season X - Cologne
+Adverbial|1|3|7|0|Viktor|Zyra|KOO vs FW|10|2|2014 Season World Championship
+Adversaria|2|3|19|1|Katarina|Null|KOO vs paiN|6|7|IEM Season X - World Championship
+Adversary|7|6|8|1|Malphite|Illaoi|FW vs CLG|6|8|IEM Season X - San Jose
+Adversative|6|7|19|1|Soraka|Pantheon|paiN vs KOO|2|5|Season 1 World Championship
+Adversity|10|2|18|1|Gangplank|Vel'Koz|TSM vs CLG|3|2|2015 IWCT - Chile
+Advert|3|3|17|0|Leblanc|Katarina|CLG vs paiN|3|1|Season 2 World Championship
+Advertence|2|4|2|1|Leona|Xerath|FW vs paiN|10|3|IEM Season X - San Jose
+Advertent|10|2|11|0|Corki|Null|CLG vs paiN|8|7|Season 2 World Championship
+Advertise|5|8|4|1|Yorick|Null|paiN vs FW|1|8|2015 IWCT - Turkey
+Advertisement|5|9|12|1|Zyra|Tristana|CLG vs paiN|2|2|IEM Season X - World Championship
+Advertising|0|2|1|1|Rengar|Null|KOO vs CLG|7|6|Season 3 World Championship
+Advice|5|6|13|0|Nidalee|Null|FW vs paiN|6|4|2015 IWCT - Chile
+Advisable|7|2|19|1|Renekton|Tristana|paiN vs FW|1|6|IEM Season X - San Jose
+Advise|8|6|18|0|Shen|Nasus|CLG vs paiN|6|1|IEM Season X - World Championship
+Advised|7|0|7|0|Sion|Alistar|CLG vs paiN|2|6|Season 3 World Championship
+Advisedly|2|1|19|1|Cassiopeia|Null|paiN vs FW|5|4|IEM Season X - San Jose
+Advisee|2|8|7|0|Lux|Null|paiN vs KOO|8|6|IEM Season X - Cologne
+Advisement|10|5|16|0|Kayle|Ahri|KOO vs CLG|6|10|2014 Season World Championship
+Adviser|6|2|20|1|Illaoi|Null|KOO vs paiN|9|7|Season 2 World Championship
+Advisory|2|5|8|0|Rammus|Null|FW vs paiN|10|9|IEM Season X - San Jose
+Advocaat|10|7|13|0|Trundle|Kayle|KOO vs FW|10|5|IEM Season X - San Jose
+Advocacy|6|0|7|0|Lucian|Null|FW vs paiN|1|9|Season 2 World Championship
+Advocate|0|3|3|1|Nidalee|Null|FW vs CLG|1|9|2015 IWCT - Chile
+Advocation|1|6|11|0|Viktor|Nunu|KOO vs paiN|4|8|2015 IWCT - Turkey
+Advowson|2|3|18|0|Diana|Xerath|KOO vs FW|6|4|IEM Season X - World Championship
+Adynamia|7|1|13|1|Irelia|Lee Sin|KOO vs FW|5|6|2015 IWCT - Turkey
+Adytum|7|0|18|0|Zyra|Null|FW vs paiN|8|1|2015 IWCT - Chile
+Adze|0|4|20|1|Shaco|Null|CLG vs paiN|3|9|IEM Season X - Cologne
+Aec|4|9|13|0|Yasuo|Rammus|KOO vs CLG|8|1|Season 3 World Championship
+Aeciospore|0|4|1|1|Ashe|Null|FW vs CLG|3|9|2015 IWCT - Turkey
+Aecium|1|7|16|0|Taric|Null|FW vs KOO|9|5|IEM Season X - Cologne
+Aedes|5|4|8|0|Shyvana|Null|paiN vs KOO|8|3|Season 2 World Championship
+Aedile|0|7|16|1|Jarvan Iv|Kennen|KOO vs CLG|10|1|2014 Season World Championship
+Aegaeon|1|10|10|1|Mordekaiser|Null|paiN vs FW|7|1|IEM Season X - Cologne
+Aegean|4|3|10|0|Kindred|Gragas|KOO vs paiN|1|8|IEM Season X - Cologne
+Aegeus|9|10|2|1|Riven|Kog'Maw|KOO vs paiN|5|2|2014 Season World Championship
+Aegina|1|6|5|0|Karma|Pantheon|CLG vs FW|4|6|2015 IWCT - Turkey
+Gunslinger|2|9|6|0|Nunu|Null|KOO vs CLG|8|5|2014 Season World Championship
+Gunsmith|10|5|14|1|Blitzcrank|Karma|paiN vs KOO|1|3|IEM Season X - Cologne
+Gunstock|3|6|6|0|Syndra|Vi|KOO vs FW|6|7|IEM Season X - World Championship
+Guntar|1|1|8|0|Taric|Kassadin|FW vs KOO|2|3|Season 2 World Championship
+Gunter|3|3|20|1|Yorick|Dr. Mundo|FW vs KOO|9|4|IEM Season X - World Championship
+Gunthar|1|9|15|0|Rengar|Null|FW vs paiN|1|7|Season 3 World Championship
+Gunther|6|2|16|0|Brand|Udyr|TSM vs CLG|3|8|Season 1 World Championship
+Gunwale|8|1|10|1|Master Yi|Nunu|paiN vs CLG|2|7|IEM Season X - San Jose
+Gunyah|1|2|17|1|Talon|Null|KOO vs paiN|6|3|IEM Season X - World Championship
+Gunzburg|7|0|14|0|Xerath|Janna|KOO vs CLG|9|10|IEM Season X - San Jose
+Guppy|1|0|18|1|Lux|Ziggs|paiN vs CLG|10|9|2014 Season World Championship
+Gupta|6|0|9|1|Vladimir|Null|paiN vs KOO|1|1|Season 2 World Championship
+Gupton|10|9|10|0|Elise|Null|TSM vs CLG|4|8|IEM Season X - San Jose
+Gur|1|9|20|1|Elise|Orianna|paiN vs KOO|7|7|Season 1 World Championship
+Gurango|5|10|6|0|Yorick|Kayle|paiN vs CLG|2|4|IEM Season X - World Championship
+Gurdwara|3|10|6|1|Swain|Annie|paiN vs KOO|6|8|2015 IWCT - Turkey
+Gurevich|6|5|6|0|Shen|Null|KOO vs CLG|5|4|2014 Season World Championship
+Gurge|10|5|16|1|Pantheon|Zac|CLG vs FW|5|1|2015 IWCT - Turkey
+Gurgitation|9|9|7|1|Irelia|Null|CLG vs FW|1|1|Season 2 World Championship
+Gurgle|10|9|18|1|Evelynn|Twitch|FW vs CLG|6|3|IEM Season X - San Jose
+Gurglet|0|7|6|0|Ziggs|Vel'Koz|FW vs KOO|5|7|Season 2 World Championship
+Guria|3|1|9|1|Nunu|Irelia|paiN vs KOO|7|8|Season 2 World Championship
+Gurias|6|2|20|0|Dr. Mundo|Xerath|FW vs CLG|1|10|Season 3 World Championship
+Gurkha|1|9|10|0|Twitch|Null|FW vs CLG|5|8|Season 3 World Championship
+Gurl|8|2|18|0|Twitch|Null|FW vs CLG|2|4|IEM Season X - World Championship
+Gurley|5|7|17|1|Jhin|Caitlyn|FW vs KOO|1|1|IEM Season X - Cologne
+Gurnard|6|6|7|0|Volibear|Tahm Kench|KOO vs paiN|9|1|Season 2 World Championship
+Gurney|1|2|11|0|Akali|Null|paiN vs FW|7|1|2014 Season World Championship
+Gurolinick|6|6|3|0|Nidalee|Null|CLG vs FW|7|6|2014 Season World Championship
+Gurrola|3|0|5|1|Nunu|Null|FW vs CLG|1|7|IEM Season X - World Championship
+Gurtner|5|9|0|0|Aatrox|Null|KOO vs FW|3|10|IEM Season X - World Championship
+Guru|0|1|0|0|Ezreal|Nami|TSM vs CLG|1|9|IEM Season X - World Championship
+Gurule|4|2|13|1|Galio|Null|CLG vs FW|9|5|Season 2 World Championship
+Gus|2|0|6|1|Brand|Singed|FW vs paiN|2|8|IEM Season X - San Jose
+Gusella|2|0|15|0|Karma|Null|paiN vs CLG|10|5|IEM Season X - San Jose
+Gusgusba|4|2|6|0|Maokai|Nunu|paiN vs FW|7|9|Season 1 World Championship
+Gush|1|4|20|1|Blitzcrank|Nautilus|CLG vs FW|8|3|Season 1 World Championship
+Halm|0|4|2|0|Nasus|Null|KOO vs CLG|1|8|2015 IWCT - Turkey
+Halmahera|3|2|9|1|Katarina|Jarvan Iv|KOO vs FW|6|5|2015 IWCT - Chile
+Halmstad|9|2|20|1|Shyvana|Nasus|FW vs paiN|10|10|Season 3 World Championship
+Halogen|6|6|7|0|Viktor|Null|KOO vs CLG|3|6|IEM Season X - World Championship
+Halogenate|2|1|14|1|Brand|Volibear|FW vs CLG|10|7|2015 IWCT - Turkey
+Haloid|3|6|4|1|Blitzcrank|Null|paiN vs KOO|1|8|IEM Season X - Cologne
+Halona|9|6|5|0|Twisted Fate|Null|paiN vs FW|10|3|IEM Season X - San Jose
+Halonna|8|8|3|1|Amumu|Hecarim|CLG vs paiN|9|7|2014 Season World Championship
+Halophyte|0|10|11|0|Ziggs|Null|TSM vs CLG|6|10|Season 3 World Championship
+Halothane|10|10|7|1|Malzahar|Null|FW vs CLG|10|7|IEM Season X - San Jose
+Halpern|2|9|12|0|Sion|Null|KOO vs CLG|9|4|2014 Season World Championship
+Halpin|2|8|13|1|Shen|Urgot|KOO vs CLG|10|8|2015 IWCT - Chile
+Hals|6|0|1|1|Syndra|Jax|KOO vs CLG|7|7|2015 IWCT - Turkey
+Halsey|2|6|18|1|Urgot|Thresh|TSM vs CLG|3|5|2015 IWCT - Turkey
+Halstead|8|1|8|1|Talon|Shaco|TSM vs CLG|10|6|2014 Season World Championship
+Halsted|10|5|10|0|Thresh|Null|TSM vs CLG|3|10|Season 2 World Championship
+Halsy|3|1|10|0|Lulu|Taric|CLG vs KOO|8|6|IEM Season X - Cologne
+Halt|8|3|6|1|Poppy|Null|KOO vs FW|8|1|Season 1 World Championship
+Halter|1|2|8|1|Soraka|Jarvan Iv|KOO vs CLG|2|1|2015 IWCT - Turkey
+Halting|6|1|0|0|Riven|Null|FW vs paiN|4|1|IEM Season X - World Championship
+Halutz|2|9|10|0|Teemo|Vladimir|CLG vs paiN|10|4|2014 Season World Championship
+Halvaard|5|0|16|1|Yasuo|Azir|KOO vs paiN|10|8|2014 Season World Championship
+Halvah|5|7|19|0|Dr. Mundo|Sivir|FW vs KOO|2|3|IEM Season X - San Jose
+Halverson|5|5|5|0|Master Yi|Null|paiN vs KOO|7|2|IEM Season X - San Jose
+Halves|1|2|3|0|Sion|Ekko|FW vs paiN|3|9|IEM Season X - World Championship
+Halvorsen|3|9|19|0|Vladimir|Null|CLG vs KOO|8|9|2015 IWCT - Turkey
+Halvorson|9|9|9|1|Xin Zhao|Nidalee|FW vs paiN|7|4|IEM Season X - World Championship
+Halyard|1|10|18|0|Draven|Braum|TSM vs CLG|5|5|2015 IWCT - Chile
+Ham|4|0|2|0|Diana|Illaoi|KOO vs FW|10|8|IEM Season X - San Jose
+Hama|8|10|7|1|Nasus|Illaoi|CLG vs KOO|9|1|2015 IWCT - Turkey
+Hamachi|4|0|12|0|Teemo|Tristana|FW vs CLG|5|3|2014 Season World Championship
+Hamadryad|1|2|14|1|Ekko|Null|KOO vs CLG|10|1|IEM Season X - Cologne
+Hamal|7|6|13|0|Diana|Null|FW vs paiN|9|1|IEM Season X - San Jose
+Hamamatsu|7|6|10|0|Jhin|Null|KOO vs paiN|2|6|Season 1 World Championship
+Hamamelidaceous|9|2|19|1|Lux|Nasus|KOO vs paiN|6|4|IEM Season X - San Jose
+Haman|8|10|16|1|Corki|Kog'Maw|paiN vs FW|7|10|Season 2 World Championship
+Hamann|6|10|13|1|Elise|Null|CLG vs FW|3|10|IEM Season X - World Championship
+Hamartia|9|10|0|1|Akali|Null|FW vs KOO|5|4|Season 1 World Championship
+Hamate|4|3|10|0|Kha'Zix|Null|TSM vs CLG|6|8|IEM Season X - World Championship
+Hambletonian|10|9|11|1|Bard|Null|KOO vs CLG|3|4|2015 IWCT - Turkey
+Hambley|1|2|16|1|Nautilus|Null|TSM vs CLG|10|3|IEM Season X - World Championship
+Hamblin|9|0|3|1|Zilean|Caitlyn|paiN vs KOO|4|1|IEM Season X - Cologne
+Hambrick|8|4|6|1|Volibear|Shyvana|KOO vs CLG|9|9|Season 2 World Championship
+Hamburg|6|6|13|0|Poppy|Null|CLG vs paiN|9|4|Season 3 World Championship
+Hamby|0|10|5|1|Kayle|Null|paiN vs KOO|2|10|2015 IWCT - Turkey
+Hame|1|4|6|0|Alistar|Elise|paiN vs CLG|2|9|Season 2 World Championship
+Hamel|4|10|0|0|Zyra|Thresh|paiN vs FW|2|9|IEM Season X - World Championship
+Hamer|0|7|3|1|Irelia|Teemo|CLG vs paiN|6|1|2015 IWCT - Turkey
+Hames|6|2|15|1|Garen|Nidalee|FW vs paiN|1|1|IEM Season X - Cologne
+Hamford|0|0|6|1|Kindred|Amumu|paiN vs CLG|10|1|Season 3 World Championship
+Hamforrd|1|10|2|0|Graves|Null|KOO vs FW|9|1|IEM Season X - World Championship
+Hamfurd|8|7|12|0|Nocturne|Rumble|TSM vs CLG|2|2|2015 IWCT - Turkey
+Hamhung|9|0|12|0|Urgot|Null|KOO vs CLG|9|6|2015 IWCT - Chile
+Hamid|4|6|17|0|Rammus|Null|CLG vs paiN|4|8|2015 IWCT - Turkey
+Hamil|1|0|2|0|Jayce|Braum|CLG vs FW|5|3|IEM Season X - Cologne
+Hamill|3|10|15|0|Zyra|Lissandra|CLG vs KOO|3|9|2015 IWCT - Chile
+Hamilton|2|1|9|0|Jarvan Iv|Gangplank|CLG vs FW|4|4|IEM Season X - San Jose
+Hamiltonian|0|6|7|1|Jax|Rammus|CLG vs KOO|3|2|IEM Season X - Cologne
+Hamish|2|7|7|0|Shyvana|Null|KOO vs CLG|6|2|2015 IWCT - Turkey
+Hamite|10|3|7|0|Zilean|Miss Fortune|FW vs KOO|4|5|Season 1 World Championship
+Hamitic|9|4|14|1|Caitlyn|Quinn|FW vs paiN|6|2|Season 3 World Championship
+Hamitosemitic|1|6|13|0|Shyvana|Lissandra|KOO vs paiN|7|10|IEM Season X - Cologne
+Hamlani|9|9|5|0|Annie|Null|CLG vs paiN|8|8|2014 Season World Championship
+Hamlen|6|4|14|1|Lulu|Illaoi|CLG vs FW|4|6|IEM Season X - World Championship
+Hamlet|10|4|2|1|Soraka|Janna|CLG vs FW|4|4|IEM Season X - Cologne
+Hamlett|3|0|0|0|Gragas|Shen|TSM vs CLG|4|8|IEM Season X - World Championship
+Hamlin|7|4|0|0|Xin Zhao|Null|CLG vs paiN|9|9|2015 IWCT - Turkey
+Hamm|10|6|18|0|Amumu|Azir|paiN vs FW|2|8|2015 IWCT - Turkey
+Hammack|4|0|4|0|Fizz|Null|paiN vs FW|10|10|Season 3 World Championship
+Hammad|6|7|0|1|Veigar|Master Yi|paiN vs KOO|2|8|2014 Season World Championship
+Hamman|4|7|2|0|Rumble|Null|TSM vs CLG|6|8|IEM Season X - Cologne
+Hammel|3|1|14|1|Ziggs|Null|FW vs KOO|7|8|2014 Season World Championship
+Hammer|8|0|9|1|Shaco|Corki|TSM vs CLG|7|10|IEM Season X - San Jose
+Hammered|1|8|4|0|Lissandra|Null|paiN vs KOO|3|6|2015 IWCT - Turkey
+Hammerfest|9|10|20|0|Alistar|Zed|paiN vs CLG|1|5|2014 Season World Championship
+Hammerhead|0|7|15|1|Orianna|Hecarim|CLG vs KOO|7|2|Season 3 World Championship
+Hammering|7|1|16|0|Jarvan Iv|Null|CLG vs KOO|1|2|2015 IWCT - Turkey
+Hammerless|8|1|20|0|Gangplank|Fiora|CLG vs FW|5|3|2015 IWCT - Turkey
+Hammerlock|3|1|0|0|Evelynn|Null|KOO vs CLG|8|6|IEM Season X - Cologne
+Hammers|6|1|11|0|Fiddlesticks|Null|CLG vs paiN|1|3|2015 IWCT - Turkey
+Hammerskjold|2|1|16|0|Fiora|Null|CLG vs paiN|10|10|2014 Season World Championship
+Hammertoe|8|10|8|0|Riven|Null|FW vs paiN|10|1|Season 3 World Championship
+Hammett|4|6|13|1|Skarner|Null|KOO vs CLG|4|5|IEM Season X - Cologne
+Hammock|7|7|8|1|Gangplank|Null|FW vs paiN|6|8|2015 IWCT - Turkey
+Hammond|0|4|1|1|Nidalee|Null|CLG vs paiN|9|6|Season 3 World Championship
+Hammonds|9|0|8|1|Pantheon|Null|paiN vs FW|1|8|Season 1 World Championship
+Hammons|3|0|0|1|Morgana|Null|paiN vs FW|6|3|IEM Season X - San Jose
+Hammurabi|6|10|12|0|Elise|Null|TSM vs CLG|10|1|IEM Season X - Cologne
+Hammy|5|2|15|0|Kha'Zix|Null|paiN vs FW|8|2|IEM Season X - Cologne
+Hamner|3|8|19|1|Kog'Maw|Yorick|TSM vs CLG|6|3|IEM Season X - Cologne
+Hamnet|10|2|11|1|Vi|Null|paiN vs FW|3|10|IEM Season X - San Jose
+Hamo|0|4|11|0|Blitzcrank|Lux|paiN vs FW|10|5|Season 2 World Championship
+Hamon|0|3|8|0|Olaf|Null|FW vs KOO|4|10|Season 3 World Championship
+Hampden|3|8|20|1|Graves|Kha'Zix|KOO vs FW|5|6|Season 3 World Championship
+Hampshire|2|10|15|0|Tahm Kench|Fiddlesticks|paiN vs FW|3|7|Season 3 World Championship
+Hampstead|3|7|1|0|Dr. Mundo|Malzahar|KOO vs CLG|6|6|2015 IWCT - Turkey
+Hampton|2|9|19|1|Nasus|Ashe|paiN vs FW|2|5|Season 2 World Championship
+Hamrah|6|6|4|0|Mordekaiser|Aatrox|CLG vs FW|8|7|2014 Season World Championship
+Hamrick|8|2|19|0|Renekton|Null|CLG vs KOO|9|2|2015 IWCT - Chile
+Hamrnand|2|4|2|1|Draven|Null|FW vs CLG|6|1|2015 IWCT - Chile
+Hamster|5|10|2|0|Vi|Null|FW vs paiN|7|5|Season 2 World Championship
+Hamsun|9|10|2|0|Hecarim|Swain|KOO vs paiN|10|10|IEM Season X - San Jose
+Hamulus|3|0|7|1|Sivir|Irelia|KOO vs paiN|4|8|Season 1 World Championship
+Hamza|6|5|12|0|Vi|Orianna|FW vs CLG|10|2|2015 IWCT - Turkey
+Han|4|1|2|1|Leona|Null|paiN vs FW|3|8|Season 1 World Championship
+Hanafee|5|9|5|0|Thresh|Taric|KOO vs FW|1|3|Season 2 World Championship
+Hanahanae|2|10|6|0|Vayne|Null|CLG vs paiN|5|5|IEM Season X - World Championship
+Hanako|0|6|7|1|Jhin|Vladimir|paiN vs FW|2|3|2014 Season World Championship
+Hanan|8|9|0|0|Fiddlesticks|Zyra|FW vs KOO|8|9|IEM Season X - San Jose
+Hanaper|0|7|5|0|Amumu|Null|CLG vs paiN|2|3|Season 3 World Championship
+Hance|10|4|4|1|Jinx|Braum|paiN vs FW|7|5|Season 1 World Championship
+Hancock|3|4|1|0|Warwick|Lee Sin|FW vs paiN|9|5|IEM Season X - Cologne
+Hand|3|1|19|0|Wukong|Jax|FW vs KOO|9|1|IEM Season X - San Jose
+Handal|5|1|9|0|Jayce|Aurelion Sol|KOO vs CLG|9|7|Season 2 World Championship
+Handbag|9|5|19|0|Teemo|Braum|FW vs KOO|4|1|2015 IWCT - Chile
+Handbarrow|9|3|14|0|Vi|Null|FW vs CLG|2|8|2015 IWCT - Turkey
+Handbill|7|5|15|0|Malphite|Null|paiN vs FW|7|10|IEM Season X - Cologne
+Handbreadth|7|5|6|1|Teemo|Null|KOO vs paiN|3|7|IEM Season X - San Jose
+Handcar|6|5|3|1|Pantheon|Null|FW vs CLG|10|4|Season 1 World Championship
+Handcart|7|2|12|0|Kayle|Kalista|paiN vs FW|4|9|2015 IWCT - Chile
+Handclap|7|7|7|1|Jarvan Iv|Null|FW vs KOO|4|10|2015 IWCT - Chile
+Handclasp|9|0|14|1|Hecarim|Null|TSM vs CLG|7|3|IEM Season X - World Championship
+Handcraft|6|2|5|0|Kha'Zix|Null|TSM vs CLG|10|3|IEM Season X - Cologne
+Handcrafted|10|8|11|1|Zilean|Rumble|KOO vs paiN|2|4|2015 IWCT - Chile
+Handcuff|1|0|13|1|Urgot|Null|KOO vs CLG|2|1|Season 3 World Championship
+Handed|3|5|19|0|Zilean|Sivir|TSM vs CLG|4|10|IEM Season X - World Championship
+Handedness|2|10|8|1|Ezreal|Sion|paiN vs CLG|9|6|Season 2 World Championship
+Handel|10|2|17|0|Singed|Null|CLG vs KOO|10|9|Season 2 World Championship
+Handfast|0|10|15|0|Darius|Nasus|FW vs CLG|2|4|Season 3 World Championship
+Handfasting|9|1|16|0|Renekton|Null|KOO vs CLG|3|2|2015 IWCT - Turkey
+Handful|9|5|11|0|Shaco|Darius|KOO vs CLG|4|6|Season 1 World Championship
+Handgun|0|4|11|0|Wukong|Ryze|FW vs paiN|7|7|Season 2 World Championship
+Handhold|6|1|8|1|Braum|Graves|FW vs CLG|1|2|IEM Season X - San Jose
+Handicap|4|1|5|0|Kayle|Mordekaiser|CLG vs KOO|4|5|Season 2 World Championship
+Handicapped|7|2|13|1|Graves|Riven|KOO vs FW|1|4|IEM Season X - Cologne
+Handicapper|1|5|6|1|Jhin|Corki|KOO vs paiN|1|5|IEM Season X - San Jose
+Handicraft|8|4|11|1|Nidalee|Null|KOO vs CLG|3|9|2015 IWCT - Turkey
+Handicraftsman|3|1|0|1|Zac|Null|FW vs KOO|5|9|2015 IWCT - Chile
+Handily|4|10|11|0|Fiddlesticks|Volibear|paiN vs FW|10|9|Season 3 World Championship
+Handiwork|8|10|17|0|Hecarim|Nunu|CLG vs paiN|9|5|2014 Season World Championship
+Handkerchief|10|1|17|1|Cassiopeia|Yorick|FW vs CLG|1|4|IEM Season X - World Championship
+Handknit|7|8|14|0|Tryndamere|Null|paiN vs KOO|9|5|2014 Season World Championship
+Handle|4|9|19|1|Braum|Tryndamere|KOO vs paiN|7|8|IEM Season X - World Championship
+Handlebar|9|8|16|0|Kassadin|Aurelion Sol|KOO vs CLG|9|6|2015 IWCT - Turkey
+Handler|6|5|5|0|Sona|Null|paiN vs CLG|5|1|2014 Season World Championship
+Handley|4|9|17|1|Twisted Fate|Zilean|KOO vs CLG|10|5|2015 IWCT - Chile
+Handling|1|4|6|0|Jayce|Null|KOO vs FW|1|7|2015 IWCT - Chile
+Handmade|1|4|8|1|Viktor|Fiddlesticks|paiN vs KOO|3|9|Season 2 World Championship
+Handmaid|5|1|7|0|Corki|Null|paiN vs KOO|1|9|Season 3 World Championship
+Handmaiden|5|7|5|1|Galio|Null|TSM vs CLG|2|2|2015 IWCT - Chile
+Handmedown|8|0|14|0|Janna|Null|CLG vs paiN|5|9|IEM Season X - Cologne
+Handoff|3|3|5|1|Ashe|Null|paiN vs KOO|6|9|Season 3 World Championship
+Handout|1|2|5|0|Janna|Null|paiN vs FW|3|3|IEM Season X - San Jose
+Handpick|7|1|1|1|Darius|Null|KOO vs FW|9|3|2014 Season World Championship
+Handrail|9|7|7|0|Kindred|Null|KOO vs paiN|6|2|Season 1 World Championship
+Hands|8|7|11|0|Xin Zhao|Teemo|FW vs CLG|5|4|2015 IWCT - Chile
+Handsaw|10|3|9|0|Ahri|Null|KOO vs paiN|8|8|2015 IWCT - Turkey
+Handsel|1|10|8|1|Lucian|Null|CLG vs KOO|4|5|Season 1 World Championship
+Handset|8|9|7|0|Rammus|Null|FW vs CLG|5|10|IEM Season X - San Jose
+Handshake|8|1|16|1|Jhin|Singed|KOO vs paiN|10|4|Season 2 World Championship
+Handshaker|3|2|2|0|Wukong|Nautilus|FW vs KOO|7|1|2015 IWCT - Chile
+Handsome|5|2|13|0|Cho'Gath|Nunu|CLG vs paiN|3|3|IEM Season X - Cologne
+Handsomely|5|3|20|0|Aurelion Sol|Gangplank|FW vs paiN|2|10|Season 2 World Championship
+Handspike|6|3|7|0|Quinn|Null|KOO vs FW|6|10|Season 1 World Championship
+Handspring|9|0|13|1|Rumble|Null|FW vs CLG|2|9|IEM Season X - Cologne
+Handstand|2|5|17|0|Irelia|Evelynn|KOO vs FW|3|7|Season 3 World Championship
+Handtohand|5|5|12|1|Xin Zhao|Null|paiN vs CLG|6|5|IEM Season X - San Jose
+Handtomouth|0|10|14|1|Shyvana|Amumu|CLG vs KOO|4|9|IEM Season X - Cologne
+Handwork|5|0|17|1|Yasuo|Null|CLG vs paiN|2|9|IEM Season X - World Championship
+Handwoven|6|6|17|1|Zyra|Swain|FW vs CLG|10|9|IEM Season X - San Jose
+Handy|3|2|8|1|Lux|Null|paiN vs CLG|6|4|2015 IWCT - Turkey
+Handyman|4|10|16|1|Zyra|Wukong|TSM vs CLG|8|10|2015 IWCT - Turkey
+Hanes|5|1|13|0|Galio|Fiddlesticks|CLG vs KOO|4|5|2014 Season World Championship
+Haney|6|1|1|0|Janna|Null|paiN vs KOO|2|10|Season 1 World Championship
+Hanford|7|7|15|1|Kha'Zix|Null|paiN vs FW|6|4|Season 2 World Championship
+Hanfurd|4|10|19|0|Teemo|Cho'Gath|CLG vs FW|5|9|IEM Season X - Cologne
+Hang|2|2|4|1|Swain|Ryze|KOO vs paiN|7|2|2014 Season World Championship
+Hangbird|2|8|13|0|Karma|Ryze|paiN vs FW|9|7|IEM Season X - Cologne
+Hangchow|7|4|14|0|Orianna|Null|KOO vs paiN|10|1|2015 IWCT - Chile
+Hangdog|2|0|1|0|Alistar|Quinn|paiN vs CLG|2|2|IEM Season X - San Jose
+Hanger|9|10|8|1|Kog'Maw|Xerath|TSM vs CLG|10|5|Season 1 World Championship
+Hangeron|9|0|6|0|Brand|Null|paiN vs FW|9|3|Season 3 World Championship
+Hanghangar|0|5|17|1|Draven|Ryze|paiN vs KOO|3|9|IEM Season X - San Jose
+Hanging|0|0|0|0|Aurelion Sol|Null|FW vs KOO|7|4|2015 IWCT - Chile
+Hangman|10|2|20|1|Diana|Akali|paiN vs KOO|9|9|2015 IWCT - Chile
+Hangnail|1|2|18|0|Warwick|Null|KOO vs paiN|1|10|IEM Season X - World Championship
+Hangout|3|7|1|1|Cassiopeia|Sejuani|CLG vs paiN|8|2|IEM Season X - San Jose
+Hangup|7|2|10|0|Swain|Null|CLG vs FW|10|4|Season 1 World Championship
+Hanhana|1|7|16|1|Kog'Maw|Null|FW vs CLG|10|4|IEM Season X - World Championship
+Hanhhank|8|3|7|0|Sion|Rammus|KOO vs paiN|10|10|IEM Season X - World Championship
+Hanker|9|10|18|1|Jhin|Null|paiN vs FW|8|10|IEM Season X - World Championship
+Hankering|7|7|9|1|Sion|Evelynn|paiN vs CLG|10|6|Season 2 World Championship
+Hankhanke|2|8|12|0|Twisted Fate|Null|KOO vs FW|2|8|IEM Season X - World Championship
+Hankins|1|6|16|1|Syndra|Null|TSM vs CLG|6|3|Season 2 World Championship
+Hankow|7|5|20|1|Quinn|Null|CLG vs paiN|8|4|Season 2 World Championship
+Hanks|6|2|14|1|Trundle|Leona|KOO vs FW|3|5|IEM Season X - San Jose
+Hanky|9|1|10|1|Aatrox|Null|paiN vs CLG|4|4|IEM Season X - Cologne
+Hankypanky|0|1|5|0|Ryze|Caitlyn|KOO vs paiN|3|6|IEM Season X - Cologne
+Hanleigh|6|9|17|0|Jarvan Iv|Null|KOO vs FW|2|6|2015 IWCT - Chile
+Hanley|2|2|14|0|Olaf|Fiddlesticks|TSM vs CLG|4|4|2015 IWCT - Chile
+Hanlon|9|4|19|0|Tahm Kench|Draven|CLG vs KOO|2|6|Season 2 World Championship
+Hann|9|4|16|0|Shaco|Null|FW vs paiN|9|10|IEM Season X - World Championship
+Hanna|10|7|20|1|Jhin|Lee Sin|paiN vs CLG|4|5|2015 IWCT - Chile
+Hannahannah|7|0|16|0|Syndra|Null|paiN vs KOO|2|6|2015 IWCT - Chile
+Hannahhannan|6|7|16|0|Kog'Maw|Anivia|KOO vs paiN|8|4|Season 3 World Championship
+Hannelorehanner|8|1|4|0|Sivir|Lucian|KOO vs CLG|5|5|2014 Season World Championship
+Hanni|7|8|14|1|Ryze|Null|CLG vs FW|10|2|IEM Season X - Cologne
+Hannibal|0|4|5|1|Caitlyn|Yorick|TSM vs CLG|5|4|Season 3 World Championship
+Hannie|8|5|1|0|Kha'Zix|Jinx|KOO vs CLG|7|8|2015 IWCT - Chile
+Hannis|5|5|18|1|Zilean|Null|FW vs CLG|3|1|IEM Season X - Cologne
+Hannon|1|5|7|1|Warwick|Vi|paiN vs FW|5|1|2014 Season World Championship
+Hannover|5|2|5|1|Alistar|Null|KOO vs paiN|7|9|2015 IWCT - Turkey
+Hannus|5|2|12|1|Sona|Null|FW vs paiN|7|6|IEM Season X - Cologne
+Hanny|7|6|4|0|Nocturne|Swain|KOO vs CLG|4|6|2014 Season World Championship
+Hanoi|6|1|4|1|Fizz|Nami|paiN vs KOO|4|4|IEM Season X - Cologne
+Hanover|8|5|11|0|Aurelion Sol|Xerath|CLG vs paiN|6|3|2015 IWCT - Chile
+Hanoverian|3|10|15|0|Karma|Renekton|paiN vs CLG|5|8|Season 3 World Championship
+Hanrahan|10|7|19|1|Rumble|Vi|paiN vs CLG|7|5|Season 1 World Championship
+Hans|2|2|15|0|Fizz|Nasus|paiN vs KOO|9|8|Season 1 World Championship
+Hanschen|8|3|10|1|Ahri|Null|paiN vs FW|3|2|IEM Season X - San Jose
+Hanseatic|4|8|3|1|Syndra|Varus|CLG vs paiN|5|1|IEM Season X - World Championship
+Hansen|1|3|19|0|Leona|Null|FW vs CLG|10|1|Season 3 World Championship
+Hanser|6|0|3|0|Quinn|Null|CLG vs FW|7|1|2015 IWCT - Chile
+Hanshansard|7|1|8|1|Gangplank|Syndra|CLG vs FW|6|1|Season 3 World Championship
+Hanshaw|3|10|7|1|Nasus|Veigar|CLG vs FW|5|5|IEM Season X - Cologne
+Hansom|6|8|6|1|Nidalee|Olaf|KOO vs paiN|8|4|2015 IWCT - Chile
+Hanson|1|4|5|0|Zed|Null|FW vs CLG|1|6|2015 IWCT - Turkey
+Hanukkah|0|2|19|0|Lissandra|Null|paiN vs CLG|8|8|Season 2 World Championship
+Hanuman|5|7|1|1|Aatrox|Null|paiN vs FW|4|3|IEM Season X - World Championship
+Hanus|9|10|9|1|Kayle|Null|paiN vs FW|2|2|2015 IWCT - Turkey
+Hanway|2|0|12|0|Garen|Ziggs|CLG vs KOO|8|3|2015 IWCT - Turkey
+Hanyang|0|3|14|0|Ashe|Akali|paiN vs CLG|10|9|IEM Season X - San Jose
+Hanzelin|1|5|17|1|Blitzcrank|Null|CLG vs FW|7|4|2015 IWCT - Chile
+Hap|5|10|9|1|Kalista|Null|KOO vs CLG|10|1|Season 3 World Championship
+Haphazard|2|2|9|0|Ahri|Braum|CLG vs KOO|4|10|IEM Season X - World Championship
+Haphazardly|6|9|4|1|Nidalee|Twisted Fate|paiN vs KOO|7|10|Season 3 World Championship
+Haphtarah|10|3|0|1|Bard|Twisted Fate|KOO vs FW|2|9|Season 1 World Championship
+Hapless|1|6|9|0|Leblanc|Veigar|FW vs CLG|1|10|Season 2 World Championship
+Haplite|9|3|15|1|Jarvan Iv|Null|TSM vs CLG|8|8|IEM Season X - World Championship
+Haplo|2|1|4|0|Thresh|Null|paiN vs CLG|2|10|Season 2 World Championship
+Haplography|2|5|19|0|Morgana|Null|paiN vs CLG|6|1|IEM Season X - Cologne
+Haploid|2|2|1|1|Braum|Null|FW vs paiN|2|3|IEM Season X - Cologne
+Haplology|9|1|14|1|Master Yi|Null|TSM vs CLG|7|9|IEM Season X - San Jose
+Haplosis|10|10|16|1|Evelynn|Null|KOO vs FW|2|5|IEM Season X - San Jose
+Haply|3|8|4|0|Lissandra|Morgana|paiN vs FW|1|6|2015 IWCT - Chile
+Happ|2|4|12|1|Master Yi|Lux|FW vs CLG|6|4|Season 1 World Championship
+Happen|10|9|18|1|Vladimir|Null|KOO vs paiN|4|6|Season 1 World Championship
+Happening|3|1|18|1|Jhin|Lee Sin|FW vs KOO|1|3|2015 IWCT - Turkey
+Happily|7|9|18|0|Ashe|Nunu|TSM vs CLG|5|5|Season 3 World Championship
+Happiness|4|7|7|0|Gangplank|Null|FW vs CLG|8|8|2015 IWCT - Turkey
+Happy|10|5|17|0|Nautilus|Malzahar|KOO vs paiN|3|6|IEM Season X - San Jose
+Happygolucky|6|2|19|1|Ryze|Null|CLG vs FW|9|1|IEM Season X - San Jose
+Hapsburg|1|6|9|0|Rengar|Rengar|TSM vs CLG|7|8|2015 IWCT - Chile
+Hapte|3|10|4|0|Swain|Null|KOO vs paiN|5|8|Season 3 World Championship
+Hapten|7|7|2|1|Volibear|Nautilus|FW vs paiN|4|2|Season 2 World Championship
+Hara|7|2|12|0|Blitzcrank|Garen|KOO vs FW|10|9|2014 Season World Championship
+Harakiri|0|3|20|0|Kalista|Caitlyn|TSM vs CLG|6|2|Season 1 World Championship
+Harald|5|8|3|0|Udyr|Maokai|FW vs paiN|7|10|Season 3 World Championship
+Harangue|6|6|19|1|Kog'Maw|Galio|CLG vs KOO|6|9|IEM Season X - San Jose
+Harappa|5|3|2|0|Xin Zhao|Miss Fortune|CLG vs paiN|1|6|IEM Season X - Cologne
+Harar|2|1|15|1|Malphite|Null|TSM vs CLG|9|2|2015 IWCT - Turkey
+Harass|3|9|13|1|Kennen|Null|FW vs KOO|1|4|2015 IWCT - Chile
+Harassed|2|2|8|1|Diana|Trundle|paiN vs CLG|5|6|2014 Season World Championship
+Harbaugh|5|1|13|1|Zyra|Shen|FW vs KOO|7|7|2014 Season World Championship
+Harber|7|10|3|0|Aatrox|Null|CLG vs paiN|7|9|2014 Season World Championship
+Harberd|3|7|5|0|Leona|Null|paiN vs FW|9|5|Season 2 World Championship
+Harbin|2|4|8|0|Vel'Koz|Null|FW vs KOO|7|7|Season 3 World Championship
+Harbird|4|6|7|1|Graves|Gragas|CLG vs KOO|6|2|Season 1 World Championship
+Harbison|0|10|13|0|Katarina|Vel'Koz|FW vs CLG|7|10|IEM Season X - San Jose
+Harborage|2|8|8|1|Aatrox|Null|paiN vs FW|6|9|IEM Season X - Cologne
+Harbot|10|9|7|0|Galio|Null|FW vs KOO|4|7|2015 IWCT - Turkey
+Harbour|7|10|9|1|Malphite|Null|KOO vs paiN|6|5|Season 2 World Championship
+Harbourage|3|2|19|0|Zilean|Teemo|KOO vs paiN|6|7|2015 IWCT - Chile
+Hard|5|7|16|0|Lissandra|Blitzcrank|FW vs CLG|1|6|2014 Season World Championship
+Hardan|0|2|3|1|Caitlyn|Master Yi|paiN vs CLG|4|4|Season 2 World Championship
+Hardandfast|7|5|11|0|Kog'Maw|Null|paiN vs FW|7|3|2015 IWCT - Chile
+Hardaway|7|5|3|1|Fizz|Trundle|paiN vs KOO|7|9|Season 2 World Championship
+Harday|4|8|13|1|Skarner|Null|FW vs CLG|2|10|2015 IWCT - Turkey
+Hardback|1|2|8|1|Nasus|Null|paiN vs KOO|3|6|Season 1 World Championship
+Hardball|4|3|16|0|Karma|Sion|FW vs KOO|7|1|2014 Season World Championship
+Hardbitten|7|2|19|1|Volibear|Xerath|FW vs CLG|3|3|Season 3 World Championship
+Hardboard|10|6|4|1|Bard|Varus|CLG vs paiN|6|8|Season 1 World Championship
+Hardboiled|9|1|11|1|Gangplank|Amumu|CLG vs FW|3|5|Season 2 World Championship
+Hardcastle|0|6|7|0|Vladimir|Irelia|CLG vs KOO|10|10|Season 2 World Championship
+Hardcore|10|0|15|0|Syndra|Leblanc|TSM vs CLG|9|1|2015 IWCT - Turkey
+Hardden|6|6|4|1|Shyvana|Poppy|TSM vs CLG|10|6|IEM Season X - World Championship
+Hardecanute|3|5|2|1|Annie|Taric|paiN vs KOO|3|3|IEM Season X - World Championship
+Hardee|2|7|11|0|Ashe|Olaf|paiN vs KOO|5|1|IEM Season X - Cologne
+Hardej|6|4|9|0|Heimerdinger|Miss Fortune|paiN vs FW|2|6|2015 IWCT - Turkey
+Hardeman|0|1|8|0|Sivir|Hecarim|KOO vs CLG|10|8|IEM Season X - Cologne
+Harden|1|7|3|0|Mordekaiser|Null|FW vs CLG|6|9|Season 1 World Championship
+Hardenberg|8|1|0|1|Wukong|Null|TSM vs CLG|9|7|Season 1 World Championship
+Hardened|10|4|16|0|Ezreal|Shyvana|paiN vs KOO|10|6|2015 IWCT - Turkey
+Hardener|5|1|2|1|Sivir|Null|paiN vs KOO|7|6|Season 1 World Championship
+Harder|4|6|11|0|Cho'Gath|Null|paiN vs FW|6|8|IEM Season X - World Championship
+Hardesty|5|2|2|1|Riven|Galio|FW vs KOO|9|10|2015 IWCT - Chile
+Hardfavored|0|2|13|1|Skarner|Syndra|TSM vs CLG|7|8|Season 3 World Championship
+Hardfeatured|6|2|18|1|Thresh|Null|TSM vs CLG|5|5|IEM Season X - World Championship
+Hardhack|9|8|20|1|Heimerdinger|Kindred|CLG vs FW|8|4|2015 IWCT - Turkey
+Hardheaded|10|0|12|1|Amumu|Null|TSM vs CLG|2|2|Season 3 World Championship
+Hardhearted|2|6|19|1|Orianna|Null|FW vs CLG|10|9|Season 1 World Championship
+Hardi|1|4|9|1|Tahm Kench|Null|FW vs CLG|7|1|IEM Season X - Cologne
+Hardie|2|1|20|0|Zed|Talon|KOO vs CLG|2|3|Season 3 World Championship
+Hardigg|2|3|0|1|Ziggs|Jinx|KOO vs FW|1|2|2015 IWCT - Chile
+Hardihood|4|2|5|1|Kassadin|Null|paiN vs KOO|6|5|2015 IWCT - Turkey
+Hardily|1|1|11|1|Elise|Anivia|KOO vs paiN|8|1|2015 IWCT - Chile
+Hardiman|7|4|1|0|Kayle|Null|KOO vs FW|10|3|Season 3 World Championship
+Hardiness|7|10|4|1|Cho'Gath|Nami|CLG vs paiN|7|9|Season 2 World Championship
+Harding|10|4|1|1|Urgot|Null|paiN vs KOO|1|10|2014 Season World Championship
+Hardison|8|9|20|1|Aatrox|Lucian|CLG vs FW|9|8|IEM Season X - San Jose
+Hardly|8|2|6|1|Lissandra|Null|CLG vs FW|1|10|IEM Season X - World Championship
+Hardman|2|9|1|1|Caitlyn|Null|CLG vs FW|9|4|Season 3 World Championship
+Hardner|0|6|0|1|Ahri|Ashe|paiN vs FW|10|1|IEM Season X - Cologne
+Hardness|6|5|2|1|Shen|Null|FW vs CLG|6|4|IEM Season X - World Championship
+Hardnett|5|4|13|1|Blitzcrank|Fiora|KOO vs CLG|6|9|IEM Season X - San Jose
+Hardnosed|8|7|12|1|Wukong|Shaco|CLG vs KOO|2|4|Season 1 World Championship
+Hardpan|9|2|15|1|Corki|Null|paiN vs CLG|10|6|2014 Season World Championship
+Hardpressed|6|1|19|0|Syndra|Null|FW vs KOO|3|5|IEM Season X - San Jose
+Hardset|10|1|3|1|Irelia|Null|CLG vs KOO|2|2|2015 IWCT - Chile
+Hardshell|3|8|1|0|Maokai|Urgot|TSM vs CLG|1|5|IEM Season X - Cologne
+Hardship|5|3|17|0|Anivia|Null|KOO vs FW|8|6|Season 1 World Championship
+Hardspun|1|3|14|1|Evelynn|Null|paiN vs CLG|4|7|Season 2 World Championship
+Hardtack|7|7|14|0|Thresh|Null|CLG vs FW|10|4|IEM Season X - San Jose
+Hardtop|5|1|7|1|Karma|Null|TSM vs CLG|8|7|2015 IWCT - Turkey
+Hardunn|9|10|20|1|Sejuani|Null|KOO vs paiN|3|10|2015 IWCT - Turkey
+Hardware|2|1|12|0|Draven|Null|FW vs CLG|7|8|Season 3 World Championship
+Hardwick|7|3|1|1|Bard|Galio|CLG vs KOO|9|8|IEM Season X - San Jose
+Hardwood|2|0|9|1|Gragas|Null|CLG vs paiN|4|1|Season 2 World Championship
+Hardworking|7|2|1|0|Twisted Fate|Null|paiN vs KOO|9|7|Season 2 World Championship
+Hardy|2|1|7|1|Taric|Orianna|FW vs paiN|9|8|IEM Season X - Cologne
+Hare|2|6|15|0|Tryndamere|Morgana|FW vs CLG|1|9|IEM Season X - World Championship
+Harebell|6|8|19|1|Malzahar|Null|paiN vs CLG|8|6|IEM Season X - San Jose
+Harebrained|6|6|13|0|Nidalee|Null|CLG vs paiN|3|10|Season 1 World Championship
+Harelda|0|0|4|0|Shyvana|Null|FW vs paiN|2|4|Season 3 World Championship
+Harem|10|8|12|1|Miss Fortune|Null|KOO vs CLG|3|1|2014 Season World Championship
+Harewood|9|0|18|0|Tahm Kench|Null|FW vs KOO|6|5|2015 IWCT - Chile
+Hargeisa|1|10|3|0|Zyra|Null|paiN vs FW|7|9|IEM Season X - San Jose
+Hargett|7|0|17|0|Ahri|Null|KOO vs FW|10|4|IEM Season X - World Championship
+Hargis|5|8|4|1|Maokai|Null|paiN vs KOO|10|2|Season 1 World Championship
+Hargrave|8|1|15|1|Quinn|Null|KOO vs FW|10|9|2015 IWCT - Chile
+Hargrove|2|8|6|0|Ashe|Null|TSM vs CLG|7|10|2015 IWCT - Turkey
+Harhay|8|10|5|0|Jayce|Lulu|paiN vs CLG|9|5|IEM Season X - San Jose
+Harijan|5|1|15|1|Mordekaiser|Null|KOO vs FW|10|8|2014 Season World Championship
+Harilda|2|3|12|1|Blitzcrank|Null|KOO vs CLG|1|10|Season 3 World Championship
+Harim|9|5|20|0|Leona|Swain|TSM vs CLG|10|3|Season 2 World Championship
+Hark|1|3|12|1|Riven|Karma|paiN vs CLG|2|6|IEM Season X - San Jose
+Harken|3|6|12|0|Darius|Null|FW vs paiN|10|2|2015 IWCT - Turkey
+Harker|0|2|20|1|Akali|Swain|CLG vs KOO|4|7|Season 1 World Championship
+Harkey|10|1|14|0|Twisted Fate|Aatrox|TSM vs CLG|8|8|2015 IWCT - Chile
+Harkins|9|2|13|0|Swain|Sivir|paiN vs CLG|1|8|2015 IWCT - Turkey
+Harkness|3|1|19|1|Tristana|Null|CLG vs KOO|3|8|2015 IWCT - Chile
+Harl|4|8|0|0|Lulu|Null|CLG vs paiN|1|2|2015 IWCT - Turkey
+Harlamert|4|5|19|1|Aurelion Sol|Shyvana|CLG vs KOO|2|2|Season 1 World Championship
+Harlan|1|3|0|0|Twitch|Null|KOO vs paiN|3|9|2015 IWCT - Turkey
+Harlandharle|3|6|3|0|Elise|Null|CLG vs KOO|10|4|2014 Season World Championship
+Harlanharland|9|0|10|1|Thresh|Null|paiN vs CLG|1|9|2015 IWCT - Turkey
+Harlem|7|3|15|1|Heimerdinger|Anivia|FW vs CLG|1|5|Season 1 World Championship
+Harlen|3|4|12|0|Vayne|Kha'Zix|CLG vs paiN|4|4|IEM Season X - San Jose
+Harlequin|7|1|15|1|Riven|Null|CLG vs KOO|4|2|IEM Season X - World Championship
+Harlequinade|8|10|3|0|Jinx|Null|paiN vs FW|1|7|2015 IWCT - Turkey
+Harless|6|3|3|0|Blitzcrank|Null|FW vs CLG|9|6|2015 IWCT - Turkey
+Harleyharli|3|3|6|0|Fiora|Karma|FW vs KOO|2|9|IEM Season X - World Championship
+Harlie|2|2|14|0|Jinx|Null|FW vs paiN|9|5|Season 3 World Championship
+Harlin|10|2|2|0|Nocturne|Null|paiN vs KOO|2|6|2015 IWCT - Turkey
+Harlot|0|1|9|1|Malphite|Null|FW vs KOO|5|2|Season 3 World Championship
+Harlotry|1|6|7|1|Hecarim|Miss Fortune|KOO vs CLG|5|7|2015 IWCT - Chile
+Harlow|1|3|5|1|Nidalee|Volibear|TSM vs CLG|1|4|Season 1 World Championship
+Harm|9|1|19|0|Lucian|Null|paiN vs FW|8|4|IEM Season X - World Championship
+Harman|6|5|7|1|Galio|Veigar|CLG vs KOO|3|1|IEM Season X - World Championship
+Harmaning|4|9|11|1|Zed|Null|FW vs KOO|7|10|IEM Season X - Cologne
+Harmful|1|8|7|1|Viktor|Null|KOO vs paiN|4|7|Season 3 World Championship
+Harmless|10|5|18|0|Zyra|Null|FW vs CLG|6|4|2015 IWCT - Turkey
+Harmon|1|5|7|1|Fizz|Swain|CLG vs paiN|3|6|2015 IWCT - Chile
+Harmonia|1|2|9|0|Katarina|Null|FW vs KOO|3|8|2015 IWCT - Chile
+Harmonic|0|3|18|0|Zed|Null|paiN vs KOO|3|2|2015 IWCT - Chile
+Harmonica|5|3|8|0|Fiora|Twitch|TSM vs CLG|5|3|IEM Season X - World Championship
+Harmonicon|9|1|18|0|Aatrox|Null|FW vs CLG|3|4|IEM Season X - World Championship
+Harmonics|7|6|4|0|Katarina|Aurelion Sol|paiN vs FW|6|10|2015 IWCT - Chile
+Harmonie|0|7|17|0|Mordekaiser|Null|paiN vs FW|9|1|Season 3 World Championship
+Harmonious|5|8|18|0|Viktor|Poppy|FW vs paiN|4|4|2015 IWCT - Chile
+Harmonist|3|4|17|1|Leblanc|Null|paiN vs CLG|5|8|IEM Season X - World Championship
+Harmonium|8|2|14|0|Twisted Fate|Null|paiN vs KOO|6|4|IEM Season X - World Championship
+Harmonize|1|5|20|0|Udyr|Ziggs|CLG vs FW|7|4|IEM Season X - Cologne
+Harmony|9|8|19|1|Zyra|Null|CLG vs KOO|5|6|2015 IWCT - Chile
+Harmonyharmotome|2|1|10|0|Teemo|Null|KOO vs paiN|1|2|Season 3 World Championship
+Harms|9|2|9|0|Illaoi|Rumble|FW vs CLG|2|2|2014 Season World Championship
+Harned|6|8|7|1|Cassiopeia|Null|FW vs CLG|9|4|IEM Season X - Cologne
+Harneen|8|7|5|0|Graves|Null|paiN vs CLG|10|8|IEM Season X - San Jose
+Harner|4|0|4|1|Vayne|Null|CLG vs KOO|3|9|IEM Season X - World Championship
+Harness|9|7|19|1|Talon|Null|FW vs paiN|4|8|Season 2 World Championship
+Harney|7|4|6|1|Rengar|Leblanc|KOO vs paiN|6|9|Season 1 World Championship
+Haro|5|1|17|0|Ziggs|Null|FW vs paiN|9|9|IEM Season X - Cologne
+Harod|0|10|11|0|Yasuo|Null|TSM vs CLG|9|8|IEM Season X - San Jose
+Harold|8|2|14|1|Lux|Amumu|KOO vs FW|5|7|2015 IWCT - Turkey
+Haroldharolda|9|0|6|1|Graves|Nautilus|KOO vs FW|7|1|Season 1 World Championship
+Haroldson|8|8|17|0|Rengar|Null|FW vs paiN|10|7|IEM Season X - World Championship
+Harp|4|1|11|0|Zilean|Null|KOO vs FW|3|10|Season 2 World Championship
+Harper|0|1|0|1|Jhin|Mordekaiser|FW vs CLG|6|5|2014 Season World Championship
+Harping|7|9|18|1|Zyra|Null|TSM vs CLG|9|4|2014 Season World Championship
+Harpist|10|5|3|1|Gragas|Null|FW vs CLG|3|6|Season 3 World Championship
+Harpoon|9|4|15|1|Yasuo|Null|KOO vs CLG|2|1|2015 IWCT - Chile
+Harpp|2|2|10|1|Aurelion Sol|Null|FW vs KOO|6|2|IEM Season X - San Jose
+Harpsichord|4|8|13|0|Lee Sin|Veigar|CLG vs KOO|3|6|IEM Season X - San Jose
+Harpy|3|2|0|0|Azir|Null|paiN vs CLG|9|1|IEM Season X - Cologne
+Harquebus|6|0|7|0|Elise|Null|KOO vs CLG|1|1|Season 2 World Championship
+Harquebusier|5|4|13|1|Rengar|Null|FW vs CLG|3|9|IEM Season X - Cologne
+Harragan|3|9|2|0|Lulu|Jax|paiN vs KOO|2|10|Season 2 World Championship
+Harrar|4|2|1|1|Jax|Soraka|paiN vs CLG|8|7|2015 IWCT - Turkey
+Harrell|1|9|5|0|Taric|Malphite|FW vs paiN|1|10|IEM Season X - World Championship
+Harrelson|5|7|0|1|Ziggs|Null|TSM vs CLG|1|10|Season 2 World Championship
+Harri|1|7|11|1|Shen|Null|CLG vs paiN|4|1|Season 1 World Championship
+Harridan|10|6|20|1|Nocturne|Fizz|CLG vs FW|5|6|IEM Season X - World Championship
+Harrie|3|5|5|1|Gangplank|Zed|CLG vs FW|9|10|IEM Season X - Cologne
+Harrier|6|4|17|1|Leona|Null|FW vs KOO|8|9|IEM Season X - World Championship
+Harriet|7|7|10|1|Volibear|Zyra|CLG vs KOO|7|6|IEM Season X - Cologne
+Harrietharriett|3|2|4|1|Twitch|Null|paiN vs CLG|3|3|IEM Season X - World Championship
+Harriette|9|8|17|1|Irelia|Null|CLG vs KOO|3|2|IEM Season X - World Championship
+Harrietteharrigan|9|6|9|1|Jhin|Null|paiN vs FW|10|2|IEM Season X - World Championship
+Harriettharrietta|2|7|18|1|Janna|Null|KOO vs FW|9|8|2015 IWCT - Turkey
+Harriman|8|9|10|1|Poppy|Null|paiN vs KOO|6|1|2015 IWCT - Turkey
+Harrington|0|5|9|0|Lulu|Null|CLG vs KOO|9|3|IEM Season X - Cologne
+Harriot|9|8|19|0|Rumble|Null|KOO vs CLG|9|8|Season 1 World Championship
+Harriott|8|0|15|0|Zyra|Graves|TSM vs CLG|6|7|2014 Season World Championship
+Harris|0|7|17|0|Karma|Null|paiN vs KOO|3|1|Season 3 World Championship
+Harrisharrisburg|7|4|12|1|Elise|Null|CLG vs KOO|9|7|Season 2 World Championship
+Harrison|10|3|2|1|Jayce|Null|CLG vs KOO|1|5|2014 Season World Championship
+Harrisonharrod|9|3|20|0|Lee Sin|Caitlyn|CLG vs KOO|4|4|2014 Season World Championship
+Harrod|5|5|17|1|Yasuo|Evelynn|KOO vs FW|3|8|IEM Season X - San Jose
+Harrold|0|9|10|0|Yorick|Null|paiN vs KOO|9|5|Season 1 World Championship
+Harrovian|9|9|13|1|Nami|Null|FW vs KOO|8|8|IEM Season X - World Championship
+Harrow|8|1|2|1|Viktor|Null|FW vs paiN|5|9|IEM Season X - Cologne
+Harrumph|7|6|8|1|Singed|Jhin|CLG vs KOO|8|4|IEM Season X - San Jose
+Harry|1|8|2|1|Kindred|Blitzcrank|TSM vs CLG|2|9|Season 1 World Championship
+Harryharsh|1|1|20|0|Pantheon|Null|FW vs KOO|7|8|Season 2 World Championship
+Harsh|8|9|15|1|Akali|Xin Zhao|CLG vs FW|5|8|IEM Season X - World Championship
+Harshman|6|3|17|1|Sivir|Leblanc|paiN vs CLG|10|9|IEM Season X - Cologne
+Harsho|7|3|3|0|Caitlyn|Warwick|FW vs CLG|4|9|Season 2 World Championship
+Harslet|5|2|10|0|Vel'Koz|Orianna|FW vs KOO|2|1|Season 2 World Championship
+Hart|0|4|1|0|Kha'Zix|Null|TSM vs CLG|2|5|IEM Season X - World Championship
+Harte|8|0|9|1|Malzahar|Null|paiN vs FW|6|8|2015 IWCT - Turkey
+Hartebeest|5|10|16|0|Amumu|Null|TSM vs CLG|1|9|Season 2 World Championship
+Harter|6|9|4|1|Rengar|Null|CLG vs KOO|4|8|IEM Season X - Cologne
+Hartfield|3|10|2|0|Mordekaiser|Null|CLG vs FW|4|10|Season 1 World Championship
+Hartford|3|10|4|1|Udyr|Null|FW vs KOO|6|1|Season 2 World Championship
+Hartill|3|3|12|1|Lee Sin|Null|FW vs KOO|3|3|IEM Season X - San Jose
+Hartle|7|6|18|0|Viktor|Nautilus|CLG vs KOO|3|2|IEM Season X - San Jose
+Hartley|7|3|1|0|Varus|Null|FW vs CLG|1|7|IEM Season X - Cologne
+Hartman|7|4|17|0|Rumble|Kindred|KOO vs paiN|6|6|IEM Season X - San Jose
+Hartmunn|2|0|12|1|Kindred|Null|FW vs paiN|4|6|Season 3 World Championship
+Harts|6|0|11|1|Quinn|Jhin|KOO vs CLG|6|9|Season 2 World Championship
+Hartsell|4|8|7|1|Ashe|Null|KOO vs FW|3|1|Season 1 World Championship
+Hartsfield|10|3|4|0|Leblanc|Null|KOO vs FW|6|3|IEM Season X - Cologne
+Hartshorn|10|2|16|0|Ahri|Null|FW vs paiN|10|2|IEM Season X - San Jose
+Hartsock|1|7|5|1|Ziggs|Null|CLG vs FW|8|1|Season 1 World Championship
+Hartung|8|5|7|0|Gangplank|Null|paiN vs CLG|5|6|IEM Season X - World Championship
+Hartwell|9|0|18|1|Warwick|Null|FW vs paiN|4|4|Season 2 World Championship
+Hartwig|8|10|10|0|Renekton|Null|KOO vs paiN|7|9|Season 2 World Championship
+Harty|10|0|11|0|Xin Zhao|Akali|CLG vs paiN|4|3|Season 1 World Championship
+Hartzel|2|5|19|1|Pantheon|Null|CLG vs KOO|8|10|Season 2 World Championship
+Hartzell|4|9|7|1|Ryze|Wukong|FW vs CLG|2|3|IEM Season X - World Championship
+Hartzke|10|9|11|0|Thresh|Null|paiN vs FW|2|5|2015 IWCT - Chile
+Hartzog|6|2|6|1|Olaf|Null|KOO vs paiN|4|5|2014 Season World Championship
+Harumscarum|4|0|2|0|Kalista|Zac|KOO vs CLG|5|9|2015 IWCT - Chile
+Haruspex|0|4|6|0|Annie|Null|CLG vs FW|1|9|IEM Season X - World Championship
+Haruspicy|0|2|8|1|Shyvana|Swain|paiN vs KOO|7|6|2015 IWCT - Chile
+Harv|6|7|12|0|Vi|Cho'Gath|FW vs paiN|8|8|2015 IWCT - Chile
+Harvard|7|0|4|0|Draven|Null|FW vs KOO|5|8|2015 IWCT - Turkey
+Harve|6|2|7|1|Thresh|Leblanc|CLG vs paiN|6|9|2015 IWCT - Chile
+Harvell|6|6|12|1|Vayne|Null|FW vs paiN|3|5|2015 IWCT - Turkey
+Harvest|3|4|16|1|Lissandra|Sion|FW vs paiN|10|4|IEM Season X - Cologne
+Harvester|0|2|5|1|Dr. Mundo|Azir|KOO vs paiN|5|4|2014 Season World Championship
+Harvestman|2|5|11|1|Irelia|Gragas|FW vs CLG|9|3|Season 2 World Championship
+Harvey|7|4|10|0|Thresh|Caitlyn|paiN vs CLG|6|6|2015 IWCT - Chile
+Harveyharvie|2|10|7|0|Shyvana|Soraka|KOO vs CLG|3|3|2015 IWCT - Chile
+Harville|10|7|16|0|Urgot|Alistar|paiN vs FW|10|5|2015 IWCT - Turkey
+Harvin|7|9|13|1|Orianna|Singed|CLG vs FW|7|10|2015 IWCT - Turkey
+Harvison|8|8|1|1|Twitch|Null|KOO vs paiN|1|8|2015 IWCT - Chile
+Harwell|5|1|8|0|Renekton|Tristana|paiN vs FW|6|5|IEM Season X - World Championship
+Harwill|5|2|16|1|Riven|Null|CLG vs paiN|1|2|Season 2 World Championship
+Harwilll|7|9|14|1|Malzahar|Morgana|paiN vs CLG|3|7|IEM Season X - World Championship
+Harwin|3|9|16|1|Rammus|Null|KOO vs paiN|5|2|Season 2 World Championship
+Harwood|7|6|1|1|Sejuani|Null|FW vs KOO|10|1|IEM Season X - Cologne
+Has|4|1|19|1|Hecarim|Draven|paiN vs FW|3|10|Season 2 World Championship
+Hasa|1|4|20|1|Volibear|Anivia|FW vs paiN|3|3|2014 Season World Championship
+Hasan|10|4|11|0|Swain|Null|paiN vs CLG|8|6|Season 2 World Championship
+Hasbeen|6|2|10|0|Kha'Zix|Null|FW vs KOO|10|2|IEM Season X - San Jose
+Hasdrubal|4|1|7|0|Wukong|Null|CLG vs paiN|8|5|2015 IWCT - Turkey
+Hash|4|6|18|0|Mordekaiser|Vel'Koz|CLG vs KOO|7|1|IEM Season X - San Jose
+Hasheem|2|9|19|0|Dr. Mundo|Zyra|FW vs CLG|2|4|2015 IWCT - Turkey
+Hashim|3|6|14|1|Zac|Twitch|CLG vs KOO|6|7|2015 IWCT - Chile
+Hashimoto|8|7|20|1|Fiora|Gragas|FW vs CLG|7|9|2015 IWCT - Turkey
+Hashish|2|3|4|1|Thresh|Kalista|CLG vs KOO|7|1|IEM Season X - Cologne
+Hasid|5|3|3|0|Galio|Caitlyn|KOO vs CLG|10|2|2015 IWCT - Turkey
+Hasin|7|3|7|1|Gragas|Null|paiN vs FW|1|8|IEM Season X - San Jose
+Haskel|1|9|2|0|Sivir|Corki|CLG vs KOO|5|8|2014 Season World Championship
+Haskell|6|10|9|0|Fizz|Veigar|TSM vs CLG|2|9|IEM Season X - World Championship
+Haskins|9|9|15|0|Nautilus|Katarina|CLG vs paiN|3|7|Season 2 World Championship
+Haslam|2|8|3|0|Sejuani|Null|paiN vs CLG|1|6|2014 Season World Championship
+Haslett|5|5|8|0|Kog'Maw|Sejuani|FW vs KOO|1|10|2014 Season World Championship
+Hasp|1|1|1|0|Ahri|Lux|TSM vs CLG|10|3|IEM Season X - San Jose
+Hassan|0|5|15|1|Brand|Orianna|paiN vs FW|6|5|IEM Season X - San Jose
+Hassanhassell|9|3|17|0|Talon|Null|CLG vs FW|2|7|2015 IWCT - Turkey
+Hassett|8|6|18|1|Thresh|Null|CLG vs paiN|7|5|IEM Season X - Cologne
+Hassi|10|0|12|1|Ziggs|Null|FW vs KOO|6|4|2014 Season World Championship
+Hassiehassin|7|5|11|0|Skarner|Shaco|paiN vs CLG|4|9|Season 3 World Championship
+Hassler|6|10|5|1|Graves|Null|CLG vs KOO|5|7|Season 2 World Championship
+Hassock|9|9|0|0|Rumble|Shaco|paiN vs CLG|4|5|Season 1 World Championship
+Hasson|6|3|17|0|Shen|Null|FW vs KOO|2|7|2015 IWCT - Chile
+Hastate|3|6|4|1|Vel'Koz|Null|KOO vs paiN|3|3|IEM Season X - World Championship
+Haste|4|2|8|0|Leona|Null|FW vs paiN|4|7|IEM Season X - San Jose
+Hasten|0|8|14|0|Tryndamere|Annie|CLG vs paiN|1|2|IEM Season X - World Championship
+Hastie|10|9|0|0|Akali|Udyr|CLG vs paiN|10|4|Season 1 World Championship
+Hasty|2|0|17|1|Shyvana|Singed|FW vs KOO|3|5|Season 3 World Championship
+Hat|7|1|16|1|Ashe|Jinx|paiN vs FW|5|4|2015 IWCT - Chile
+Hatband|6|5|10|1|Leblanc|Null|TSM vs CLG|3|3|2015 IWCT - Turkey
+Hatbox|2|9|10|0|Rumble|Null|CLG vs paiN|8|9|IEM Season X - San Jose
+Hatch|10|1|4|1|Malphite|Karthus|CLG vs paiN|2|6|IEM Season X - Cologne
+Hatchel|9|3|6|1|Rumble|Syndra|FW vs KOO|4|6|IEM Season X - Cologne
+Hatcher|1|7|0|1|Lucian|Akali|FW vs CLG|8|5|Season 1 World Championship
+Hatchery|6|2|8|0|Udyr|Null|paiN vs KOO|7|10|2015 IWCT - Turkey
+Hatchet|3|10|1|0|Garen|Malphite|paiN vs KOO|7|8|IEM Season X - San Jose
+Hatchett|10|7|9|0|Gragas|Pantheon|paiN vs FW|3|10|2014 Season World Championship
+Hatching|6|7|5|0|Akali|Null|CLG vs KOO|5|3|IEM Season X - Cologne
+Hatchment|0|4|3|1|Katarina|Fiora|CLG vs paiN|6|4|2015 IWCT - Turkey
+Hatchway|5|2|6|1|Veigar|Evelynn|paiN vs KOO|6|10|2014 Season World Championship
+Hate|0|2|16|0|Tahm Kench|Malphite|FW vs KOO|10|10|Season 1 World Championship
+Hateful|5|0|8|1|Tahm Kench|Jhin|KOO vs CLG|4|7|IEM Season X - Cologne
+Hatfield|8|1|5|0|Alistar|Cassiopeia|paiN vs FW|5|7|2015 IWCT - Turkey
+Hath|0|8|8|1|Teemo|Null|CLG vs KOO|3|1|2014 Season World Championship
+Hathaway|5|0|19|1|Olaf|Jax|FW vs CLG|1|10|IEM Season X - World Championship
+Hathcock|1|2|0|0|Nami|Null|paiN vs KOO|6|1|Season 3 World Championship
+Hathor|8|9|12|0|Zac|Null|TSM vs CLG|7|9|Season 3 World Championship
+Hathorn|0|7|4|1|Volibear|Katarina|KOO vs paiN|5|10|Season 2 World Championship
+Hatley|3|3|5|1|Evelynn|Null|KOO vs paiN|2|1|2014 Season World Championship
+Hatpin|0|4|7|1|Ahri|Null|paiN vs CLG|4|4|IEM Season X - World Championship
+Hatred|9|0|13|1|Sion|Skarner|paiN vs FW|6|2|IEM Season X - San Jose
+Hatshepsut|1|4|15|1|Tristana|Syndra|paiN vs KOO|10|5|Season 2 World Championship
+Hatter|1|1|19|1|Fiora|Null|KOO vs FW|5|2|IEM Season X - Cologne
+Hatteras|4|4|2|0|Maokai|Swain|KOO vs CLG|4|8|Season 2 World Championship
+Hatti|8|5|6|1|Nidalee|Xerath|CLG vs KOO|7|10|IEM Season X - Cologne
+Hattie|5|5|14|0|Evelynn|Karma|KOO vs paiN|3|3|Season 1 World Championship
+Hattiehatton|8|1|14|1|Amumu|Master Yi|FW vs KOO|1|6|IEM Season X - Cologne
+Hau|8|6|17|0|Mordekaiser|Null|KOO vs FW|6|7|Season 2 World Championship
+Haubergeon|1|2|4|0|Taric|Null|KOO vs paiN|4|3|2015 IWCT - Chile
+Hauberk|0|0|12|0|Shaco|Gangplank|CLG vs KOO|3|5|Season 1 World Championship
+Hauck|2|0|15|1|Kassadin|Swain|KOO vs paiN|2|7|IEM Season X - Cologne
+Haug|5|4|10|1|Ziggs|Jhin|FW vs KOO|8|10|Season 2 World Championship
+Hauge|6|3|9|1|Jinx|Null|paiN vs CLG|5|4|2014 Season World Championship
+Haugen|1|4|11|0|Jax|Diana|CLG vs paiN|10|9|Season 1 World Championship
+Hauger|2|10|9|1|Brand|Kennen|CLG vs paiN|5|10|IEM Season X - Cologne
+Haugh|10|5|18|0|Alistar|Null|paiN vs KOO|4|10|2014 Season World Championship
+Haughay|2|2|5|1|Heimerdinger|Cassiopeia|FW vs KOO|8|2|2014 Season World Championship
+Haught|10|10|2|1|Bard|Wukong|FW vs CLG|9|9|2015 IWCT - Chile
+Haughty|5|1|11|1|Orianna|Null|paiN vs CLG|9|5|Season 1 World Championship
+Haukom|3|8|14|1|Jayce|Null|TSM vs CLG|7|6|Season 2 World Championship
+Haul|0|7|4|1|Skarner|Null|FW vs paiN|7|10|Season 1 World Championship
+Haulage|2|7|8|0|Jayce|Null|KOO vs FW|7|10|2015 IWCT - Turkey
+Hauler|3|6|4|1|Shyvana|Taric|KOO vs CLG|6|6|2015 IWCT - Chile
+Haulm|2|5|10|0|Veigar|Null|paiN vs CLG|7|10|IEM Season X - San Jose
+Haunch|4|2|14|0|Tryndamere|Sejuani|paiN vs FW|3|1|IEM Season X - Cologne
+Haunt|3|3|8|0|Trundle|Null|CLG vs KOO|10|6|Season 2 World Championship
+Haunting|6|2|9|1|Yorick|Null|CLG vs paiN|4|7|2014 Season World Championship
+Haupt|7|9|15|1|Morgana|Null|CLG vs FW|4|1|2015 IWCT - Chile
+Hauptmann|7|8|3|0|Skarner|Nunu|KOO vs paiN|7|3|2015 IWCT - Turkey
+Hausa|10|4|11|1|Jax|Null|FW vs paiN|4|7|2015 IWCT - Turkey
+Hauser|6|2|19|0|Kennen|Null|paiN vs KOO|5|4|IEM Season X - World Championship
+Hausmann|4|5|17|1|Warwick|Null|KOO vs FW|7|8|2015 IWCT - Chile
+Hausner|6|1|19|0|Orianna|Xin Zhao|paiN vs FW|10|10|2015 IWCT - Turkey
+Haustellum|0|0|0|0|Cassiopeia|Null|paiN vs FW|2|4|IEM Season X - San Jose
+Haustorium|3|3|5|0|Illaoi|Null|CLG vs paiN|7|9|IEM Season X - World Championship
+Hautboy|0|10|6|0|Veigar|Null|KOO vs FW|6|1|Season 3 World Championship
+Hautegaronne|1|5|5|1|Rammus|Null|FW vs paiN|1|6|IEM Season X - Cologne
+Hauteloire|5|5|12|0|Rumble|Gragas|paiN vs KOO|1|9|IEM Season X - World Championship
+Hautesalpes|1|0|5|1|Jinx|Lee Sin|KOO vs paiN|9|10|IEM Season X - San Jose
+Hautesavoie|8|1|10|0|Heimerdinger|Rengar|CLG vs KOO|9|3|2015 IWCT - Chile
+Hauteur|5|0|16|1|Udyr|Volibear|paiN vs KOO|2|1|Season 3 World Championship
+Hautevienne|7|10|1|0|Sona|Kayle|paiN vs FW|1|7|Season 1 World Championship
+Havard|10|4|6|0|Varus|Null|FW vs CLG|3|2|2015 IWCT - Chile
+Have|9|10|1|1|Heimerdinger|Vi|paiN vs CLG|10|5|Season 1 World Championship
+Havelock|9|7|6|0|Kalista|Elise|paiN vs KOO|7|5|2015 IWCT - Turkey
+Haveman|4|10|14|0|Orianna|Null|TSM vs CLG|7|2|Season 2 World Championship
+Haven|10|5|17|0|Shaco|Veigar|paiN vs KOO|1|5|IEM Season X - World Championship
+Havenot|8|0|7|1|Xin Zhao|Null|KOO vs FW|7|7|2015 IWCT - Turkey
+Havens|0|2|8|1|Pantheon|Null|FW vs KOO|3|6|Season 3 World Championship
+Haver|4|10|2|0|Xin Zhao|Kayle|KOO vs paiN|3|8|IEM Season X - San Jose
+Haversack|2|1|19|0|Nautilus|Null|KOO vs FW|8|1|IEM Season X - World Championship
+Haversine|6|2|7|0|Volibear|Null|CLG vs paiN|3|7|IEM Season X - Cologne
+Haviland|9|2|0|1|Dr. Mundo|Rumble|KOO vs paiN|8|8|IEM Season X - Cologne
+Havildar|10|9|5|1|Zilean|Null|paiN vs KOO|2|1|IEM Season X - World Championship
+Havoc|4|7|10|0|Gangplank|Null|KOO vs CLG|9|4|2015 IWCT - Turkey
+Havre|4|4|7|1|Nami|Null|FW vs CLG|6|2|2014 Season World Championship
+Haw|5|2|11|1|Vi|Pantheon|paiN vs FW|7|4|2015 IWCT - Turkey
+Hawaii|5|5|5|1|Jarvan Iv|Null|CLG vs FW|2|3|Season 2 World Championship
+Hawaiian|8|2|8|1|Nidalee|Rumble|FW vs CLG|2|9|2014 Season World Championship
+Hawes|0|7|11|0|Riven|Irelia|KOO vs CLG|3|1|2015 IWCT - Chile
+Hawfinch|6|0|13|0|Kalista|Null|KOO vs FW|7|1|IEM Season X - Cologne
+Hawger|9|0|18|0|Talon|Null|CLG vs paiN|7|4|2015 IWCT - Turkey
+Hawk|0|8|9|1|Zyra|Null|KOO vs FW|6|6|Season 1 World Championship
+Hawkbill|3|3|17|1|Malphite|Lee Sin|FW vs KOO|1|9|2015 IWCT - Chile
+Hawker|8|7|15|0|Zac|Null|paiN vs FW|7|5|IEM Season X - World Championship
+Hawkes|0|7|11|0|Kayle|Null|CLG vs FW|9|4|Season 2 World Championship
+Hawkeyed|10|1|0|0|Tryndamere|Rengar|CLG vs paiN|1|8|IEM Season X - Cologne
+Hawking|6|9|18|1|Maokai|Null|paiN vs FW|6|7|Season 3 World Championship
+Hawkins|4|8|9|1|Sion|Null|FW vs paiN|1|8|Season 1 World Championship
+Hawkinson|7|2|5|1|Soraka|Vel'Koz|CLG vs FW|8|5|Season 2 World Championship
+Hawks|7|9|5|1|Urgot|Vladimir|paiN vs CLG|4|1|2014 Season World Championship
+Hawkshaw|8|10|9|1|Sona|Wukong|FW vs CLG|4|9|2014 Season World Championship
+Hawkweed|6|9|14|1|Yorick|Null|KOO vs FW|7|3|Season 2 World Championship
+Hawley|9|6|0|1|Singed|Null|KOO vs CLG|2|8|Season 1 World Championship
+Hawn|7|6|0|1|Lissandra|Jax|paiN vs CLG|10|10|IEM Season X - World Championship
+Haworth|5|2|15|0|Jayce|Null|paiN vs KOO|5|8|IEM Season X - San Jose
+Haws|9|10|13|0|Zac|Null|paiN vs KOO|10|10|Season 1 World Championship
+Hawse|7|1|3|0|Taric|Null|KOO vs FW|2|3|2015 IWCT - Chile
+Hawsehole|1|8|4|0|Vel'Koz|Null|CLG vs FW|6|9|IEM Season X - San Jose
+Hawsepipe|5|2|1|1|Anivia|Null|KOO vs FW|2|1|2015 IWCT - Turkey
+Hawser|2|1|16|1|Tryndamere|Rumble|CLG vs KOO|2|1|IEM Season X - Cologne
+Hawserlaid|5|2|13|1|Thresh|Orianna|FW vs KOO|6|2|2015 IWCT - Turkey
+Hawthorne|3|9|18|0|Warwick|Ryze|TSM vs CLG|4|3|2014 Season World Championship
+Hax|3|8|17|0|Jinx|Vladimir|CLG vs KOO|5|2|2014 Season World Championship
+Hay|3|9|10|1|Nidalee|Kindred|KOO vs paiN|1|2|IEM Season X - World Championship
+Haya|7|9|13|0|Soraka|Riven|paiN vs FW|8|2|IEM Season X - San Jose
+Hayashi|7|8|20|0|Galio|Null|CLG vs FW|6|10|Season 1 World Championship
+Haycock|9|4|8|0|Yasuo|Anivia|KOO vs paiN|2|1|IEM Season X - World Championship
+Haydeehayden|6|3|0|1|Sion|Null|CLG vs paiN|9|3|IEM Season X - San Jose
+Hayden|5|4|10|0|Twisted Fate|Veigar|TSM vs CLG|4|5|2015 IWCT - Chile
+Haydenhaydn|2|6|2|0|Shaco|Urgot|KOO vs FW|8|6|IEM Season X - Cologne
+Haydon|3|9|9|1|Jinx|Bard|FW vs KOO|4|7|IEM Season X - World Championship
+Haye|5|10|14|1|Nasus|Talon|CLG vs FW|10|7|IEM Season X - Cologne
+Hayes|10|5|12|1|Draven|Null|KOO vs FW|7|10|Season 2 World Championship
+Hayfield|5|5|8|0|Rammus|Null|KOO vs paiN|7|9|Season 1 World Championship
+Hayfork|4|0|18|0|Alistar|Elise|paiN vs KOO|9|10|IEM Season X - San Jose
+Haygood|7|2|4|0|Cho'Gath|Null|CLG vs KOO|2|5|IEM Season X - San Jose
+Hayley|8|2|1|1|Ashe|Null|TSM vs CLG|1|1|Season 3 World Championship
+Hayleyhayloft|10|8|7|0|Udyr|Null|CLG vs KOO|1|1|2015 IWCT - Turkey
+Haymaker|4|7|12|0|Anivia|Swain|KOO vs paiN|2|10|Season 1 World Championship
+Hayman|5|0|14|0|Volibear|Lulu|FW vs CLG|8|8|Season 2 World Championship
+Haymes|4|7|9|0|Talon|Vladimir|KOO vs FW|3|1|2014 Season World Championship
+Haymo|9|10|10|0|Shaco|Null|FW vs CLG|7|9|IEM Season X - San Jose
+Haymow|0|3|14|1|Garen|Null|FW vs CLG|1|9|Season 2 World Championship
+Hayne|4|7|8|0|Hecarim|Null|KOO vs paiN|10|5|2014 Season World Championship
+Hayner|7|1|4|1|Skarner|Null|KOO vs CLG|1|3|Season 1 World Championship
+Haynes|6|1|18|1|Kennen|Null|paiN vs KOO|7|10|IEM Season X - Cologne
+Haynie|10|9|8|0|Tahm Kench|Ezreal|KOO vs paiN|2|7|Season 2 World Championship
+Haynor|5|5|16|0|Shen|Null|FW vs paiN|9|6|2014 Season World Championship
+Hayott|1|10|1|1|Tahm Kench|Null|CLG vs FW|3|4|Season 1 World Championship
+Hayrack|5|8|9|1|Quinn|Jayce|FW vs paiN|4|9|IEM Season X - San Jose
+Hayrick|2|9|5|0|Irelia|Graves|paiN vs FW|9|3|2015 IWCT - Chile
+Hays|1|6|1|1|Garen|Irelia|KOO vs paiN|1|1|2015 IWCT - Turkey
+Hayse|1|0|13|1|Blitzcrank|Null|TSM vs CLG|6|9|2014 Season World Championship
+Hayseed|6|8|10|1|Nasus|Thresh|CLG vs FW|8|10|Season 3 World Championship
+Haystack|1|4|16|0|Gragas|Null|FW vs CLG|9|9|Season 3 World Championship
+Hayton|7|5|11|1|Veigar|Kalista|TSM vs CLG|1|5|IEM Season X - World Championship
+Hayward|9|5|12|0|Nami|Null|CLG vs FW|6|9|Season 1 World Championship
+Haywire|4|2|5|0|Shyvana|Null|KOO vs paiN|1|5|IEM Season X - World Championship
+Haywoodhayyim|4|3|20|0|Rengar|Null|paiN vs KOO|8|1|IEM Season X - Cologne
+Hazaki|8|0|7|1|Rammus|Sona|CLG vs KOO|3|10|IEM Season X - Cologne
+Hazan|1|9|19|0|Illaoi|Orianna|FW vs paiN|10|6|IEM Season X - World Championship
+Hazard|6|2|2|0|Mordekaiser|Null|TSM vs CLG|8|4|Season 2 World Championship
+Hazardous|7|7|14|0|Kha'Zix|Lissandra|paiN vs CLG|2|6|2014 Season World Championship
+Haze|7|2|20|0|Kog'Maw|Ryze|paiN vs FW|7|1|Season 3 World Championship
+Hazeghi|0|4|15|0|Lissandra|Skarner|FW vs paiN|3|2|Season 1 World Championship
+Hazel|0|9|11|0|Vel'Koz|Jax|FW vs KOO|9|8|2015 IWCT - Chile
+Hazelhazelnut|2|10|15|0|Vladimir|Null|FW vs paiN|10|8|IEM Season X - Cologne
+Hazelwood|0|8|7|1|Kindred|Null|CLG vs FW|8|6|Season 1 World Championship
+Hazem|9|2|17|1|Ezreal|Viktor|FW vs paiN|2|1|Season 3 World Championship
+Hazen|9|8|10|1|Vladimir|Null|CLG vs KOO|4|10|2015 IWCT - Chile
+Hazing|7|3|3|1|Jhin|Null|paiN vs FW|5|5|2015 IWCT - Chile
+Hazlip|5|3|10|1|Leona|Null|CLG vs FW|4|4|2014 Season World Championship
+Hazlitt|7|9|15|0|Azir|Swain|FW vs paiN|1|7|2015 IWCT - Turkey
+Hazy|3|7|10|1|Xerath|Null|CLG vs FW|4|2|2014 Season World Championship
+Hazzard|0|4|11|1|Garen|Null|FW vs KOO|1|2|Season 2 World Championship
+Hb|6|0|9|0|Darius|Braum|FW vs KOO|4|5|IEM Season X - San Jose
+Hbeam|8|8|19|0|Jarvan Iv|Null|TSM vs CLG|4|10|Season 3 World Championship
+He|1|1|1|1|Garen|Kassadin|TSM vs CLG|8|5|IEM Season X - Cologne
+Head|9|4|8|1|Fiddlesticks|Null|FW vs KOO|8|1|Season 2 World Championship
+Headachy|5|5|15|0|Lulu|Null|KOO vs CLG|9|3|2014 Season World Championship
+Headband|7|8|8|0|Kog'Maw|Null|CLG vs paiN|2|5|IEM Season X - Cologne
+Headboard|1|9|6|1|Morgana|Null|KOO vs paiN|3|6|Season 2 World Championship
+Headcheese|9|8|18|0|Alistar|Null|CLG vs paiN|9|1|Season 1 World Championship
+Headcloth|10|3|13|0|Jinx|Teemo|TSM vs CLG|3|4|IEM Season X - World Championship
+Headdress|4|3|13|1|Viktor|Null|CLG vs FW|2|3|2015 IWCT - Chile
+Headed|6|3|3|0|Evelynn|Viktor|KOO vs FW|6|6|IEM Season X - World Championship
+Header|10|1|16|1|Jinx|Null|FW vs paiN|8|7|2014 Season World Championship
+Headfirst|4|1|8|0|Karma|Cassiopeia|CLG vs FW|10|2|2014 Season World Championship
+Headforemost|1|3|5|1|Poppy|Null|CLG vs paiN|6|9|IEM Season X - San Jose
+Headgear|2|6|6|0|Zyra|Orianna|FW vs CLG|4|5|Season 3 World Championship
+Heading|10|3|18|0|Soraka|Null|KOO vs FW|2|2|IEM Season X - World Championship
+Headland|6|5|19|0|Nunu|Taric|KOO vs CLG|9|1|2015 IWCT - Turkey
+Headless|0|5|3|1|Syndra|Nami|FW vs KOO|10|10|Season 3 World Championship
+Headley|5|8|5|1|Tristana|Warwick|paiN vs CLG|1|1|2015 IWCT - Chile
+Headline|9|6|16|0|Nocturne|Karthus|FW vs paiN|5|7|Season 2 World Championship
+Headlock|10|3|10|1|Sona|Null|KOO vs paiN|7|2|2015 IWCT - Chile
+Headlong|1|4|15|0|Poppy|Null|CLG vs paiN|3|10|IEM Season X - Cologne
+Headman|9|2|4|0|Twitch|Null|CLG vs KOO|8|9|IEM Season X - San Jose
+Headmaster|2|5|18|0|Graves|Brand|FW vs paiN|6|7|Season 1 World Championship
+Headmistress|4|8|7|1|Fiora|Karthus|KOO vs CLG|1|8|2014 Season World Championship
+Headon|5|7|2|0|Evelynn|Ahri|KOO vs FW|10|10|Season 2 World Championship
+Headphone|8|6|18|0|Kalista|Nocturne|CLG vs KOO|1|8|2015 IWCT - Chile
+Headpiece|9|5|6|1|Jayce|Null|KOO vs paiN|3|4|Season 3 World Championship
+Headpin|10|3|17|1|Thresh|Null|paiN vs KOO|10|2|2015 IWCT - Chile
+Headquarters|6|6|18|1|Sivir|Rammus|CLG vs FW|4|8|IEM Season X - World Championship
+Headrace|1|5|12|0|Bard|Null|FW vs paiN|1|9|2014 Season World Championship
+Headreach|4|3|4|1|Yasuo|Rammus|FW vs KOO|9|7|2014 Season World Championship
+Headrest|4|0|15|1|Jhin|Null|FW vs CLG|3|6|IEM Season X - World Championship
+Headroom|5|6|16|1|Quinn|Galio|paiN vs KOO|10|2|Season 2 World Championship
+Heads|7|0|3|0|Zyra|Null|CLG vs paiN|6|5|2015 IWCT - Turkey
+Headship|3|1|9|0|Irelia|Null|CLG vs FW|9|3|IEM Season X - San Jose
+Headsman|9|8|3|1|Fiora|Kayle|FW vs KOO|3|2|IEM Season X - San Jose
+Headspring|1|3|3|0|Anivia|Pantheon|FW vs paiN|10|9|Season 2 World Championship
+Headstand|4|5|1|1|Orianna|Janna|CLG vs FW|7|9|2015 IWCT - Chile
+Headstock|1|2|8|1|Shyvana|Ekko|paiN vs KOO|4|7|Season 2 World Championship
+Headstone|8|9|17|1|Ziggs|Null|CLG vs KOO|1|6|2015 IWCT - Chile
+Headstrong|3|1|0|1|Volibear|Null|paiN vs FW|4|7|2015 IWCT - Turkey
+Headwaiter|7|10|6|0|Ziggs|Null|FW vs KOO|3|5|2014 Season World Championship
+Headward|7|9|5|0|Riven|Sona|paiN vs KOO|9|2|IEM Season X - Cologne
+Headwater|5|2|10|0|Fizz|Null|paiN vs FW|2|5|IEM Season X - San Jose
+Headwaters|9|4|3|0|Vi|Xerath|paiN vs FW|4|5|Season 2 World Championship
+Headway|0|1|2|0|Xerath|Hecarim|paiN vs CLG|8|1|IEM Season X - World Championship
+Headwind|6|10|15|0|Kassadin|Kha'Zix|CLG vs paiN|6|10|Season 2 World Championship
+Headwork|8|10|17|0|Graves|Nocturne|paiN vs KOO|4|7|IEM Season X - Cologne
+Heal|7|5|15|1|Vel'Koz|Illaoi|paiN vs CLG|7|7|IEM Season X - World Championship
+Healall|6|10|0|0|Nautilus|Ashe|paiN vs CLG|1|3|IEM Season X - World Championship
+Heald|9|4|11|1|Morgana|Null|CLG vs FW|1|3|Season 1 World Championship
+Healey|2|9|5|1|Kindred|Null|CLG vs KOO|9|5|2014 Season World Championship
+Healing|5|10|19|1|Jax|Jax|CLG vs FW|8|8|2015 IWCT - Turkey
+Healion|9|10|4|0|Janna|Swain|FW vs paiN|1|3|2014 Season World Championship
+Heall|2|0|17|0|Morgana|Thresh|paiN vs CLG|9|8|2015 IWCT - Chile
+Health|0|8|5|0|Nunu|Morgana|CLG vs FW|8|3|2015 IWCT - Turkey
+Healthful|5|3|11|1|Zac|Ashe|paiN vs KOO|4|9|2015 IWCT - Chile
+Healthy|4|9|20|0|Fiora|Null|KOO vs CLG|3|3|IEM Season X - San Jose
+Healy|9|5|9|1|Singed|Null|paiN vs FW|5|9|Season 2 World Championship
+Heaney|1|0|5|1|Sona|Poppy|paiN vs KOO|4|2|IEM Season X - Cologne
+Heap|8|5|2|0|Lissandra|Null|paiN vs CLG|3|10|IEM Season X - Cologne
+Heaps|3|4|8|1|Vladimir|Null|FW vs paiN|1|1|Season 2 World Championship
+Hear|8|10|14|0|Jax|Galio|KOO vs CLG|10|4|2014 Season World Championship
+Hearing|2|3|6|1|Jayce|Tahm Kench|paiN vs FW|6|6|Season 2 World Championship
+Hearken|2|5|16|0|Yorick|Rengar|paiN vs KOO|7|6|IEM Season X - Cologne
+Hearn|5|0|19|1|Miss Fortune|Trundle|paiN vs KOO|3|8|2015 IWCT - Chile
+Hearne|7|7|11|0|Tryndamere|Null|KOO vs CLG|10|9|Season 1 World Championship
+Hearsay|3|6|10|1|Singed|Null|KOO vs CLG|3|3|Season 1 World Championship
+Hearse|5|8|18|0|Bard|Aatrox|CLG vs FW|4|7|2015 IWCT - Chile
+Hearst|8|2|19|0|Trundle|Null|KOO vs paiN|8|3|Season 1 World Championship
+Heart|4|0|10|1|Janna|Rammus|TSM vs CLG|1|1|2015 IWCT - Chile
+Heartache|4|7|4|1|Fiora|Akali|paiN vs KOO|8|4|2014 Season World Championship
+Heartbreaker|3|4|2|1|Tryndamere|Null|KOO vs FW|3|2|Season 3 World Championship
+Heartbreaking|0|1|6|0|Jarvan Iv|Null|FW vs KOO|8|2|IEM Season X - World Championship
+Heartbroken|7|7|12|0|Caitlyn|Null|KOO vs CLG|7|6|2014 Season World Championship
+Heartburning|10|2|20|0|Kassadin|Tryndamere|paiN vs FW|5|8|IEM Season X - Cologne
+Heartfelt|4|1|17|0|Sivir|Gangplank|FW vs KOO|6|3|Season 2 World Championship
+Hearth|0|5|15|1|Taric|Null|TSM vs CLG|5|5|Season 1 World Championship
+Hearthside|2|10|2|1|Jayce|Null|CLG vs FW|2|5|2015 IWCT - Turkey
+Hearthstone|6|10|19|0|Yorick|Null|KOO vs CLG|9|2|2015 IWCT - Turkey
+Heartily|1|0|2|0|Nasus|Null|paiN vs FW|8|7|Season 1 World Championship
+Heartland|2|9|13|0|Pantheon|Null|paiN vs CLG|10|4|Season 3 World Championship
+Heartrending|6|8|10|1|Jayce|Null|TSM vs CLG|9|6|IEM Season X - San Jose
+Heartsease|5|0|9|0|Aurelion Sol|Nocturne|FW vs paiN|3|7|2015 IWCT - Turkey
+Heartsick|4|4|7|0|Tristana|Null|FW vs CLG|3|2|2015 IWCT - Turkey
+Heartstricken|6|7|19|0|Aatrox|Null|paiN vs FW|8|1|Season 2 World Championship
+Heartstrings|9|5|17|0|Shyvana|Sion|TSM vs CLG|7|3|Season 3 World Championship
+Heartthrob|9|10|14|1|Vladimir|Null|FW vs KOO|5|5|IEM Season X - Cologne
+Hearttoheart|5|3|9|0|Talon|Null|KOO vs CLG|7|5|Season 3 World Championship
+Heartwarming|1|0|13|1|Nasus|Cassiopeia|FW vs KOO|5|4|Season 3 World Championship
+Heartwhole|7|3|9|0|Tristana|Null|FW vs CLG|2|7|Season 1 World Championship
+Heartworm|4|4|18|0|Sejuani|Poppy|FW vs CLG|9|8|Season 3 World Championship
+Hearty|6|7|3|0|Nasus|Taric|FW vs KOO|3|9|2014 Season World Championship
+Heat|1|2|20|1|Heimerdinger|Galio|paiN vs CLG|9|9|IEM Season X - Cologne
+Heated|10|2|18|0|Varus|Jarvan Iv|paiN vs KOO|1|7|2014 Season World Championship
+Heater|4|9|8|1|Malphite|Null|FW vs KOO|5|9|Season 2 World Championship
+Heath|7|6|7|0|Kayle|Null|CLG vs FW|6|4|Season 2 World Championship
+Heathen|7|3|16|0|Maokai|Leona|KOO vs paiN|6|6|Season 1 World Championship
+Heathendom|8|9|13|1|Poppy|Null|paiN vs FW|4|8|Season 2 World Championship
+Heathenize|1|8|19|1|Soraka|Evelynn|FW vs KOO|1|10|Season 1 World Championship
+Heathenry|2|7|14|0|Darius|Miss Fortune|CLG vs FW|7|9|IEM Season X - World Championship
+Heather|7|2|13|0|Heimerdinger|Leona|paiN vs FW|4|4|2015 IWCT - Turkey
+Heatherheatherly|1|5|11|0|Fiora|Null|CLG vs paiN|7|1|Season 3 World Championship
+Heaton|9|6|3|1|Renekton|Fiora|CLG vs FW|4|8|Season 1 World Championship
+Heatstroke|0|2|10|0|Jarvan Iv|Null|FW vs KOO|9|2|IEM Season X - World Championship
+Heaume|6|3|15|0|Swain|Karthus|CLG vs FW|2|10|2014 Season World Championship
+Heaveho|1|4|6|1|Nunu|Null|TSM vs CLG|9|4|IEM Season X - Cologne
+Heaven|4|5|16|1|Amumu|Null|KOO vs paiN|10|9|2015 IWCT - Chile
+Heavenly|1|1|14|0|Singed|Jarvan Iv|paiN vs KOO|1|3|Season 3 World Championship
+Heavensent|8|1|12|0|Janna|Null|CLG vs KOO|1|7|2014 Season World Championship
+Heavenward|8|4|15|0|Urgot|Thresh|KOO vs CLG|2|9|2015 IWCT - Chile
+Heaver|0|8|14|0|Amumu|Lee Sin|FW vs paiN|9|10|Season 3 World Championship
+Heaves|5|8|2|1|Shyvana|Xin Zhao|paiN vs FW|9|1|IEM Season X - World Championship
+Heavierthanair|9|10|5|1|Elise|Jax|KOO vs FW|8|3|Season 3 World Championship
+Heavily|8|3|0|1|Morgana|Zyra|KOO vs paiN|3|5|Season 3 World Championship
+Heaviness|10|9|5|0|Tahm Kench|Gragas|TSM vs CLG|9|7|Season 2 World Championship
+Heaviside|4|2|15|1|Sona|Morgana|FW vs paiN|5|1|IEM Season X - World Championship
+Heavy|6|9|18|1|Akali|Ashe|CLG vs KOO|9|9|Season 1 World Championship
+Heavyarmed|3|9|8|1|Zyra|Null|CLG vs FW|1|3|IEM Season X - Cologne
+Heavyduty|10|0|9|1|Jayce|Quinn|KOO vs paiN|2|10|IEM Season X - San Jose
+Heavyset|4|1|8|0|Rumble|Ashe|KOO vs paiN|6|4|Season 2 World Championship
+Heavyweight|10|4|19|1|Singed|Null|CLG vs FW|5|9|Season 3 World Championship
+Hebbe|7|1|0|0|Cho'Gath|Null|paiN vs CLG|6|10|Season 2 World Championship
+Hebbel|5|5|12|0|Lee Sin|Null|FW vs KOO|1|9|IEM Season X - Cologne
+Hebdomad|7|4|10|1|Heimerdinger|Null|FW vs paiN|9|6|IEM Season X - World Championship
+Hebdomadal|0|8|9|0|Ezreal|Null|paiN vs FW|6|6|IEM Season X - Cologne
+Hebe|1|3|7|0|Vayne|Irelia|KOO vs FW|6|3|Season 2 World Championship
+Hebel|8|5|0|1|Zilean|Null|KOO vs paiN|10|4|IEM Season X - Cologne
+Hebephrenia|1|6|5|0|Twisted Fate|Null|FW vs paiN|2|9|Season 3 World Championship
+Heber|10|6|18|0|Gangplank|Null|KOO vs paiN|2|1|IEM Season X - San Jose
+Hebert|0|2|19|1|Soraka|Renekton|CLG vs FW|1|8|2015 IWCT - Chile
+Hebetate|0|1|9|1|Yorick|Cassiopeia|TSM vs CLG|1|7|IEM Season X - Cologne
+Hebetic|10|7|17|0|Brand|Null|FW vs CLG|5|9|IEM Season X - Cologne
+Hebetude|10|4|10|1|Annie|Twitch|FW vs KOO|3|5|Season 2 World Championship
+Hebner|3|7|12|0|Fiora|Null|paiN vs FW|6|7|IEM Season X - Cologne
+Hebraic|5|0|4|1|Ashe|Graves|KOO vs paiN|6|1|Season 1 World Championship
+Hebraism|8|8|19|0|Xin Zhao|Null|CLG vs paiN|2|2|Season 1 World Championship
+Hebraist|5|7|2|0|Gragas|Graves|TSM vs CLG|5|1|2015 IWCT - Turkey
+Hebrew|2|2|12|0|Corki|Null|KOO vs paiN|2|2|2015 IWCT - Turkey
+Hebrews|7|1|15|0|Viktor|Null|KOO vs paiN|7|4|IEM Season X - San Jose
+Hebrides|2|6|16|1|Bard|Vi|FW vs paiN|9|10|2015 IWCT - Chile
+Hebron|10|0|9|1|Malzahar|Null|paiN vs FW|3|10|Season 1 World Championship
+Hecate|10|5|16|1|Renekton|Kennen|FW vs CLG|4|3|IEM Season X - San Jose
+Hecatomb|10|10|15|1|Zed|Null|FW vs KOO|5|7|IEM Season X - World Championship

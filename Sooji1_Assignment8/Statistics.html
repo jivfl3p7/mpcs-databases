@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<title>Sooji Yi</title>
+</head>
+
+<body>
+
+<table width="100%" border = "0"
+<tr>
+	<td colspan = "2" bgcolor = "#800000">
+		<h1 style="font-family:verdana; color:#FFFFFF;"> Statistics </h1>
+	</td>
+</tr>
+<tr valign="top">
+	<td bgcolor="#aaa" width="50">
+		<b> Links </b><br />
+<p>
+Get tournament information below:<br>
+<a href="list_gametables.php">Tournament Information</a>
+<hr>
+</p>
+
+<p>
+See the teams with the most game wins:<br>
+<a href="list_topplayers.php">Top Teams By Game Wins</a>
+<hr>
+</p>
+
+<b>All players who play the various positions below:</b>
+<p>
+<a href="list_mid.php">Players: MID</a>
+</p>
+
+<p>
+<a href="list_top.php">Players: TOP</a>
+</p>
+
+<p>
+<a href="list_jungler.php">Players: JUNGLE</a>
+</p>
+
+<p>
+<a href="list_adc.php">Players: ADC</a>
+</p>
+
+<p>
+<a href="list_support.php">Players: SUPP</a>
+</p>
+
+<p>
+<a href="list_sub.php">Players: SUBS</a>
+<hr>
+</p>
+
+<p>
+Players who have died 0 times and their team name.<br>
+<a href="list_zerodeath.php">Zero Death Club</a>
+<hr>
+</p>
+
+<p>
+Popularity of champions in games:<br>
+<a href="list_topchamps.php">Champion Picks</a>
+<hr>
+</p>
+</td>
+
+<td bgcolor = "#eee" width = "100" height = "200">
+	<b>Forms</b> <br /><br />
+
+<form method=get action="list_attrs.php">
+Gives information about a player.<br>
+<b>Enter player name:</b><br>
+<input type="text" name="user"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="list_team.php">
+Gives information about a team.<br>
+<b>Enter team name:</b><br>
+<input type="text" name="user"><BR>
+<input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<form method=get action="list_teamgame.php">
+Lists all the games a team has played.<br>
+<b>Enter team name:</b><br>
+<input type="text" name="user"><BR>
+<input type="submit" value="Submit">
+</form>
+</td>
+
+</table>
+
+</body>
+</html>
